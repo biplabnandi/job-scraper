@@ -26,7 +26,7 @@ def main():
         
         try:
             jobs = scrape_jobs(
-                site_name=["linkedin", "indeed", "glassdoor", "zip_recruiter", "google"],
+                site_name=["linkedin", "google"],
                 search_term=search_term,
                 location=location,
                 results_wanted=results_per_company,
