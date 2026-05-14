@@ -8,6 +8,10 @@ on:
     - cron: '30 11 * * *' # 5:00 PM IST (11:30 UTC)
   workflow_dispatch: # Allow manual trigger
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
