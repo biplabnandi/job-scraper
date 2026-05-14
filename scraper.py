@@ -3,6 +3,8 @@ import pandas as pd
 from jobspy import scrape_jobs
 from datetime import datetime
 import os
+import time
+import random
 
 def load_config():
     with open('config.json', 'r', encoding='utf-8') as f:
@@ -24,7 +26,7 @@ def main():
         
         try:
             jobs = scrape_jobs(
-                site_name=["linkedin", "indeed", "glassdoor", "zip_recruiter"],
+                site_name=["linkedin", "indeed", "glassdoor", "zip_recruiter", "google"],
                 search_term=search_term,
                 location=location,
                 results_wanted=results_per_company,
@@ -34,7 +36,6 @@ def main():
             
             if not jobs.empty:
                 # Filter results to make sure the company name matches reasonably well
-                # Sometimes job boards return jobs for different companies if keyword is mentioned
                 filtered_jobs = jobs[jobs['company'].str.lower().str.contains(company.lower(), na=False)]
                 all_jobs.append(filtered_jobs)
                 print(f"Found {len(filtered_jobs)} matching jobs for {company}.")
@@ -43,6 +44,11 @@ def main():
                 
         except Exception as e:
             print(f"Error scraping for {company}: {e}")
+            
+        # Add a random delay to prevent rate-limiting/blocking from job boards
+        delay = random.uniform(2.5, 5.0)
+        print(f"Sleeping for {delay:.1f} seconds to avoid rate limits...")
+        time.sleep(delay)
 
     if not all_jobs:
         print("No jobs found across all companies.")
