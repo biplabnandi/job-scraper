@@ -1,5 +1,11 @@
 # Job Scraper Report
-*Generated on: 2026-05-15 07:55:37*
+*Generated on: 2026-05-15 13:28:02*
+
+## Adobe - Bengaluru East, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-11 | Business Development Representative | [Apply](https://www.linkedin.com/jobs/view/4403633445) |
+| 2026-04-29 | Solutions Architect | [Apply](https://www.linkedin.com/jobs/view/4386838909) |
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -7,42 +13,50 @@
 | 2026-05-06 | Product Sales Specialist | [Apply](https://www.linkedin.com/jobs/view/4389554859) |
 | 2026-04-24 | Manager Inside Sales | [Apply](https://www.linkedin.com/jobs/view/4272846817) |
 
-## American Express Global Business Travel - Hyderabad, Telangana, India
+## Amazon - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-13 | Team Coach | [Apply](https://www.linkedin.com/jobs/view/4410633849) |
+| 2026-05-09 | Salesforce Developer I, Sales Technology, Amazon Advertising, Amazon Advertising, Sales and Partner Enablement | [Apply](https://www.linkedin.com/jobs/view/4412470264) |
+| 2026-05-02 | Salesforce Developer, Sales Technology, Amazon Advertising | [Apply](https://www.linkedin.com/jobs/view/4388102011) |
+| 2026-05-01 | Salesforce Developer- II, Ads Tech | [Apply](https://www.linkedin.com/jobs/view/4400247530) |
+
+## Amazon - Gurugram, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-04 | Salesforce Developer, Hub Tech Tooling | [Apply](https://www.linkedin.com/jobs/view/4410047182) |
+
+## Amazon - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-07 | Salesforce Developer, DSP Tech, Last Mile | [Apply](https://www.linkedin.com/jobs/view/4411490972) |
+| 2026-05-04 | Salesforce Developer, Hub Tech Tooling | [Apply](https://www.linkedin.com/jobs/view/4410049194) |
+| 2026-05-02 | System Development Engineer, Salesforce & AWS Developer, Amazon Shipping | [Apply](https://www.linkedin.com/jobs/view/4409589398) |
 
 ## Cisco - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-11 | Solutions Engineer | [Apply](https://www.linkedin.com/jobs/view/4404062892) |
 
-## GoTo - Bengaluru, Karnataka, India
+## Datadog - Bangalore Urban, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Manager, Salesforce Engineering | [Apply](https://www.linkedin.com/jobs/view/4414659392) |
-| Unknown | UX Designer | [Apply](https://www.linkedin.com/jobs/view/4414672039) |
-
-## GoTo - Itanagar, Arunachal Pradesh, India
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | Salesfroce Administrator | [Apply](https://www.linkedin.com/jobs/view/4414652940) |
+| 2026-04-29 | Manager, Sales Development | [Apply](https://www.linkedin.com/jobs/view/4398994822) |
 
 ## Google - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-07 | Senior Security Architect, Mandiant, Google Cloud (English) | [Apply](https://www.linkedin.com/jobs/view/4410479688) |
 
-## IBM - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-11 | Package Consultant-Sales & Service | [Apply](https://www.linkedin.com/jobs/view/4412721787) |
-| 2026-05-09 | Package Consultant-Salesforce | [Apply](https://www.linkedin.com/jobs/view/4380262059) |
-
 ## Intel - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-01 | Solution Architect - Telco | [Apply](https://www.linkedin.com/jobs/view/4386888014) |
+
+## Meta - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-10 | Enterprise Technical Sales Manager, APAC | [Apply](https://www.linkedin.com/jobs/view/4394068584) |
+| 2026-05-08 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4390559747) |
 
 ## MongoDB - 
 | Date | Job Title | Link |
@@ -53,6 +67,11 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-04-27 | Senior Account Executive, Enterprise Sales(Expansion) | [Apply](https://www.linkedin.com/jobs/view/4407160973) |
+
+## Okta for Developers - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-03-22 | Area Sales Director(Okta India) | [Apply](https://www.linkedin.com/jobs/view/4389203003) |
 
 ## Palo Alto Networks - 
 | Date | Job Title | Link |
@@ -68,12 +87,6 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-04 | Sales Operations Analyst (Remote - Night Shifts) | [Apply](https://www.linkedin.com/jobs/view/4410086523) |
-
-## Salesforce - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4414902121) |
-| Unknown | Business Development Representative | [Apply](https://www.linkedin.com/jobs/view/4414698191) |
 
 ## Twilio - 
 | Date | Job Title | Link |
