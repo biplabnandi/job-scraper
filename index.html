@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Jobs Radar</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --text-color: #f8fafc;
+            --card-bg: rgba(30, 41, 59, 0.6);
+            --border-color: rgba(255, 255, 255, 0.1);
+            --accent-start: #3b82f6;
+            --accent-end: #8b5cf6;
+            --hover-bg: rgba(255, 255, 255, 0.03);
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            background-image: 
+                radial-gradient(circle at 15% 50%, rgba(59, 130, 246, 0.15), transparent 25%),
+                radial-gradient(circle at 85% 30%, rgba(139, 92, 246, 0.15), transparent 25%);
+            background-attachment: fixed;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 3rem 1.5rem;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 4rem;
+            animation: fadeInDown 0.8s ease-out;
+        }
+
+        h1 {
+            font-size: 3.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            letter-spacing: -0.02em;
+            background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            display: inline-block;
+        }
+
+        .meta-info {
+            color: #94a3b8;
+            font-size: 1rem;
+            font-weight: 400;
+            letter-spacing: 0.05em;
+        }
+
+        #content {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+            gap: 2rem;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border-radius: 20px;
+            padding: 1.5rem;
+            border: 1px solid var(--border-color);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.3);
+            display: flex;
+            flex-direction: column;
+            transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.4);
+            border-color: rgba(255, 255, 255, 0.2);
+        }
+
+        .card h2 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-top: 0;
+            margin-bottom: 1.25rem;
+            padding-bottom: 1rem;
+            border-bottom: 1px solid var(--border-color);
+            color: #f1f5f9;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .card h2::before {
+            content: '';
+            display: block;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+        }
+
+        .table-container {
+            overflow-x: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 0;
+        }
+
+        th, td {
+            padding: 0.875rem 1rem;
+            text-align: left;
+            font-size: 0.9rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        th {
+            font-weight: 500;
+            color: #94a3b8;
+            text-transform: uppercase;
+            font-size: 0.75rem;
+            letter-spacing: 0.05em;
+        }
+
+        tr:last-child td {
+            border-bottom: none;
+        }
+
+        tr {
+            transition: background-color 0.2s ease;
+        }
+
+        tr:hover td {
+            background-color: var(--hover-bg);
+        }
+
+        td:first-child {
+            color: #cbd5e1;
+            white-space: nowrap;
+        }
+
+        td:nth-child(2) {
+            font-weight: 500;
+            color: #f8fafc;
+            line-height: 1.4;
+        }
+
+        a {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 0.4rem 1.2rem;
+            background: rgba(59, 130, 246, 0.1);
+            color: #60a5fa;
+            text-decoration: none;
+            border-radius: 9999px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            border: 1px solid rgba(59, 130, 246, 0.2);
+            transition: all 0.2s ease;
+        }
+
+        a:hover {
+            background: linear-gradient(135deg, var(--accent-start), var(--accent-end));
+            color: white;
+            border-color: transparent;
+            transform: scale(1.05);
+        }
+
+        .loading, .error {
+            grid-column: 1 / -1;
+            text-align: center;
+            font-size: 1.2rem;
+            color: #94a3b8;
+            padding: 4rem;
+            background: var(--card-bg);
+            border-radius: 20px;
+            border: 1px solid var(--border-color);
+        }
+
+        .error {
+            color: #ef4444;
+            border-color: rgba(239, 68, 68, 0.2);
+            background: rgba(239, 68, 68, 0.05);
+        }
+
+        @keyframes fadeInDown {
+            from { opacity: 0; transform: translateY(-30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        @media (max-width: 768px) {
+            h1 { font-size: 2.5rem; }
+            #content { grid-template-columns: 1fr; }
+            .container { padding: 2rem 1rem; }
+        }
+
+        /* Custom scrollbar */
+        ::-webkit-scrollbar { width: 8px; height: 8px; }
+        ::-webkit-scrollbar-track { background: var(--bg-color); }
+        ::-webkit-scrollbar-thumb { background: #334155; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #475569; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Tech Jobs Radar</h1>
+            <div id="meta" class="meta-info">Initializing radar...</div>
+        </header>
+        <div id="content">
+            <div class="loading">Scanning for latest opportunities...</div>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            fetch('jobs_report.md')
+                .then(response => {
+                    if (!response.ok) throw new Error('Network response was not ok');
+                    return response.text();
+                })
+                .then(text => {
+                    // Extract meta info
+                    const dateMatch = text.match(/\*Generated on: (.*?)\*/);
+                    if (dateMatch) {
+                        document.getElementById('meta').textContent = `Last updated: ${dateMatch[1]} (IST)`;
+                    } else {
+                        document.getElementById('meta').textContent = 'Live tracking active';
+                    }
+
+                    // Clean text
+                    let cleanText = text.replace(/# Job Scraper Report\n/g, '')
+                                        .replace(/\*Generated on: .*?\*\n/g, '');
+
+                    // Parse to HTML
+                    const htmlContent = marked.parse(cleanText);
+                    const tempDiv = document.createElement('div');
+                    tempDiv.innerHTML = htmlContent;
+
+                    const contentDiv = document.getElementById('content');
+                    contentDiv.innerHTML = '';
+
+                    let currentCard = null;
+                    let currentTableContainer = null;
+
+                    Array.from(tempDiv.children).forEach(child => {
+                        if (child.tagName === 'H2') {
+                            currentCard = document.createElement('div');
+                            currentCard.className = 'card';
+                            currentCard.appendChild(child.cloneNode(true));
+                            contentDiv.appendChild(currentCard);
+                        } else if (currentCard) {
+                            if (child.tagName === 'TABLE') {
+                                currentTableContainer = document.createElement('div');
+                                currentTableContainer.className = 'table-container';
+                                currentTableContainer.appendChild(child.cloneNode(true));
+                                currentCard.appendChild(currentTableContainer);
+                            } else {
+                                currentCard.appendChild(child.cloneNode(true));
+                            }
+                        }
+                    });
+
+                    // Add target blank to links and format cell content if needed
+                    document.querySelectorAll('a').forEach(link => {
+                        link.setAttribute('target', '_blank');
+                        link.setAttribute('rel', 'noopener noreferrer');
+                        if(link.textContent === 'Apply') {
+                            link.innerHTML = 'Apply <span>→</span>';
+                        }
+                    });
+                    
+                    // Add empty state if no cards were generated
+                    if(contentDiv.children.length === 0) {
+                        contentDiv.innerHTML = '<div class="loading">No jobs found in the latest scan.</div>';
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching jobs:', error);
+                    document.getElementById('content').innerHTML = `
+                        <div class="error">
+                            <h3>Radar Offline</h3>
+                            <p>Unable to load the latest jobs report. Please ensure the scraper has run successfully.</p>
+                        </div>
+                    `;
+                });
+        });
+    </script>
+</body>
+</html>
