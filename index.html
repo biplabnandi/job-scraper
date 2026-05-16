@@ -60,6 +60,52 @@
             letter-spacing: 0.05em;
         }
 
+        .search-container {
+            margin-bottom: 3rem;
+            display: flex;
+            justify-content: center;
+            animation: fadeInDown 0.8s ease-out;
+        }
+
+        .search-input {
+            width: 100%;
+            max-width: 600px;
+            padding: 1rem 1.5rem;
+            border-radius: 9999px;
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            color: var(--text-color);
+            font-size: 1rem;
+            font-family: inherit;
+            outline: none;
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+        }
+
+        .search-input:focus {
+            border-color: var(--accent-start);
+            box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.3), 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            background: rgba(30, 41, 59, 0.8);
+        }
+        
+        .search-input::placeholder {
+            color: #94a3b8;
+        }
+
+        .no-results {
+            grid-column: 1 / -1;
+            text-align: center;
+            font-size: 1.2rem;
+            color: #94a3b8;
+            padding: 4rem;
+            background: var(--card-bg);
+            border-radius: 20px;
+            border: 1px solid var(--border-color);
+            display: none;
+        }
+
         #content {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
@@ -224,6 +270,9 @@
             <h1>Tech Jobs Radar</h1>
             <div id="meta" class="meta-info">Initializing radar...</div>
         </header>
+        <div class="search-container">
+            <input type="text" id="searchInput" class="search-input" placeholder="Search by job title, company, or date...">
+        </div>
         <div id="content">
             <div class="loading">Scanning for latest opportunities...</div>
         </div>
@@ -290,6 +339,8 @@
                     // Add empty state if no cards were generated
                     if(contentDiv.children.length === 0) {
                         contentDiv.innerHTML = '<div class="loading">No jobs found in the latest scan.</div>';
+                    } else {
+                        setupSearch();
                     }
                 })
                 .catch(error => {
@@ -302,6 +353,49 @@
                     `;
                 });
         });
+
+        function setupSearch() {
+            const searchInput = document.getElementById('searchInput');
+            const cards = document.querySelectorAll('.card');
+            
+            // Create no results message
+            const noResultsMsg = document.createElement('div');
+            noResultsMsg.className = 'no-results';
+            noResultsMsg.id = 'noResultsMsg';
+            noResultsMsg.innerHTML = '<h3>No matches found</h3><p>Try adjusting your search terms.</p>';
+            document.getElementById('content').appendChild(noResultsMsg);
+
+            searchInput.addEventListener('input', (e) => {
+                const searchTerm = e.target.value.toLowerCase();
+                let anyCardVisible = false;
+
+                cards.forEach(card => {
+                    const companyName = card.querySelector('h2').textContent.toLowerCase();
+                    const rows = card.querySelectorAll('tbody tr');
+                    let anyRowVisible = false;
+
+                    rows.forEach(row => {
+                        const rowText = row.textContent.toLowerCase();
+                        // If the row text OR the company name matches the search term
+                        if (rowText.includes(searchTerm) || companyName.includes(searchTerm)) {
+                            row.style.display = '';
+                            anyRowVisible = true;
+                        } else {
+                            row.style.display = 'none';
+                        }
+                    });
+
+                    if (anyRowVisible) {
+                        card.style.display = 'flex';
+                        anyCardVisible = true;
+                    } else {
+                        card.style.display = 'none';
+                    }
+                });
+
+                noResultsMsg.style.display = anyCardVisible ? 'none' : 'block';
+            });
+        }
     </script>
 </body>
 </html>
