@@ -1,17 +1,12 @@
 # Job Scraper Report
-*Generated on: 2026-05-15 13:28:02*
-
-## Adobe - Bengaluru East, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-11 | Business Development Representative | [Apply](https://www.linkedin.com/jobs/view/4403633445) |
-| 2026-04-29 | Solutions Architect | [Apply](https://www.linkedin.com/jobs/view/4386838909) |
+*Generated on: 2026-05-16 06:54:49*
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-06 | Product Sales Specialist | [Apply](https://www.linkedin.com/jobs/view/4389554859) |
-| 2026-04-24 | Manager Inside Sales | [Apply](https://www.linkedin.com/jobs/view/4272846817) |
+| Unknown | Manager Inside Sales | [Apply](https://www.linkedin.com/jobs/view/4272846817) |
+| Unknown | Group Manager, Sales Coaching & Performance Enablement | [Apply](https://www.linkedin.com/jobs/view/4415091614) |
 
 ## Amazon - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -32,15 +27,26 @@
 | 2026-05-04 | Salesforce Developer, Hub Tech Tooling | [Apply](https://www.linkedin.com/jobs/view/4410049194) |
 | 2026-05-02 | System Development Engineer, Salesforce & AWS Developer, Amazon Shipping | [Apply](https://www.linkedin.com/jobs/view/4409589398) |
 
+## American Express Global Business Travel - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-13 | Team Coach | [Apply](https://www.linkedin.com/jobs/view/4410633849) |
+
 ## Cisco - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-11 | Solutions Engineer | [Apply](https://www.linkedin.com/jobs/view/4404062892) |
 
-## Datadog - Bangalore Urban, Karnataka, India
+## GoTo - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-04-29 | Manager, Sales Development | [Apply](https://www.linkedin.com/jobs/view/4398994822) |
+| 2026-05-14 | Manager, Salesforce Engineering | [Apply](https://www.linkedin.com/jobs/view/4414659392) |
+| 2026-05-14 | UX Designer | [Apply](https://www.linkedin.com/jobs/view/4414672039) |
+
+## GoTo - Itanagar, Arunachal Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-14 | Salesfroce Administrator | [Apply](https://www.linkedin.com/jobs/view/4414652940) |
 
 ## Google - 
 | Date | Job Title | Link |
@@ -52,11 +58,10 @@
 |---|---|---|
 | 2026-05-01 | Solution Architect - Telco | [Apply](https://www.linkedin.com/jobs/view/4386888014) |
 
-## Meta - Bengaluru, Karnataka, India
+## Micron school erp - Punjab, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-10 | Enterprise Technical Sales Manager, APAC | [Apply](https://www.linkedin.com/jobs/view/4394068584) |
-| 2026-05-08 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4390559747) |
+| Unknown | Business Development & School Onboarding Executive | [Apply](https://www.linkedin.com/jobs/view/4409918241) |
 
 ## MongoDB - 
 | Date | Job Title | Link |
@@ -91,7 +96,7 @@
 ## Twilio - 
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-05-14 | Systems Ops Administrator | [Apply](https://www.linkedin.com/jobs/view/4405402738) |
 | 2026-05-13 | Technical Support Engineer 2 | [Apply](https://www.linkedin.com/jobs/view/4414235842) |
 | 2026-04-30 | Applications Engineer 2 | [Apply](https://www.linkedin.com/jobs/view/4378095648) |
-| 2026-04-24 | Senior Manager - Billing and Revenue (Q2C) | [Apply](https://www.linkedin.com/jobs/view/4378006224) |
-| Unknown | Systems Ops Administrator | [Apply](https://www.linkedin.com/jobs/view/4405402738) |
+| Unknown | Senior Manager - Billing and Revenue (Q2C) | [Apply](https://www.linkedin.com/jobs/view/4378006224) |
