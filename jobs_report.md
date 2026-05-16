@@ -1,5 +1,5 @@
 # Job Scraper Report
-*Generated on: 2026-05-16 12:27:40*
+*Generated on: 2026-05-16 13:51:05*
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -18,6 +18,11 @@
 |---|---|---|
 | 2026-05-11 | Solutions Engineer | [Apply](https://www.linkedin.com/jobs/view/4404062892) |
 
+## Datadog - Bangalore Urban, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-04-29 | Manager, Sales Development | [Apply](https://www.linkedin.com/jobs/view/4398994822) |
+
 ## GoTo - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -29,10 +34,10 @@
 |---|---|---|
 | 2026-05-14 | Salesfroce Administrator | [Apply](https://www.linkedin.com/jobs/view/4414652940) |
 
-## Googleplex - Hyderabad, Telangana, India
+## Google - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-04-16 | Technical Operations Engineer | [Apply](https://www.linkedin.com/jobs/view/4402196113) |
+| 2026-05-07 | Senior Security Architect, Mandiant, Google Cloud (English) | [Apply](https://www.linkedin.com/jobs/view/4410479688) |
 
 ## Intel - 
 | Date | Job Title | Link |
@@ -42,7 +47,7 @@
 ## Micron school erp - Punjab, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Business Development & School Onboarding Executive | [Apply](https://www.linkedin.com/jobs/view/4409918241) |
+| 2026-05-15 | Business Development & School Onboarding Executive | [Apply](https://www.linkedin.com/jobs/view/4409918241) |
 
 ## MongoDB - 
 | Date | Job Title | Link |
