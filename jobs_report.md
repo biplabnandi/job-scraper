@@ -1,5 +1,5 @@
 # Job Scraper Report
-*Generated on: 2026-05-17 07:36:59*
+*Generated on: 2026-05-17 12:25:06*
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -29,12 +29,6 @@
 |---|---|---|
 | 2026-05-14 | Salesfroce Administrator | [Apply](https://www.linkedin.com/jobs/view/4414652940) |
 
-## Goldman Sachs - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-12 | Engineering Division - Ext Client Digital Support - Analyst - Bengaluru | [Apply](https://www.linkedin.com/jobs/view/4392410011) |
-| 2026-05-07 | Asset & Wealth Management - AM Sales & Marketing Tech - Vice President - Hyderabad | [Apply](https://www.linkedin.com/jobs/view/4361956870) |
-
 ## Google - 
 | Date | Job Title | Link |
 |---|---|---|
@@ -44,12 +38,6 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-01 | Solution Architect - Telco | [Apply](https://www.linkedin.com/jobs/view/4386888014) |
-
-## Meta - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-10 | Enterprise Technical Sales Manager, APAC | [Apply](https://www.linkedin.com/jobs/view/4394068584) |
-| 2026-05-08 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4390559747) |
 
 ## Micron school erp - Punjab, India
 | Date | Job Title | Link |
@@ -66,10 +54,10 @@
 |---|---|---|
 | 2026-04-27 | Senior Account Executive, Enterprise Sales(Expansion) | [Apply](https://www.linkedin.com/jobs/view/4407160973) |
 
-## Okta for Developers - 
+## Okta - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-03-22 | Area Sales Director(Okta India) | [Apply](https://www.linkedin.com/jobs/view/4389203003) |
+| 2026-05-06 | Staff Engineer - Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4361747166) |
 
 ## Palo Alto Networks - 
 | Date | Job Title | Link |
