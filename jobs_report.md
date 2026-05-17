@@ -1,12 +1,12 @@
 # Job Scraper Report
-*Generated on: 2026-05-16 13:51:05*
+*Generated on: 2026-05-17 07:36:59*
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-05-15 | Manager Inside Sales | [Apply](https://www.linkedin.com/jobs/view/4272846817) |
+| 2026-05-15 | Group Manager, Sales Coaching & Performance Enablement | [Apply](https://www.linkedin.com/jobs/view/4415091614) |
 | 2026-05-06 | Product Sales Specialist | [Apply](https://www.linkedin.com/jobs/view/4389554859) |
-| Unknown | Manager Inside Sales | [Apply](https://www.linkedin.com/jobs/view/4272846817) |
-| Unknown | Group Manager, Sales Coaching & Performance Enablement | [Apply](https://www.linkedin.com/jobs/view/4415091614) |
 
 ## American Express Global Business Travel - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -17,11 +17,6 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-11 | Solutions Engineer | [Apply](https://www.linkedin.com/jobs/view/4404062892) |
-
-## Datadog - Bangalore Urban, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-04-29 | Manager, Sales Development | [Apply](https://www.linkedin.com/jobs/view/4398994822) |
 
 ## GoTo - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -34,6 +29,12 @@
 |---|---|---|
 | 2026-05-14 | Salesfroce Administrator | [Apply](https://www.linkedin.com/jobs/view/4414652940) |
 
+## Goldman Sachs - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-12 | Engineering Division - Ext Client Digital Support - Analyst - Bengaluru | [Apply](https://www.linkedin.com/jobs/view/4392410011) |
+| 2026-05-07 | Asset & Wealth Management - AM Sales & Marketing Tech - Vice President - Hyderabad | [Apply](https://www.linkedin.com/jobs/view/4361956870) |
+
 ## Google - 
 | Date | Job Title | Link |
 |---|---|---|
@@ -43,6 +44,12 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-01 | Solution Architect - Telco | [Apply](https://www.linkedin.com/jobs/view/4386888014) |
+
+## Meta - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-10 | Enterprise Technical Sales Manager, APAC | [Apply](https://www.linkedin.com/jobs/view/4394068584) |
+| 2026-05-08 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4390559747) |
 
 ## Micron school erp - Punjab, India
 | Date | Job Title | Link |
@@ -82,7 +89,7 @@
 ## Twilio - 
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-05-15 | Senior Manager - Billing and Revenue (Q2C) | [Apply](https://www.linkedin.com/jobs/view/4378006224) |
 | 2026-05-14 | Systems Ops Administrator | [Apply](https://www.linkedin.com/jobs/view/4405402738) |
 | 2026-05-13 | Technical Support Engineer 2 | [Apply](https://www.linkedin.com/jobs/view/4414235842) |
 | 2026-04-30 | Applications Engineer 2 | [Apply](https://www.linkedin.com/jobs/view/4378095648) |
-| Unknown | Senior Manager - Billing and Revenue (Q2C) | [Apply](https://www.linkedin.com/jobs/view/4378006224) |
