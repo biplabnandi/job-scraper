@@ -1,5 +1,5 @@
 # Job Scraper Report
-*Generated on: 2026-05-18 08:46:31*
+*Generated on: 2026-05-18 14:56:30*
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -8,15 +8,21 @@
 | 2026-05-15 | Group Manager, Sales Coaching & Performance Enablement | [Apply](https://www.linkedin.com/jobs/view/4415091614) |
 | 2026-05-06 | Product Sales Specialist | [Apply](https://www.linkedin.com/jobs/view/4389554859) |
 
-## American Express Global Business Travel - Hyderabad, Telangana, India
+## American Express - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-13 | Team Coach | [Apply](https://www.linkedin.com/jobs/view/4410633849) |
+| Unknown | Manager-Digital Product Management | [Apply](https://www.linkedin.com/jobs/view/4415654072) |
 
-## Cisco - Bengaluru, Karnataka, India
+## GoTo - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-11 | Solutions Engineer | [Apply](https://www.linkedin.com/jobs/view/4404062892) |
+| 2026-05-14 | Manager, Salesforce Engineering | [Apply](https://www.linkedin.com/jobs/view/4414659392) |
+| 2026-05-14 | UX Designer | [Apply](https://www.linkedin.com/jobs/view/4414672039) |
+
+## GoTo - Itanagar, Arunachal Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-14 | Salesfroce Administrator | [Apply](https://www.linkedin.com/jobs/view/4414652940) |
 
 ## Google - 
 | Date | Job Title | Link |
@@ -28,12 +34,6 @@
 |---|---|---|
 | 2026-05-01 | Solution Architect - Telco | [Apply](https://www.linkedin.com/jobs/view/4386888014) |
 
-## Meta - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-10 | Enterprise Technical Sales Manager, APAC | [Apply](https://www.linkedin.com/jobs/view/4394068584) |
-| 2026-05-08 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4390559747) |
-
 ## Micron school erp - Punjab, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -43,11 +43,6 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-08 | Senior Engineer - GTM Tech | [Apply](https://www.linkedin.com/jobs/view/4403100152) |
-
-## New Relic - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-04-27 | Senior Account Executive, Enterprise Sales(Expansion) | [Apply](https://www.linkedin.com/jobs/view/4407160973) |
 
 ## Okta for Developers - 
 | Date | Job Title | Link |
@@ -59,23 +54,10 @@
 |---|---|---|
 | 2026-04-09 | Sales Operations Analyst (Contract) | [Apply](https://www.linkedin.com/jobs/view/4376996228) |
 
-## PayPal - Vijayipur, Bihar, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-06 | Sr Account Representative, Large Enterprise Commercial | [Apply](https://www.linkedin.com/jobs/view/4401776455) |
-
 ## Rubrik - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-04 | Sales Operations Analyst (Remote - Night Shifts) | [Apply](https://www.linkedin.com/jobs/view/4410086523) |
-
-## Stripe - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-12 | Staff Engineer, Seller Systems | [Apply](https://www.linkedin.com/jobs/view/4413495488) |
-| 2026-05-12 | Sales Compensation Analyst | [Apply](https://www.linkedin.com/jobs/view/4413488614) |
-| 2026-05-12 | Engineering Manager, Sales Systems | [Apply](https://www.linkedin.com/jobs/view/4413495496) |
-| 2026-05-12 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4413486647) |
 
 ## Twilio - 
 | Date | Job Title | Link |
