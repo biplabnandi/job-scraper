@@ -1,5 +1,5 @@
 # Job Scraper Report
-*Generated on: 2026-05-19 08:16:21*
+*Generated on: 2026-05-19 14:24:00*
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -29,21 +29,21 @@
 |---|---|---|
 | 2026-05-01 | Solution Architect - Telco | [Apply](https://www.linkedin.com/jobs/view/4386888014) |
 
-## Meta - 
+## Mastercard - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-01 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4398885299) |
+| Unknown | Manager, Business Development | [Apply](https://www.linkedin.com/jobs/view/4397918699) |
 
-## Meta - Bengaluru, Karnataka, India
+## Mastercard - Gurgaon, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-10 | Enterprise Technical Sales Manager, APAC | [Apply](https://www.linkedin.com/jobs/view/4394068584) |
-| 2026-05-08 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4390547326) |
+| 2026-05-08 | Senior Analyst, Partnerships Systems Operations Tech Stack | [Apply](https://www.linkedin.com/jobs/view/4379879475) |
+| 2026-05-04 | Lead Generation Specialist (APAC) | [Apply](https://www.linkedin.com/jobs/view/4407730446) |
 
-## Meta - Gurgaon, Haryana, India
+## Mastercard - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-14 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4396663567) |
+| 2026-05-15 | Analyst, Insights and Enablement | [Apply](https://www.linkedin.com/jobs/view/4411596561) |
 
 ## Micron school erp - Punjab, India
 | Date | Job Title | Link |
@@ -59,11 +59,6 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-04-09 | Sales Operations Analyst (Contract) | [Apply](https://www.linkedin.com/jobs/view/4376996228) |
-
-## PayPal - Vijayipur, Bihar, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-06 | Sr Account Representative, Large Enterprise Commercial | [Apply](https://www.linkedin.com/jobs/view/4401776455) |
 
 ## Twilio - 
 | Date | Job Title | Link |
