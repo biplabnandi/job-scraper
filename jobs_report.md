@@ -1,5 +1,5 @@
 # Job Scraper Report
-*Generated on: 2026-05-18 14:56:30*
+*Generated on: 2026-05-19 08:16:21*
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -7,11 +7,6 @@
 | 2026-05-15 | Manager Inside Sales | [Apply](https://www.linkedin.com/jobs/view/4272846817) |
 | 2026-05-15 | Group Manager, Sales Coaching & Performance Enablement | [Apply](https://www.linkedin.com/jobs/view/4415091614) |
 | 2026-05-06 | Product Sales Specialist | [Apply](https://www.linkedin.com/jobs/view/4389554859) |
-
-## American Express - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | Manager-Digital Product Management | [Apply](https://www.linkedin.com/jobs/view/4415654072) |
 
 ## GoTo - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -34,6 +29,22 @@
 |---|---|---|
 | 2026-05-01 | Solution Architect - Telco | [Apply](https://www.linkedin.com/jobs/view/4386888014) |
 
+## Meta - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-01 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4398885299) |
+
+## Meta - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-10 | Enterprise Technical Sales Manager, APAC | [Apply](https://www.linkedin.com/jobs/view/4394068584) |
+| 2026-05-08 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4390547326) |
+
+## Meta - Gurgaon, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-14 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4396663567) |
+
 ## Micron school erp - Punjab, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -44,20 +55,15 @@
 |---|---|---|
 | 2026-05-08 | Senior Engineer - GTM Tech | [Apply](https://www.linkedin.com/jobs/view/4403100152) |
 
-## Okta for Developers - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-03-22 | Area Sales Director(Okta India) | [Apply](https://www.linkedin.com/jobs/view/4389203003) |
-
 ## Palo Alto Networks - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-04-09 | Sales Operations Analyst (Contract) | [Apply](https://www.linkedin.com/jobs/view/4376996228) |
 
-## Rubrik - Bengaluru, Karnataka, India
+## PayPal - Vijayipur, Bihar, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-04 | Sales Operations Analyst (Remote - Night Shifts) | [Apply](https://www.linkedin.com/jobs/view/4410086523) |
+| 2026-05-06 | Sr Account Representative, Large Enterprise Commercial | [Apply](https://www.linkedin.com/jobs/view/4401776455) |
 
 ## Twilio - 
 | Date | Job Title | Link |
