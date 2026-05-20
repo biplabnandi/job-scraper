@@ -1,5 +1,5 @@
 # Job Scraper Report
-*Generated on: 2026-05-20 08:15:26*
+*Generated on: 2026-05-20 14:18:40*
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -8,21 +8,24 @@
 | 2026-05-15 | Group Manager, Sales Coaching & Performance Enablement | [Apply](https://www.linkedin.com/jobs/view/4415091614) |
 | 2026-05-06 | Product Sales Specialist | [Apply](https://www.linkedin.com/jobs/view/4389554859) |
 
-## Databricks - Bengaluru, Karnataka, India
+## Amazon - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-06 | Strategy & Execution Manager - GTM Planning | [Apply](https://www.linkedin.com/jobs/view/4399795056) |
+| 2026-05-15 | Salesforce Developer- II, Ads Tech | [Apply](https://www.linkedin.com/jobs/view/4384148972) |
+| 2026-05-12 | Salesforce Developer I, Support Products & Services | [Apply](https://www.linkedin.com/jobs/view/4413475783) |
+| 2026-05-02 | Salesforce Developer, Sales Technology, Amazon Advertising | [Apply](https://www.linkedin.com/jobs/view/4388102011) |
 
-## Docusign - Bengaluru, Karnataka, India
+## Amazon - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-16 | Senior Platform Architect | [Apply](https://www.linkedin.com/jobs/view/4393444880) |
-| 2026-05-16 | Software Engineer – Salesforce & GTM Systems | [Apply](https://www.linkedin.com/jobs/view/4393447876) |
-| 2026-05-15 | Engineering Manger | [Apply](https://www.linkedin.com/jobs/view/4393461290) |
-| 2026-05-14 | Lead Software Engineer – Salesforce & GTM Systems | [Apply](https://www.linkedin.com/jobs/view/4393409102) |
-| 2026-05-09 | Application Engineering Manager | [Apply](https://www.linkedin.com/jobs/view/4390920832) |
-| 2026-05-07 | Senior Technical Consultant | [Apply](https://www.linkedin.com/jobs/view/4401840754) |
-| 2026-05-06 | Lead Partner Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4377775758) |
+| 2026-05-04 | Salesforce Developer, Hub Tech Tooling | [Apply](https://www.linkedin.com/jobs/view/4410047182) |
+
+## Amazon - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-07 | Salesforce Developer, DSP Tech, Last Mile | [Apply](https://www.linkedin.com/jobs/view/4411490972) |
+| 2026-05-04 | Salesforce Developer, Hub Tech Tooling | [Apply](https://www.linkedin.com/jobs/view/4410049194) |
+| 2026-05-02 | System Development Engineer, Salesforce & AWS Developer, Amazon Shipping | [Apply](https://www.linkedin.com/jobs/view/4409589398) |
 
 ## GoTo - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -45,21 +48,11 @@
 |---|---|---|
 | 2026-05-01 | Solution Architect - Telco | [Apply](https://www.linkedin.com/jobs/view/4386888014) |
 
-## Meta - 
+## LinkedIn - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-01 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4398885299) |
-
-## Meta - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-10 | Enterprise Technical Sales Manager, APAC | [Apply](https://www.linkedin.com/jobs/view/4394068584) |
-| 2026-05-08 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4390547326) |
-
-## Meta - Gurgaon, Haryana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-14 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4396663567) |
+| 2026-05-18 | Senior Software Engineer, Salesforce | [Apply](https://www.linkedin.com/jobs/view/4407156638) |
+| 2026-05-15 | Software Engineer, Salesforce | [Apply](https://www.linkedin.com/jobs/view/4405638640) |
 
 ## Micron school erp - Punjab, India
 | Date | Job Title | Link |
