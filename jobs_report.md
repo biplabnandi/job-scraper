@@ -1,31 +1,15 @@
 # Job Scraper Report
-*Generated on: 2026-05-20 14:18:40*
+*Generated on: 2026-05-21 08:22:33*
+
+## Adobe - Bengaluru East, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-04-29 | Solutions Architect | [Apply](https://www.linkedin.com/jobs/view/4386838909) |
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-15 | Manager Inside Sales | [Apply](https://www.linkedin.com/jobs/view/4272846817) |
-| 2026-05-15 | Group Manager, Sales Coaching & Performance Enablement | [Apply](https://www.linkedin.com/jobs/view/4415091614) |
-| 2026-05-06 | Product Sales Specialist | [Apply](https://www.linkedin.com/jobs/view/4389554859) |
-
-## Amazon - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-15 | Salesforce Developer- II, Ads Tech | [Apply](https://www.linkedin.com/jobs/view/4384148972) |
-| 2026-05-12 | Salesforce Developer I, Support Products & Services | [Apply](https://www.linkedin.com/jobs/view/4413475783) |
-| 2026-05-02 | Salesforce Developer, Sales Technology, Amazon Advertising | [Apply](https://www.linkedin.com/jobs/view/4388102011) |
-
-## Amazon - Gurugram, Haryana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-04 | Salesforce Developer, Hub Tech Tooling | [Apply](https://www.linkedin.com/jobs/view/4410047182) |
-
-## Amazon - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-07 | Salesforce Developer, DSP Tech, Last Mile | [Apply](https://www.linkedin.com/jobs/view/4411490972) |
-| 2026-05-04 | Salesforce Developer, Hub Tech Tooling | [Apply](https://www.linkedin.com/jobs/view/4410049194) |
-| 2026-05-02 | System Development Engineer, Salesforce & AWS Developer, Amazon Shipping | [Apply](https://www.linkedin.com/jobs/view/4409589398) |
+| 2026-05-01 | Sales Support Rep Analyst | [Apply](https://www.linkedin.com/jobs/view/4398107150) |
 
 ## GoTo - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -43,21 +27,42 @@
 |---|---|---|
 | 2026-05-07 | Senior Security Architect, Mandiant, Google Cloud (English) | [Apply](https://www.linkedin.com/jobs/view/4410479688) |
 
+## Google - Gurugram, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-18 | GCP New Business Sales Executive | [Apply](https://www.linkedin.com/jobs/view/4415648858) |
+
+## Google - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-08 | Technical Operations Engineer | [Apply](https://www.linkedin.com/jobs/view/4402108943) |
+| 2026-05-08 | Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4409674867) |
+
+## Google Operations Center - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-01 | Developer Specialist - TOMO - Tech Admin & Development | [Apply](https://www.linkedin.com/jobs/view/4377216080) |
+
+## Googleplex - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-04-16 | Technical Operations Engineer | [Apply](https://www.linkedin.com/jobs/view/4402196113) |
+
 ## Intel - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-01 | Solution Architect - Telco | [Apply](https://www.linkedin.com/jobs/view/4386888014) |
 
-## LinkedIn - Bengaluru, Karnataka, India
+## Intel - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-18 | Senior Software Engineer, Salesforce | [Apply](https://www.linkedin.com/jobs/view/4407156638) |
-| 2026-05-15 | Software Engineer, Salesforce | [Apply](https://www.linkedin.com/jobs/view/4405638640) |
+| 2026-05-19 | Compiler Engineer | [Apply](https://www.linkedin.com/jobs/view/4405984944) |
+| 2026-05-09 | Emulation Engineer | [Apply](https://www.linkedin.com/jobs/view/4402395792) |
 
-## Micron school erp - Punjab, India
+## Intellicloud Solutions - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-15 | Business Development & School Onboarding Executive | [Apply](https://www.linkedin.com/jobs/view/4409918241) |
+| Unknown | 🚀 We’re Hiring \| Salesforce Professionals \| Pune | [Apply](https://www.linkedin.com/jobs/view/4413661478) |
 
 ## MongoDB - 
 | Date | Job Title | Link |
