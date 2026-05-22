@@ -1,22 +1,45 @@
 # Job Scraper Report
-*Generated on: 2026-05-21 14:34:46*
+*Generated on: 2026-05-22 08:13:51*
+
+## Adobe - Bengaluru East, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Solutions Architect | [Apply](https://www.linkedin.com/jobs/view/4386838909) |
 
 ## Adobe - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-15 | Manager Inside Sales | [Apply](https://www.linkedin.com/jobs/view/4272846817) |
-| 2026-05-15 | Group Manager, Sales Coaching & Performance Enablement | [Apply](https://www.linkedin.com/jobs/view/4415091614) |
-| 2026-05-06 | Product Sales Specialist | [Apply](https://www.linkedin.com/jobs/view/4389554859) |
+| 2026-05-01 | Sales Support Rep Analyst | [Apply](https://www.linkedin.com/jobs/view/4398107150) |
+
+## Amazon - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-15 | Salesforce Developer- II, Ads Tech | [Apply](https://www.linkedin.com/jobs/view/4384148972) |
+| 2026-05-02 | Salesforce Developer- II, Sales Technology, Amazon Advertising | [Apply](https://www.linkedin.com/jobs/view/4388102011) |
+| 2026-05-01 | Salesforce Developer, Sales Technology, Amazon Advertising | [Apply](https://www.linkedin.com/jobs/view/4387630801) |
+| Unknown | System Engineer (Generative AI - Salesforce Tech), COE Tech | [Apply](https://www.linkedin.com/jobs/view/4417772653) |
+
+## Amazon - Gurugram, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-04 | Salesforce Developer, Hub Tech Tooling | [Apply](https://www.linkedin.com/jobs/view/4410047182) |
+
+## Amazon - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-07 | Salesforce Developer, DSP Tech, Last Mile | [Apply](https://www.linkedin.com/jobs/view/4411490972) |
+| 2026-05-04 | Salesforce Developer, Hub Tech Tooling | [Apply](https://www.linkedin.com/jobs/view/4410049194) |
+| 2026-05-02 | System Development Engineer, Salesforce & AWS Developer, Amazon Shipping | [Apply](https://www.linkedin.com/jobs/view/4409589398) |
 
 ## Docusign - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-05-20 | Software Engineer, Sales | [Apply](https://www.linkedin.com/jobs/view/4416191960) |
 | 2026-05-16 | Senior Platform Architect | [Apply](https://www.linkedin.com/jobs/view/4393444880) |
 | 2026-05-16 | Software Engineer – Salesforce & GTM Systems | [Apply](https://www.linkedin.com/jobs/view/4393447876) |
 | 2026-05-15 | Engineering Manger | [Apply](https://www.linkedin.com/jobs/view/4393461290) |
 | 2026-05-14 | Lead Software Engineer – Salesforce & GTM Systems | [Apply](https://www.linkedin.com/jobs/view/4393409102) |
 | 2026-05-06 | Lead Partner Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4377775758) |
-| Unknown | Software Engineer, Sales | [Apply](https://www.linkedin.com/jobs/view/4416191960) |
 
 ## GoTo - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -34,43 +57,60 @@
 |---|---|---|
 | 2026-05-07 | Senior Security Architect, Mandiant, Google Cloud (English) | [Apply](https://www.linkedin.com/jobs/view/4410479688) |
 
+## IBM - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-19 | Application Architect-Salesforce | [Apply](https://www.linkedin.com/jobs/view/4412892178) |
+| 2026-05-15 | Account Executive | [Apply](https://www.linkedin.com/jobs/view/4411593261) |
+| 2026-05-15 | Package Consultant-Sales & Service | [Apply](https://www.linkedin.com/jobs/view/4411599064) |
+
 ## Intel - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-01 | Solution Architect - Telco | [Apply](https://www.linkedin.com/jobs/view/4386888014) |
 
-## Mastercard - 
+## LinkedIn - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-18 | Manager, Business Development | [Apply](https://www.linkedin.com/jobs/view/4397918699) |
+| 2026-05-18 | Senior Software Engineer, Salesforce | [Apply](https://www.linkedin.com/jobs/view/4407156638) |
+| Unknown | Software Engineer, Salesforce | [Apply](https://www.linkedin.com/jobs/view/4414079216) |
 
-## Mastercard - Gurgaon, Haryana, India
+## Meta - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-08 | Senior Analyst, Partnerships Systems Operations Tech Stack | [Apply](https://www.linkedin.com/jobs/view/4379879475) |
-| 2026-05-04 | Lead Generation Specialist (APAC) | [Apply](https://www.linkedin.com/jobs/view/4407730446) |
+| 2026-05-01 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4398885299) |
 
-## Mastercard - Gurugram, Haryana, India
+## Meta - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-15 | Analyst, Insights and Enablement | [Apply](https://www.linkedin.com/jobs/view/4411596561) |
+| 2026-05-10 | Enterprise Technical Sales Manager, APAC | [Apply](https://www.linkedin.com/jobs/view/4394068584) |
+| 2026-05-08 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4390547326) |
+
+## Meta - Gurgaon, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-14 | Enterprise Technical Sales Specialist, APAC | [Apply](https://www.linkedin.com/jobs/view/4396663567) |
 
 ## MongoDB - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-08 | Senior Engineer - GTM Tech | [Apply](https://www.linkedin.com/jobs/view/4403100152) |
 
-## Okta - Bengaluru, Karnataka, India
+## Palo Alto Networks - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-08 | Global Partner Systems Specialist | [Apply](https://www.linkedin.com/jobs/view/4409696876) |
-| 2026-05-08 | Manager, Global Partner Sales Desk | [Apply](https://www.linkedin.com/jobs/view/4409698899) |
-| 2026-05-06 | Staff Engineer - Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4361747166) |
+| 2026-05-08 | Senior Salesforce Engineer | [Apply](https://www.linkedin.com/jobs/view/4379399592) |
+| 2026-05-04 | Sales Operations Specialist | [Apply](https://www.linkedin.com/jobs/view/4407752176) |
 
-## Palo Alto Networks - 
+## Sprinklr - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-04-09 | Sales Operations Analyst (Contract) | [Apply](https://www.linkedin.com/jobs/view/4376996228) |
+| Unknown | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4418038333) |
+
+## Sprinklr - Gurgaon, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-14 | Lead Product Solution | [Apply](https://www.linkedin.com/jobs/view/4373555391) |
 
 ## Twilio - 
 | Date | Job Title | Link |
