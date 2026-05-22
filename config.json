@@ -77,9 +77,10 @@
     "Gojek",
     "Grab",
     "GoTo",
-    "Walmart"
+    "Walmart",
+    "Toast",
+    "Opentable"
   ],
   "location": "India",
-  "is_remote": true,
-  "results_per_company": 50
+  "results_per_company": 100
 }

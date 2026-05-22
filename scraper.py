@@ -15,7 +15,6 @@ def main():
     keyword = config.get("keyword", "")
     companies = config.get("companies", [])
     location = config.get("location", "India")
-    is_remote = config.get("is_remote", True)
     results_per_company = config.get("results_per_company", 20)
     
     all_jobs = []
@@ -30,13 +29,13 @@ def main():
                 search_term=search_term,
                 location=location,
                 results_wanted=results_per_company,
-                is_remote=is_remote,
                 country_indeed='india'
             )
             
             if not jobs.empty:
-                # Filter results to make sure the company name matches reasonably well
-                filtered_jobs = jobs[jobs['company'].str.lower().str.contains(company.lower(), na=False)]
+                # Relax the filter to ensure we don't miss jobs from recruiting agencies or jobs with slight company name mismatches.
+                # LinkedIn's search engine already uses the company name from the search term.
+                filtered_jobs = jobs
                 all_jobs.append(filtered_jobs)
                 print(f"Found {len(filtered_jobs)} matching jobs for {company}.")
             else:
@@ -45,8 +44,8 @@ def main():
         except Exception as e:
             print(f"Error scraping for {company}: {e}")
             
-        # Add a random delay to prevent rate-limiting/blocking from job boards
-        delay = random.uniform(2.5, 5.0)
+        # Add a longer random delay to prevent rate-limiting/blocking from job boards
+        delay = random.uniform(5.0, 10.0)
         print(f"Sleeping for {delay:.1f} seconds to avoid rate limits...")
         time.sleep(delay)
 
