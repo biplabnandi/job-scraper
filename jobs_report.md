@@ -1,26 +1,20 @@
 # Job Scraper Report
-*Generated on: 2026-08-12 07:10:19*
+*Generated on: 2026-08-12 13:24:34*
 
-## 8th Element - Hyderabad, Telangana, India
+## ACA Group - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-07 | Salesforce Consultant (CRM Rebuild & Lead Management) | [Apply](https://www.linkedin.com/jobs/view/4450312029) |
-
-## ACL Digital - Ahmedabad, Gujarat, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-30 | Salesforce Architect | [Apply](https://www.linkedin.com/jobs/view/4434316093) |
+| 2026-07-26 | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4385481569) |
 
 ## ACS International India Pvt. Ltd. (ACSII) - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-24 | Salesrforce Operations Engineer | [Apply](https://www.linkedin.com/jobs/view/4444049370) |
 | 2026-07-24 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4444043442) |
 
-## AHEAD - 
+## ALLEN - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-20 | Senior Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4442087556) |
+| 2026-07-28 | Senior Manager – IT Enterprise Applications | [Apply](https://www.linkedin.com/jobs/view/4445495803) |
 
 ## AMD - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -30,32 +24,27 @@
 ## AMETEK - Delhi, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-22 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4443780212) |
-
-## AMETEK - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-06 | Area Sales Manager - SR & WR | [Apply](https://www.linkedin.com/jobs/view/4413291812) |
+| Unknown | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4443780212) |
 
 ## AQR Capital Management - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-04 | Engineering - Salesforce Engineer - Analyst | [Apply](https://www.linkedin.com/jobs/view/4429508651) |
 
-## ARi - Chennai, Tamil Nadu, India
+## ASSA ABLOY Group - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-06 | Salesforce Developer B2b Commerce Cloud | [Apply](https://www.linkedin.com/jobs/view/4448404686) |
-
-## Accelirate Inc. - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-04-22 | Salesforce Architect | [Apply](https://www.linkedin.com/jobs/view/4407575298) |
+| 2026-08-04 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4437678001) |
 
 ## Accellor - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-05 | Business Analyst (Salesforce) | [Apply](https://www.linkedin.com/jobs/view/4444523258) |
+
+## Accendra Health - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-05 | Senior Developer - Salesforce Marketing Cloud | [Apply](https://www.linkedin.com/jobs/view/4440544231) |
 
 ## Accendra Health - Pune District, Maharashtra, India
 | Date | Job Title | Link |
@@ -66,84 +55,80 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Application Developer | [Apply](https://www.linkedin.com/jobs/view/4448332248) |
-| 2026-08-03 | Solution Architect Associate Manager | [Apply](https://www.linkedin.com/jobs/view/4448395274) |
-| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448323500) |
+| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448392408) |
+| 2026-08-03 | Solution Architect Associate Manager | [Apply](https://www.linkedin.com/jobs/view/4448604094) |
 | 2026-08-03 | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4448332779) |
-| 2026-08-03 | #ACN GN - SONG - Service - Salesforce Platforms - Consultant | [Apply](https://www.linkedin.com/jobs/view/4448337283) |
 
 ## Accenture in India - Ahmedabad, Gujarat, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-03 | Packaged/SaaS Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4448327665) |
 | 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448356400) |
+| 2026-08-03 | Packaged/SaaS Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4448327665) |
 
 ## Accenture in India - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Application Developer | [Apply](https://www.linkedin.com/jobs/view/4448337132) |
-| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448399021) |
-| 2026-08-03 | Packaged/SaaS Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4448339474) |
-| 2026-08-03 | #ACN GN - SONG - C&S - Salesforce Platforms - Consultant | [Apply](https://www.linkedin.com/jobs/view/4448323683) |
-| 2026-08-03 | Technology Architect | [Apply](https://www.linkedin.com/jobs/view/4448331908) |
+| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448352835) |
+| 2026-08-03 | Packaged/SaaS Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4448328852) |
 | 2026-08-03 | Enterprise Platform Advisor | [Apply](https://www.linkedin.com/jobs/view/4448355129) |
 | 2026-08-03 | Integration Engineer | [Apply](https://www.linkedin.com/jobs/view/4448333667) |
 | 2026-08-03 | Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4448333788) |
-| 2026-08-03 | Solution Architect Senior Manager | [Apply](https://www.linkedin.com/jobs/view/4448361118) |
+| 2026-08-03 | Solution Architect Senior Manager | [Apply](https://www.linkedin.com/jobs/view/4448386095) |
 | 2026-08-03 | RIS Solution Architect Associate Director | [Apply](https://www.linkedin.com/jobs/view/4448360310) |
+| 2026-08-03 | Custom Software Engineering Lead | [Apply](https://www.linkedin.com/jobs/view/4448346802) |
+| 2026-08-03 | Technology Architect | [Apply](https://www.linkedin.com/jobs/view/4448352147) |
 | 2026-08-03 | Application Designer | [Apply](https://www.linkedin.com/jobs/view/4448317731) |
+| 2026-08-03 | #ACN GN - SONG - C&S - Salesforce Platforms - Consultant | [Apply](https://www.linkedin.com/jobs/view/4448323683) |
+| 2026-08-03 | Operations Engineer | [Apply](https://www.linkedin.com/jobs/view/4448362961) |
+| 2026-08-03 | GN - SONG - Service - Sprinklr - Manager | [Apply](https://www.linkedin.com/jobs/view/4448317781) |
 | 2026-08-03 | Solution Architect Associate Manager | [Apply](https://www.linkedin.com/jobs/view/4448600269) |
-| 2026-08-03 | #ACN GN - SONG - MT - Salesforce Marketing Cloud - Consultant | [Apply](https://www.linkedin.com/jobs/view/4448340328) |
+| Unknown | I&F Decision Sci Practitioner Specialist | [Apply](https://www.linkedin.com/jobs/view/4452647288) |
 
 ## Accenture in India - Bhubaneswar, Odisha, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-03 | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4448324534) |
-| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448371908) |
 
 ## Accenture in India - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448385415) |
-| 2026-08-03 | Software Development Engineer | [Apply](https://www.linkedin.com/jobs/view/4448317921) |
-| 2026-08-03 | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4448326639) |
+| 2026-08-06 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448329297) |
 
 ## Accenture in India - Coimbatore, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-03 | Packaged/SaaS Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4448352013) |
-| 2026-08-03 | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4448339252) |
-| 2026-08-03 | Technology Architect | [Apply](https://www.linkedin.com/jobs/view/4448343668) |
-| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448349592) |
+| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448361624) |
+| 2026-08-03 | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4448336553) |
+| 2026-08-03 | Technology Architect | [Apply](https://www.linkedin.com/jobs/view/4448355358) |
 | 2026-08-03 | Business Process Architect | [Apply](https://www.linkedin.com/jobs/view/4448351178) |
+| 2026-08-03 | Packaged/SaaS Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4448352013) |
 
 ## Accenture in India - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448358567) |
 | 2026-08-03 | Packaged/SaaS Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4448398241) |
+| 2026-08-03 | Custom Software Engineering Lead | [Apply](https://www.linkedin.com/jobs/view/4448352048) |
 | 2026-08-03 | #ACN GN - SONG - Service - Salesforce Platforms - Manager | [Apply](https://www.linkedin.com/jobs/view/4448333449) |
 | 2026-08-03 | Solution Architect Manager | [Apply](https://www.linkedin.com/jobs/view/4448354517) |
-| 2026-08-03 | Custom Software Engineering Lead | [Apply](https://www.linkedin.com/jobs/view/4448352048) |
 | 2026-08-03 | Business Process Architect | [Apply](https://www.linkedin.com/jobs/view/4448350128) |
 
 ## Accenture in India - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-07 | Data Engineer | [Apply](https://www.linkedin.com/jobs/view/4448742518) |
+| 2026-08-06 | Packaged/SaaS Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4450268165) |
 | 2026-08-05 | Application Developer | [Apply](https://www.linkedin.com/jobs/view/4448334226) |
-| 2026-08-04 | Packaged/SaaS Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4446260944) |
 | 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448346537) |
 | 2026-08-03 | Technology Architect | [Apply](https://www.linkedin.com/jobs/view/4448338170) |
-| 2026-08-03 | Enterprise Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4448606189) |
 | 2026-08-03 | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4448329741) |
-| 2026-08-03 | Application Lead | [Apply](https://www.linkedin.com/jobs/view/4448359374) |
-| 2026-08-03 | Full Stack Engineer | [Apply](https://www.linkedin.com/jobs/view/4448359550) |
-| 2026-08-03 | Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4448391436) |
-| 2026-08-03 | Performance Engineer | [Apply](https://www.linkedin.com/jobs/view/4448381239) |
+| 2026-08-03 | Full Stack Engineer | [Apply](https://www.linkedin.com/jobs/view/4448356430) |
+| 2026-08-03 | Enterprise Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4448606189) |
 
 ## Accenture in India - Indore, Madhya Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Performance Engineer | [Apply](https://www.linkedin.com/jobs/view/4452413531) |
 | 2026-08-06 | Application Developer | [Apply](https://www.linkedin.com/jobs/view/4448318665) |
 | 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448358544) |
 | 2026-08-03 | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4448335306) |
@@ -154,7 +139,7 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448377692) |
-| 2026-08-03 | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4448330392) |
+| 2026-08-03 | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4448325583) |
 | 2026-08-03 | Application Developer | [Apply](https://www.linkedin.com/jobs/view/4448348464) |
 
 ## Accenture in India - Nagpur, Maharashtra, India
@@ -165,8 +150,8 @@
 ## Accenture in India - Navi Mumbai, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448370209) |
-| Unknown | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4452417478) |
+| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448391326) |
+| 2026-08-03 | Business Advisory Associate | [Apply](https://www.linkedin.com/jobs/view/4448340260) |
 
 ## Accenture in India - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -176,10 +161,12 @@
 ## Accenture in India - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4451881990) |
+| 2026-08-03 | Custom Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448381709) |
+| 2026-08-03 | Enterprise Platform Advisor | [Apply](https://www.linkedin.com/jobs/view/4448363092) |
+| 2026-08-03 | Technology Architect | [Apply](https://www.linkedin.com/jobs/view/4448342616) |
 | 2026-08-03 | Application Developer | [Apply](https://www.linkedin.com/jobs/view/4448322415) |
-| 2026-08-03 | Technology Architect | [Apply](https://www.linkedin.com/jobs/view/4448346232) |
-| 2026-08-03 | Enterprise Platform Advisor | [Apply](https://www.linkedin.com/jobs/view/4448351431) |
+| 2026-08-03 | Technology Account Lead | [Apply](https://www.linkedin.com/jobs/view/4448351454) |
+| 2026-08-03 | Custom Software Engineering Lead | [Apply](https://www.linkedin.com/jobs/view/4448342469) |
 
 ## Accolite - 
 | Date | Job Title | Link |
@@ -206,17 +193,12 @@
 |---|---|---|
 | 2026-08-10 | Inside Sales Specialist | [Apply](https://www.linkedin.com/jobs/view/4451109948) |
 
-## Aggreko - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-31 | Sector Sales Specialist - Data Center | [Apply](https://www.linkedin.com/jobs/view/4446985807) |
-
 ## Agilent Technologies - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Salesforce Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4450642075) |
+| 2026-08-06 | Salesforce Senior Developer | [Apply](https://www.linkedin.com/jobs/view/4450629818) |
 | 2026-08-06 | Manager, CRM Platforms & Salesforce Delivery | [Apply](https://www.linkedin.com/jobs/view/4450635483) |
-| 2026-08-06 | Salesforce Senior Developer | [Apply](https://www.linkedin.com/jobs/view/4450630792) |
 
 ## Agilent Technologies - Gurgaon, Haryana, India
 | Date | Job Title | Link |
@@ -226,12 +208,21 @@
 ## Agilent Technologies - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-06 | Sales Process Specialist APAC | [Apply](https://www.linkedin.com/jobs/view/4448625000) |
+| 2026-08-06 | Sales Process Specialist APAC | [Apply](https://www.linkedin.com/jobs/view/4448614330) |
+
+## Algoworks - Noida, Uttar Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-05 | Senior Principal Engineer - Salesforce Agentforce Solutions | [Apply](https://www.linkedin.com/jobs/view/4449405546) |
+
+## Allegro MicroSystems - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-08 | Channel Partner Manager | [Apply](https://www.linkedin.com/jobs/view/4442114876) |
 
 ## AllianceBernstein - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-05 | Sr Salesforce Administrator/Developer | [Apply](https://www.linkedin.com/jobs/view/4432275064) |
 | 2026-07-22 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4416605230) |
 
 ## Altera - Bengaluru, Karnataka, India
@@ -249,26 +240,31 @@
 |---|---|---|
 | 2026-07-29 | Quotation Specialist | [Apply](https://www.linkedin.com/jobs/view/4446408109) |
 
-## Amazon - 
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | Sales Manager- IN SWA, IN-SWA | [Apply](https://www.linkedin.com/jobs/view/4443028561) |
-
 ## Amazon - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-07 | Salesforce Developer I, Sales Technology, Amazon Advertising, Amazon Advertising, Sales and Partner Enablement | [Apply](https://www.linkedin.com/jobs/view/4450733994) |
 | 2026-08-04 | Sales Program Manager, ATES | [Apply](https://www.linkedin.com/jobs/view/4448653550) |
-| 2026-07-31 | Business Development Associate , Amazon Business Advisory | [Apply](https://www.linkedin.com/jobs/view/4447218437) |
 | 2026-07-30 | Business development- Value Added Services , Value Added Services | [Apply](https://www.linkedin.com/jobs/view/4444591157) |
+| 2026-07-22 | Business Development Manager, LPA Online Merchants | [Apply](https://www.linkedin.com/jobs/view/4443956642) |
 | Unknown | Salesforce Developer I, Sales and Partner Enablement | [Apply](https://www.linkedin.com/jobs/view/4443032292) |
+| Unknown | Account Manager, Amazon Shipping | [Apply](https://www.linkedin.com/jobs/view/4443053192) |
+| Unknown | Manager, Account Management, OHL | [Apply](https://www.linkedin.com/jobs/view/4443031373) |
+| Unknown | Sales Specialist, Global Channel Sales | [Apply](https://www.linkedin.com/jobs/view/4443030354) |
 | Unknown | Business Developer, FaaS | [Apply](https://www.linkedin.com/jobs/view/4443009985) |
-| Unknown | Manager, Account Management, OHL | [Apply](https://www.linkedin.com/jobs/view/4443046138) |
+
+## Amazon - Gurugram, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Sales Specialist , AMAZON SHIPPING | [Apply](https://www.linkedin.com/jobs/view/4443050225) |
+| Unknown | Manager, Account Management, OHL | [Apply](https://www.linkedin.com/jobs/view/4443049085) |
+| Unknown | Amazon Ads - Content Monetisation & Sponsorships , Amazon Ads - Content Monetisation & Sponsorships team | [Apply](https://www.linkedin.com/jobs/view/4443050323) |
 
 ## Amazon - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | Unknown | Salesforce Developer and Admin, ISS | [Apply](https://www.linkedin.com/jobs/view/4443012818) |
+| Unknown | Sales Analyst - II, ISG | [Apply](https://www.linkedin.com/jobs/view/4443047114) |
 
 ## American Express Global Business Travel - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
@@ -283,10 +279,9 @@
 ## Amgen - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-06-17 | Specialist IS Architect | [Apply](https://www.linkedin.com/jobs/view/4424738129) |
 | 2026-06-09 | Sr. Associate Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4416254528) |
 | 2026-05-16 | Senior Associate - Salesforce Engineer | [Apply](https://www.linkedin.com/jobs/view/4412901329) |
-| 2026-03-04 | Software Development Engineer | [Apply](https://www.linkedin.com/jobs/view/4379938201) |
+| 2026-03-04 | Software Development Engineer | [Apply](https://www.linkedin.com/jobs/view/4379940182) |
 
 ## Ample - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -297,11 +292,6 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-01 | Salesforce Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4430924211) |
-
-## Anovia Inc. - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-30 | Renewals Specialist | [Apply](https://www.linkedin.com/jobs/view/4446779870) |
 
 ## Appian - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
@@ -325,11 +315,6 @@
 |---|---|---|
 | 2026-08-03 | Account Executive - Chandigarh | [Apply](https://www.linkedin.com/jobs/view/4447977402) |
 
-## Apple - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-13 | Data Integration Engineer | [Apply](https://www.linkedin.com/jobs/view/4414170112) |
-
 ## Aptiv - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -344,7 +329,6 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-04 | Salesforce Architect - IN | [Apply](https://www.linkedin.com/jobs/view/4412735705) |
-| 2026-07-29 | DevOps Engineer ( VMware vSphere/ESXi ) | [Apply](https://www.linkedin.com/jobs/view/4437019708) |
 
 ## Arctic Wolf - Mundgod, Karnataka, India
 | Date | Job Title | Link |
@@ -356,41 +340,43 @@
 |---|---|---|
 | 2025-11-18 | Salesforce Architect | [Apply](https://www.linkedin.com/jobs/view/4274891989) |
 
-## Astound Digital - Ahmedabad, Gujarat, India
+## Artech L.L.C. - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-28 | Senior SFCC - Senior Salesforce Commerce Cloud - QA Engineer | [Apply](https://www.linkedin.com/jobs/view/4443263331) |
+| 2026-07-29 | Salesforce CDP Consultant | [Apply](https://www.linkedin.com/jobs/view/4446011767) |
 
 ## Astreya - Coimbatore, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Salesforce Developer II | [Apply](https://www.linkedin.com/jobs/view/4429850725) |
 
+## Atain - Gurugram, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Hiring Salesforce Consultant \|\| 5-10 yrs \|\| Gurugram hybrid - Immediate joiners only | [Apply](https://www.linkedin.com/jobs/view/4450108739) |
+
 ## Atlassian - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-29 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4446032756) |
-| 2026-07-24 | Account Executive, Mid Market | [Apply](https://www.linkedin.com/jobs/view/4436301624) |
 
 ## Atlassian - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-04 | Solution Sales Executive - Service Collection (India) | [Apply](https://www.linkedin.com/jobs/view/4438676105) |
 | 2026-07-29 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4446045580) |
-| 2026-07-27 | GSI Partner Manager - India | [Apply](https://www.linkedin.com/jobs/view/4428676696) |
 | 2026-07-24 | Account Executive, Mid Market | [Apply](https://www.linkedin.com/jobs/view/4436309391) |
 | 2026-07-23 | Account Manager, Strategic | [Apply](https://www.linkedin.com/jobs/view/4444734761) |
+
+## Atrium - Jaipur, Rajasthan, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-03 | Senior Salesforce Consultant | [Apply](https://www.linkedin.com/jobs/view/4439141128) |
 
 ## Axtria - Ingenious Insights - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-11 | Project Leader | [Apply](https://www.linkedin.com/jobs/view/4452181280) |
-| 2026-07-31 | Project Lead | [Apply](https://www.linkedin.com/jobs/view/4445515918) |
-
-## Axtria - Ingenious Insights - Gurugram, Haryana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-31 | Associate | [Apply](https://www.linkedin.com/jobs/view/4445511968) |
 
 ## Azul - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -418,14 +404,14 @@
 ## BMC Helix - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-23 | Marketing Technology Specialist- India | [Apply](https://www.linkedin.com/jobs/view/4434653717) |
+| 2026-08-06 | Senior Data Engineer - Pune | [Apply](https://www.linkedin.com/jobs/view/4429854563) |
 
 ## BOT Consulting - Jaipur, Rajasthan, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Business Application Administrator (Salesforce) | [Apply](https://www.linkedin.com/jobs/view/4450378041) |
-| 2026-07-18 | Senior Salesforce Consultant | [Apply](https://www.linkedin.com/jobs/view/4442189773) |
 | 2026-07-18 | Salesforce Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4442194587) |
+| 2026-07-18 | Senior Salesforce Consultant | [Apply](https://www.linkedin.com/jobs/view/4442189773) |
 
 ## Bajaj Broking - Pune District, Maharashtra, India
 | Date | Job Title | Link |
@@ -449,19 +435,19 @@
 ## Barclays - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Salesforce Engineer | [Apply](https://www.linkedin.com/jobs/view/4451033417) |
 | 2026-08-10 | Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4451030524) |
 | 2026-08-10 | Senior Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4451024942) |
 | 2026-08-08 | Technical Lead / Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4448715049) |
 | 2026-08-08 | Test Engineer - Salesforce ETL QA | [Apply](https://www.linkedin.com/jobs/view/4448719009) |
 | 2026-07-29 | VP – Salesforce Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4443669476) |
-| 2026-07-06 | Engineering Manager (VP) - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4433983732) |
-| 2026-07-03 | VP Engineering Lead | [Apply](https://www.linkedin.com/jobs/view/4433130390) |
+| 2026-07-28 | Salesforce Engineer | [Apply](https://www.linkedin.com/jobs/view/4443202505) |
+| 2026-07-06 | Engineering Manager - VP | [Apply](https://www.linkedin.com/jobs/view/4433125541) |
 
 ## Be a Catalyst - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce Presales Architect | [Apply](https://www.linkedin.com/jobs/view/4452370204) |
+| Unknown | Sr. Sales Manager Salesforce | [Apply](https://www.linkedin.com/jobs/view/4452353758) |
+| Unknown | Salesforce Architect | [Apply](https://www.linkedin.com/jobs/view/4452370204) |
 
 ## BearingPoint - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -483,21 +469,24 @@
 |---|---|---|
 | 2026-08-03 | Senior Salesforce Product Manager | [Apply](https://www.linkedin.com/jobs/view/4448131499) |
 
+## Birdeye - Gurugram, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-22 | Senior GTM Engineer | [Apply](https://www.linkedin.com/jobs/view/4422756437) |
+
 ## Birlasoft - 
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Lead Consultant - Enterprise Apps | [Apply](https://www.linkedin.com/jobs/view/4442033564) |
 | 2026-08-10 | Technical Specialist-Enterprise Apps | [Apply](https://www.linkedin.com/jobs/view/4451417515) |
-| 2026-08-08 | Sr Tech Lead - Salesforce Financial Services Cloud | [Apply](https://www.linkedin.com/jobs/view/4432984281) |
 | 2026-08-05 | Technical Lead-Enterprise Apps | [Apply](https://www.linkedin.com/jobs/view/4439885420) |
 | 2026-08-05 | Technical Specialist-SFDC Devops | [Apply](https://www.linkedin.com/jobs/view/4448988588) |
-| 2026-08-04 | Sr Lead Consultant -Salesforce developer-agentforce | [Apply](https://www.linkedin.com/jobs/view/4448287557) |
 | 2026-08-04 | Salesforce Developer- Technical Specialist-Enterprise Apps | [Apply](https://www.linkedin.com/jobs/view/4439818338) |
-| 2026-08-03 | Functional Specialist-Enterprise Apps | [Apply](https://www.linkedin.com/jobs/view/4439169241) |
+| 2026-08-04 | Sr Lead Consultant -Salesforce developer-agentforce | [Apply](https://www.linkedin.com/jobs/view/4448287557) |
 | 2026-08-03 | Project Lead-Enterprise Apps | [Apply](https://www.linkedin.com/jobs/view/4448208307) |
+| 2026-08-03 | Functional Specialist-Enterprise Apps | [Apply](https://www.linkedin.com/jobs/view/4439169241) |
 | 2026-07-28 | Technical Specialist-SFDC | [Apply](https://www.linkedin.com/jobs/view/4445719053) |
-| 2026-07-28 | Technical Specialist- SFDC | [Apply](https://www.linkedin.com/jobs/view/4445712190) |
-| 2026-07-27 | Sr Technical Lead-Salesforce marketing cloud developer | [Apply](https://www.linkedin.com/jobs/view/4445115003) |
-| Unknown | Lead Consultant - Enterprise Apps | [Apply](https://www.linkedin.com/jobs/view/4442033564) |
+| 2026-07-28 | Technical Specialist- SFDC | [Apply](https://www.linkedin.com/jobs/view/4445498935) |
 
 ## Birlasoft - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -508,15 +497,25 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-07 | ServiceNow Lead | [Apply](https://www.linkedin.com/jobs/view/4424368808) |
+| 2026-07-28 | Salesforce Marketing Cloud Developer | [Apply](https://www.linkedin.com/jobs/view/4443237452) |
 | 2026-07-22 | Sr Lead - SFDC Agentforce | [Apply](https://www.linkedin.com/jobs/view/4425270942) |
-| 2026-07-15 | SFDC Data Cloud | [Apply](https://www.linkedin.com/jobs/view/4438048730) |
-| 2026-07-15 | Salesforce Marketing Cloud Developer with Salesforce Personalization Experience | [Apply](https://www.linkedin.com/jobs/view/4438067275) |
 | 2026-07-15 | Salesforce Financial Services Cloud | [Apply](https://www.linkedin.com/jobs/view/4438047793) |
+| 2026-07-15 | SFDC Data Cloud | [Apply](https://www.linkedin.com/jobs/view/4438048730) |
+
+## Birlasoft - Pune City, Maharashtra, India
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Salesforce Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4450123509) |
 
 ## Black Box - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-04 | ServiceNow Developer | [Apply](https://www.linkedin.com/jobs/view/4421935279) |
+
+## Black Box - Mumbai, Maharashtra, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-25 | Sales Enablement Lead - TPS | [Apply](https://www.linkedin.com/jobs/view/4418728248) |
 
 ## Black Duck - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -527,6 +526,7 @@
 ## Blackbaud - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2025-12-27 | Principal Software Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4365078828) |
 | 2025-08-24 | Senior Software Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4302590583) |
 
 ## Blackbaud India - Hyderabad, Telangana, India
@@ -534,15 +534,16 @@
 |---|---|---|
 | 2026-07-27 | Production Service Engineer, Staff  - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4445130620) |
 
-## BlitzenX - Hyderabad, Telangana, India
+## Blue Altair - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-26 | Business Development Representative | [Apply](https://www.linkedin.com/jobs/view/4418214619) |
+| 2026-08-09 | Sr. Snowflake Developer (INDM) | [Apply](https://www.linkedin.com/jobs/view/4451347399) |
 
 ## Blue Yonder - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-27 | Sr Software Engineer - Salesforce, Apex | [Apply](https://www.linkedin.com/jobs/view/4445414089) |
+| Unknown | Lead Salesforce Engineer - Data Cloud & Agentforce | [Apply](https://www.linkedin.com/jobs/view/4452398085) |
 
 ## Blue Yonder - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -554,17 +555,16 @@
 |---|---|---|
 | 2026-08-07 | Lead Salesforce Engineer - Data Cloud & Agentforce | [Apply](https://www.linkedin.com/jobs/view/4450091968) |
 
+## Blue5Green - Bangalore North Rural, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-03 | Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4448138857) |
+
 ## Blue5Green - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-01-25 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4375156731) |
 | 2026-01-25 | Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4375157708) |
-| 2025-10-09 | Salesforce Developer - Hyderabad | [Apply](https://www.linkedin.com/jobs/view/4333895145) |
-
-## Blueflame Labs - Pune Division, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2025-01-22 | Salesforce Marketing Cloud Developer | [Apply](https://www.linkedin.com/jobs/view/4131827320) |
 
 ## Boston Consulting Group (BCG) - Gurgaon, Haryana, India
 | Date | Job Title | Link |
@@ -576,52 +576,46 @@
 |---|---|---|
 | 2026-07-22 | Senior Technical Adoption Manager (India, Bangalore, Remote) | [Apply](https://www.linkedin.com/jobs/view/4425591161) |
 
+## Bromine InfoTech - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-05 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4447337718) |
+
 ## Brookfield - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-08 | Investor Applications | [Apply](https://www.linkedin.com/jobs/view/4414921428) |
 | 2026-07-22 | Senior Analyst – Investor Applications | [Apply](https://www.linkedin.com/jobs/view/4416090367) |
 
-## BrowserStack - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-04 | Lead - Sales Strategy & Operations | [Apply](https://www.linkedin.com/jobs/view/4432204417) |
-
 ## Bunge - Sahibzada Ajit Singh Nagar, Punjab, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-23 | Technical Analyst - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4444449402) |
 
-## CG Infinity - Noida, Uttar Pradesh, India
+## ByteDance - Gurgaon, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-06-22 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4431782478) |
+| 2026-08-03 | Sales Development Representative - BytePlus | [Apply](https://www.linkedin.com/jobs/view/4447905457) |
 
 ## CGI - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-28 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4446386395) |
 
-## CMSS - Goregaon, Maharashtra, India
+## CHARLES & KEITH GROUP - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-05 | Sales Manager | [Apply](https://www.linkedin.com/jobs/view/4447354294) |
+| 2026-07-30 | Salesforce Commerce Cloud Operations Specialist (Remote) | [Apply](https://www.linkedin.com/jobs/view/4446721606) |
 
 ## CRM DEBUGZONE PVT.LTD. - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Salesforce Consultant | [Apply](https://www.linkedin.com/jobs/view/4449762235) |
 
-## Calitii - 
+## Cadence - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4451414386) |
-
-## Capgemini - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-15 | Salesforce DevOps | [Apply](https://www.linkedin.com/jobs/view/4438052718) |
-| 2026-06-25 | Salesforce LWC Lead | [Apply](https://www.linkedin.com/jobs/view/4420451724) |
+| 2026-07-26 | IT - Sr Systems Engineer (SFDC Business Systems Analyst) | [Apply](https://www.linkedin.com/jobs/view/4397299256) |
 
 ## Cargill - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -633,29 +627,21 @@
 |---|---|---|
 | 2026-07-14 | Salesforce Developer-2 | [Apply](https://www.linkedin.com/jobs/view/4439838940) |
 
-## Cashfree Payments - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-03 | Senior Associate - Emerging Business | [Apply](https://www.linkedin.com/jobs/view/4447903378) |
-
 ## Caterpillar Inc. - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-06 | Identity & Access Management (IAM) Lead _Lead Technology Specialist | [Apply](https://www.linkedin.com/jobs/view/4447584191) |
-| Unknown | Senior Software Engineer (Senior Salesforce Developer ) | [Apply](https://www.linkedin.com/jobs/view/4451652447) |
-| Unknown | Senior IT Analyst Applications (Solar) | [Apply](https://www.linkedin.com/jobs/view/4451647753) |
+| 2026-08-11 | Senior Software Engineer (Senior Salesforce Developer ) | [Apply](https://www.linkedin.com/jobs/view/4451652447) |
 
 ## Caterpillar Inc. - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Senior IT Analyst Applications (Salesforce DevOps Lead/Engineer) | [Apply](https://www.linkedin.com/jobs/view/4451637732) |
+| 2026-08-11 | Senior IT Analyst Applications (Salesforce DevOps Lead/Engineer) | [Apply](https://www.linkedin.com/jobs/view/4451637732) |
 
 ## Cencora - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-05 | Lead Engineer, Systems Engineering(Salesforce Architect) | [Apply](https://www.linkedin.com/jobs/view/4448012991) |
-| 2026-08-03 | Lead Engineer, Systems Engineering | [Apply](https://www.linkedin.com/jobs/view/4446244907) |
-| 2026-07-07 | Salesforce Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4408891821) |
+| 2026-08-03 | Senior Engineer, Systems Engineering | [Apply](https://www.linkedin.com/jobs/view/4446247768) |
+| 2026-08-03 | Senior Engineer, Systems Engineering - Salesforce Cloud | [Apply](https://www.linkedin.com/jobs/view/4446241916) |
 
 ## Chargebee - Bangalore Urban, Karnataka, India
 | Date | Job Title | Link |
@@ -666,13 +652,6 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-28 | Sr Specialist - Software Development & Engineering | [Apply](https://www.linkedin.com/jobs/view/4443272725) |
-| 2026-07-28 | Sr Manager, Software Development & Engineering Lead (PL) | [Apply](https://www.linkedin.com/jobs/view/4443282256) |
-| 2026-07-28 | SRE Platform Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4443295072) |
-
-## Check Point Software - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-11 | Salesforce CRM Specialist | [Apply](https://www.linkedin.com/jobs/view/4449826382) |
 
 ## Chegg India - Delhi, Delhi, India
 | Date | Job Title | Link |
@@ -682,14 +661,8 @@
 ## Ciklum India - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-06 | BA Principal Lead | [Apply](https://www.linkedin.com/jobs/view/4422338829) |
 | 2026-08-05 | Senior Salesforce Business Analyst | [Apply](https://www.linkedin.com/jobs/view/4421852948) |
 | 2026-08-01 | Sales Operations Analyst | [Apply](https://www.linkedin.com/jobs/view/4439088860) |
-
-## Circle - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-03 | Senior Customer Care Advisor | [Apply](https://www.linkedin.com/jobs/view/4445876784) |
 
 ## Cisco - 
 | Date | Job Title | Link |
@@ -701,8 +674,6 @@
 |---|---|---|
 | 2026-08-10 | Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4451518337) |
 | 2026-08-04 | Inside Account Executive | [Apply](https://www.linkedin.com/jobs/view/4449078152) |
-| 2026-07-29 | Associate Sales Representative (Full Time) – India Sales UHR | [Apply](https://www.linkedin.com/jobs/view/4437877927) |
-| 2026-07-27 | Software Engineer - Supply Chain, ERP \| 4 to 8 yrs - BLR | [Apply](https://www.linkedin.com/jobs/view/4437156663) |
 | 2026-07-24 | Account Executive - Portfolio | [Apply](https://www.linkedin.com/jobs/view/4444994199) |
 
 ## Cisco - Gurugram, Haryana, India
@@ -720,12 +691,11 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Solutions Engineer | [Apply](https://www.linkedin.com/jobs/view/4450286489) |
-| Unknown | Account Executive - Architecture | [Apply](https://www.linkedin.com/jobs/view/4452690561) |
 
 ## Cisco - Mumbai, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-09 | Account Executive - Portfolio | [Apply](https://www.linkedin.com/jobs/view/4451348280) |
+| 2026-07-31 | Partner Account Executive | [Apply](https://www.linkedin.com/jobs/view/4447505248) |
 | 2026-07-29 | Solutions Engineer | [Apply](https://www.linkedin.com/jobs/view/4446033843) |
 
 ## Citi - Chennai, Tamil Nadu, India
@@ -738,10 +708,10 @@
 |---|---|---|
 | 2026-08-06 | Salesforce Marketing Cloud Analyst | [Apply](https://www.linkedin.com/jobs/view/4440772181) |
 
-## ClanX - 
+## Clearwater Analytics - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce Consultant | [Apply](https://www.linkedin.com/jobs/view/4453061611) |
+| 2026-08-04 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4439470229) |
 
 ## Cloud Analogy - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -759,35 +729,48 @@
 | 2026-07-27 | Lead Salesforce Data Cloud Developer | [Apply](https://www.linkedin.com/jobs/view/4445139790) |
 | 2026-07-27 | Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4444880420) |
 
-## CloudPires - Vijayawada East, Andhra Pradesh, India
+## Coforge - Gautam Buddha Nagar, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-07 | Technical Consultant (Remote) | [Apply](https://www.linkedin.com/jobs/view/4450042002) |
-
-## Cloudflare - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-06 | Manager, BDR - SAARC | [Apply](https://www.linkedin.com/jobs/view/4395534485) |
+| 2026-08-06 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4448410582) |
 
 ## Coforge - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-27 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4442871352) |
 
+## Coforge - Noida, Uttar Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-29 | ServiceNow Developer | [Apply](https://www.linkedin.com/jobs/view/4446405919) |
+
 ## Cognizant - Bangalore Urban, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-29 | Technology Architect | [Apply](https://www.linkedin.com/jobs/view/4446035504) |
+| 2026-07-28 | Salesforce Ncino Developer | [Apply](https://www.linkedin.com/jobs/view/4436244922) |
 
 ## Cognizant - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-08 | Docusign - Developer or Senior Developer | [Apply](https://www.linkedin.com/jobs/view/4450916682) |
 | 2026-07-29 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4446053160) |
+
+## Cognizant - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-28 | Principal Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4445476667) |
 
 ## Colgate-Palmolive - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-05 | Sr. Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4432292512) |
+
+## Columbia Sportswear Company - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-29 | Sr. Software Engineer (Emerging Channels) | [Apply](https://www.linkedin.com/jobs/view/4417134014) |
+| 2026-03-26 | Sr. Software Engineer (Consumer Growth Platforms) | [Apply](https://www.linkedin.com/jobs/view/4388964521) |
 
 ## Commutatus - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -799,11 +782,6 @@
 |---|---|---|
 | 2026-07-26 | Business Systems Analyst | [Apply](https://www.linkedin.com/jobs/view/4444848109) |
 
-## Compatio AI - Ernakulam, Kerala, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-04-21 | Sales Operations Technical Specialist | [Apply](https://www.linkedin.com/jobs/view/4404977213) |
-
 ## Concept Medical - Surat, Gujarat, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -812,12 +790,23 @@
 ## Conscendo - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2025-01-31 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4139745241) |
 | 2024-01-25 | Salesforce Lead | [Apply](https://www.linkedin.com/jobs/view/3815124010) |
+
+## Consilio LLC - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-01 | Business Analyst, Salesforce | [Apply](https://www.linkedin.com/jobs/view/4429671805) |
 
 ## Converse - Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-06-30 | Senior Software Engineer, Global Converse, ITC | [Apply](https://www.linkedin.com/jobs/view/4434702226) |
+
+## Copado - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-31 | Business Development Representative (BDR) – India | [Apply](https://www.linkedin.com/jobs/view/4418259511) |
 
 ## Copado - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -828,7 +817,6 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-03-23 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4388941174) |
-| 2026-03-16 | Salesforce Support Lead | [Apply](https://www.linkedin.com/jobs/view/4384999565) |
 
 ## Cornerstone OnDemand - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
@@ -850,10 +838,10 @@
 |---|---|---|
 | 2026-08-05 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4449638761) |
 
-## Crisil - Ahmedabad, Gujarat, India
+## Crisil - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce Developer Lead | [Apply](https://www.linkedin.com/jobs/view/4452363228) |
+| Unknown | Salesforce Developer Lead | [Apply](https://www.linkedin.com/jobs/view/4452368217) |
 
 ## Crisil - Gurugram, Haryana, India
 | Date | Job Title | Link |
@@ -863,7 +851,7 @@
 ## Crisil - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-27 | Salesforces Developer Order-to-Cash (OTC)  and CPQ | [Apply](https://www.linkedin.com/jobs/view/4444891500) |
+| 2026-07-28 | Salesforces Developer Order-to-Cash (OTC)  and CPQ | [Apply](https://www.linkedin.com/jobs/view/4445467511) |
 | Unknown | Salesforce Developer Lead | [Apply](https://www.linkedin.com/jobs/view/4452374144) |
 
 ## Crisil - Mumbai, Maharashtra, India
@@ -879,33 +867,18 @@
 ## CriticalRiver Inc. - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Salesforce DevOps Engineer | [Apply](https://www.linkedin.com/jobs/view/4451134293) |
 | 2026-08-07 | Salesforce Technical Manager | [Apply](https://www.linkedin.com/jobs/view/4450313815) |
-
-## Crossover - 
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | Enterprise Renewals Lead, Trilogy (Remote) - $200,000/year USD | [Apply](https://www.linkedin.com/jobs/view/4452312372) |
 
 ## CrowdStrike - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-07-31 | Sales Development Representative, Bangalore | [Apply](https://www.linkedin.com/jobs/view/4362258064) |
 | 2026-07-30 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4415261256) |
-
-## CrowdStrike - Pune City, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-10 | Supervisor, Sales Operations (Hybrid, India) | [Apply](https://www.linkedin.com/jobs/view/4431073209) |
 
 ## Curriculum Associates - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Senior Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4450659173) |
-
-## Cushman & Wakefield - Gurgaon, Haryana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-27 | Salesforce Data & Reporting Analyst | [Apply](https://www.linkedin.com/jobs/view/4445940395) |
 
 ## Cvent - Gurugram, Haryana, India
 | Date | Job Title | Link |
@@ -916,6 +889,11 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-27 | Senior Analyst/Manager – Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4417186778) |
+
+## DIGIIQ IT SOLUTION PRIVATE LIMITED - Noida, Uttar Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-05 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4447370410) |
 
 ## DataBeat - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -933,18 +911,22 @@
 ## Databricks - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Manager, Partner Strategy & Operations | [Apply](https://www.linkedin.com/jobs/view/4397533281) |
-| 2026-08-01 | Account Executive | [Apply](https://www.linkedin.com/jobs/view/4297752003) |
+| 2026-07-24 | Enterprise Hunter Account Executive - FSI West | [Apply](https://www.linkedin.com/jobs/view/4413333310) |
 
 ## Databricks - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-29 | Senior Designated Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4416811178) |
+| 2026-08-01 | Senior - Finance Data and AI Specialist | [Apply](https://www.linkedin.com/jobs/view/4445558524) |
 
-## Dazeworks Technologies Private Limited - Bengaluru, Karnataka, India
+## Definitive Healthcare - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-10 | Senior Lightning Developer | [Apply](https://www.linkedin.com/jobs/view/4439057246) |
+| 2026-07-22 | Enterprise Application Engineer | [Apply](https://www.linkedin.com/jobs/view/4405528565) |
+
+## Delinea - New Delhi, Delhi, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-03 | Enterprise Sales Director (New Delhi based) | [Apply](https://www.linkedin.com/jobs/view/4329649999) |
 
 ## Deloitte - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -952,6 +934,9 @@
 | 2026-08-08 | Salesforce Experience Cloud Technical Developer | [Apply](https://www.linkedin.com/jobs/view/4449265047) |
 | 2026-08-08 | Salesforce CPQ Developer | [Apply](https://www.linkedin.com/jobs/view/4449251662) |
 | 2026-08-02 | Salesforce Technical - Senior Consultant, Technical Transformation - Sales & Service -Customer | [Apply](https://www.linkedin.com/jobs/view/4419089009) |
+| 2026-08-01 | Oracle SaaS Cloud Security - Manager | [Apply](https://www.linkedin.com/jobs/view/4437991151) |
+| 2026-07-31 | Salesforce RCA Architect-Lead Business Transformation Architect-Sales & Services-Customer | [Apply](https://www.linkedin.com/jobs/view/4447163036) |
+| 2026-07-30 | Consultant- Tax - TTC- DocuSign - Hyderabad/Bengaluru/Gurugram/Pune/Mumbai | [Apply](https://www.linkedin.com/jobs/view/4416801167) |
 | 2026-07-29 | Salesforce Agentforce Developer | [Apply](https://www.linkedin.com/jobs/view/4446410645) |
 | 2026-07-27 | ServiceNow - Consultant, Technical Transformation - Sales & Services- Customer | [Apply](https://www.linkedin.com/jobs/view/4445152351) |
 
@@ -959,21 +944,19 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-05 | Salesforce Technical - Lead Business Transformation Architect - Sales & Service - Customer | [Apply](https://www.linkedin.com/jobs/view/4439885103) |
-| 2026-08-04 | Oracle PaaS Cloud Security - Consultant | [Apply](https://www.linkedin.com/jobs/view/4439434195) |
-| 2026-08-01 | Salesforce Technical - Senior Consultant, Technical Transformation - Sales & Service -Customer | [Apply](https://www.linkedin.com/jobs/view/4419079475) |
 | 2026-07-31 | Salesforce RCA Architect-Lead Business Transformation Architect-Sales & Services-Customer | [Apply](https://www.linkedin.com/jobs/view/4447163035) |
 
 ## Deloitte - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Senior Tax Services - Salesforce - MDT - - Hyderabad & Bengaluru | [Apply](https://www.linkedin.com/jobs/view/4442041154) |
 | 2026-08-05 | Salesforce Technical - Lead Business Transformation Architect - Sales & Service - Customer | [Apply](https://www.linkedin.com/jobs/view/4439877457) |
+| 2026-08-05 | Lead Business Transformation Architect -Sales & Service -Salesforce CPQ Architect | [Apply](https://www.linkedin.com/jobs/view/4439870854) |
 | 2026-08-03 | Salesforce Technical - Senior Consultant, Technical Transformation - Sales & Service -Customer | [Apply](https://www.linkedin.com/jobs/view/4419078528) |
-| 2026-08-02 | Oracle Incentive Cloud - Senior Consultant, Technical Transformation - Sales & Services- Customer | [Apply](https://www.linkedin.com/jobs/view/4419077636) |
 | 2026-08-01 | Salesforce Technical - Associate Business Transformation Architect - Sales & Service - Customer | [Apply](https://www.linkedin.com/jobs/view/4421720148) |
-| 2026-07-28 | Salesforce Technical Specialist- Assistant Manager- Hyderabad | [Apply](https://www.linkedin.com/jobs/view/4435455782) |
+| 2026-07-30 | Consultant- Tax - TTC- DocuSign - Hyderabad/Bengaluru/Gurugram/Pune/Mumbai | [Apply](https://www.linkedin.com/jobs/view/4416804146) |
 | 2026-07-28 | Software Specialist Engineer II- Assistant Manager-Salesforce Einstein/CRM Analytics-Hyderabad | [Apply](https://www.linkedin.com/jobs/view/4436216616) |
 | 2026-07-27 | ServiceNow - Consultant, Technical Transformation - Sales & Services- Customer | [Apply](https://www.linkedin.com/jobs/view/4445147728) |
-| Unknown | Senior Tax Services - Salesforce - MDT - - Hyderabad & Bengaluru | [Apply](https://www.linkedin.com/jobs/view/4442041154) |
 
 ## Deloitte - Lucknow, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -983,7 +966,7 @@
 ## Deloitte - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-01 | Oracle Incentive Cloud - Senior Consultant, Technical Transformation - Sales & Services- Customer | [Apply](https://www.linkedin.com/jobs/view/4419081452) |
+| 2026-08-01 | Salesforce Technical Architect Life Sciences - Lead Business Transformation Architect - Sales & Service -Customer | [Apply](https://www.linkedin.com/jobs/view/4421716477) |
 | 2026-07-31 | Salesforce RCA Architect-Lead Business Transformation Architect-Sales & Services-Customer | [Apply](https://www.linkedin.com/jobs/view/4447158092) |
 | 2026-07-27 | ServiceNow - Consultant, Technical Transformation - Sales & Services- Customer | [Apply](https://www.linkedin.com/jobs/view/4445168208) |
 
@@ -991,6 +974,7 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-17 | Senior Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4441194436) |
+| 2026-06-29 | Lead Salesforce Administrator & Release Manager | [Apply](https://www.linkedin.com/jobs/view/4433652609) |
 | 2026-06-28 | Salesforce Platform Administrator | [Apply](https://www.linkedin.com/jobs/view/4433627349) |
 
 ## Denodo - Chennai, Tamil Nadu, India
@@ -1001,7 +985,6 @@
 ## Dentsu Global Services - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-05 | Technical Lead - SFDC | [Apply](https://www.linkedin.com/jobs/view/4379679532) |
 | 2026-07-28 | Senior Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4445747691) |
 | 2026-07-23 | Salesforce Associate Architect | [Apply](https://www.linkedin.com/jobs/view/4444009138) |
 
@@ -1015,11 +998,6 @@
 |---|---|---|
 | 2026-07-15 | SalesForce - AVP | [Apply](https://www.linkedin.com/jobs/view/4441232288) |
 
-## Dhruvsoft - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-21 | Senior Salesforce / SFDC Developers / Consultant | [Apply](https://www.linkedin.com/jobs/view/4442669720) |
-
 ## Dialpad - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -1032,35 +1010,26 @@
 | 2026-07-10 | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4438341165) |
 | 2026-06-11 | Sr. Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4426629134) |
 
-## DiggyPOD - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-06 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4448998493) |
-
 ## Digile - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-24 | Salesforce Developer – Revenue Cloud (CPQ & Billing) | [Apply](https://www.linkedin.com/jobs/view/4398617313) |
 
-## Digile - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-13 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4437253325) |
-
-## DigitalOcean - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-04-06 | Revenue Operations Engineer | [Apply](https://www.linkedin.com/jobs/view/4388344272) |
-
 ## DigitalXNode - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-09 | Salesforce Developer \| Remote \| Jobs in India | [Apply](https://www.linkedin.com/jobs/view/4451342541) |
+| 2026-07-30 | Salesforce Revenue Cloud Developer | [Apply](https://www.linkedin.com/jobs/view/4444575671) |
+| 2026-07-24 | Salesforce Marketing Cloud Consultant (B2C) | [Apply](https://www.linkedin.com/jobs/view/4444775131) |
 
 ## DigitalXNode - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-27 | Salesforce Practice Head | [Apply](https://www.linkedin.com/jobs/view/4446163194) |
+
+## DigitalXNode - Gurgaon, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2025-10-08 | Salesforce CPQ Consultant | [Apply](https://www.linkedin.com/jobs/view/4312372167) |
 
 ## Diligente Technologies - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -1072,27 +1041,14 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-08 | Software Engineer – Salesforce & GTM Systems | [Apply](https://www.linkedin.com/jobs/view/4393402269) |
-| 2026-08-08 | SDET | [Apply](https://www.linkedin.com/jobs/view/4424566545) |
 | 2026-08-07 | Software Engineer, Enterprise Platforms | [Apply](https://www.linkedin.com/jobs/view/4441150788) |
 | 2026-08-03 | Senior Manager - Application Engineering | [Apply](https://www.linkedin.com/jobs/view/4390920832) |
+| 2026-07-30 | App & AI Business System Analyst – Commerce Applications | [Apply](https://www.linkedin.com/jobs/view/4437529435) |
+| 2026-07-25 | SDET | [Apply](https://www.linkedin.com/jobs/view/4416198872) |
 | 2026-07-24 | Sr. Software Engineer, Sales | [Apply](https://www.linkedin.com/jobs/view/4444306188) |
 | 2026-07-23 | Engineering Manager – Salesforce & GTM Systems | [Apply](https://www.linkedin.com/jobs/view/4443811053) |
+| 2026-07-22 | Senior Technical Consultant | [Apply](https://www.linkedin.com/jobs/view/4415911016) |
 | Unknown | Senior Platform Architect - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4393444880) |
-
-## Dover India - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-14 | Lead Technical SAAS Support | [Apply](https://www.linkedin.com/jobs/view/4439817789) |
-
-## Dr. Martens plc - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-03 | Senior Salesforce Developer - Service Cloud | [Apply](https://www.linkedin.com/jobs/view/4448169967) |
-
-## Dreamcast - Jaipur, Rajasthan, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-18 | Sales Associate ( SAAS ) | [Apply](https://www.linkedin.com/jobs/view/4441740480) |
 
 ## E.L.F. BEAUTY - 
 | Date | Job Title | Link |
@@ -1108,22 +1064,21 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-06 | Senior Salesforce Business Analyst | [Apply](https://www.linkedin.com/jobs/view/4433901935) |
-| 2026-06-02 | Sales Operations Specialist | [Apply](https://www.linkedin.com/jobs/view/4419245748) |
 
 ## ETG Digital - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-03-31 | Business Development Executive | [Apply](https://www.linkedin.com/jobs/view/4392422055) |
 
-## ETG Digital - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-06-16 | Consultant - Salesforce Core | [Apply](https://www.linkedin.com/jobs/view/4429521520) |
-
 ## ETS - Delhi, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4442798018) |
+| 2026-08-11 | Salesforce Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4442798018) |
+
+## EVERSANA - 
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Sr Salesforce Developer (Health Cloud & AI) | [Apply](https://www.linkedin.com/jobs/view/4452367681) |
 
 ## EXL - Gurugram, Haryana, India
 | Date | Job Title | Link |
@@ -1136,16 +1091,15 @@
 |---|---|---|
 | 2026-07-30 | Senior Executive | [Apply](https://www.linkedin.com/jobs/view/4446569868) |
 
+## EXL - Noida, Uttar Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-30 | Manager - Salesforce Admin | [Apply](https://www.linkedin.com/jobs/view/4446747018) |
+
 ## EY - Coimbatore, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-30 | Senior Consultant - CRM and sales transformation | [Apply](https://www.linkedin.com/jobs/view/4434858459) |
 | 2026-07-28 | Manager - CRM and sales transformation | [Apply](https://www.linkedin.com/jobs/view/4443621602) |
-
-## EY - Delhi, India
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | Consultant - Tech Consulting - National - CNS - TC - DIGITAL ENGINEERING - New Delhi | [Apply](https://www.linkedin.com/jobs/view/4440429487) |
 
 ## EY - Kochi, Kerala, India
 | Date | Job Title | Link |
@@ -1157,6 +1111,7 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-05 | Customer Tech - Salesforce - Senior Developers | [Apply](https://www.linkedin.com/jobs/view/4447370767) |
+| 2026-07-29 | Senior Consultant - CRM and sales transformation | [Apply](https://www.linkedin.com/jobs/view/4434861364) |
 
 ## EY - Trivandrum, Kerala, India
 | Date | Job Title | Link |
@@ -1169,10 +1124,10 @@
 |---|---|---|
 | 2026-08-07 | Senior Analyst - IT - Salesforce Development | [Apply](https://www.linkedin.com/jobs/view/4438718568) |
 
-## Ecolab - Bengaluru East, Karnataka, India
+## Edwards Lifesciences - Pune City, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-25 | Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4417493319) |
+| 2026-07-23 | Principal Salesforce Developer, IT | [Apply](https://www.linkedin.com/jobs/view/4441512633) |
 
 ## Eightfold AI - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -1207,29 +1162,33 @@
 ## Emerson - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-22 | Senior Developer (Salesforce, Oracle DB) | [Apply](https://www.linkedin.com/jobs/view/4443798280) |
+| Unknown | Senior Developer (Salesforce, Oracle DB) | [Apply](https://www.linkedin.com/jobs/view/4443798280) |
+
+## Encora Inc. - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-02-08 | Salesforce Lead | [Apply](https://www.linkedin.com/jobs/view/4381461762) |
 
 ## Endpoint Clinical - Itanagar, Arunachal Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-31 | Manager, Sales Operations | [Apply](https://www.linkedin.com/jobs/view/4447508228) |
 
-## Enphase Energy - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4452438454) |
-
 ## Enverus - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-09 | Salesforce Billing Administrator - 26133 | [Apply](https://www.linkedin.com/jobs/view/4404795335) |
 
+## Ethos - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-22 | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4406868870) |
+
 ## Everpure - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-07 | Sales Operations Analyst | [Apply](https://www.linkedin.com/jobs/view/4433585919) |
-| 2026-08-03 | Manager - GTM Systems | [Apply](https://www.linkedin.com/jobs/view/4447985215) |
-| 2026-07-23 | Senior Sales Planning Analyst | [Apply](https://www.linkedin.com/jobs/view/4415760806) |
+| 2026-08-03 | Business Systems Analyst (Partner Operations) | [Apply](https://www.linkedin.com/jobs/view/4439411266) |
 
 ## Evora Group - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -1251,11 +1210,6 @@
 |---|---|---|
 | 2026-07-22 | Senior Salesforce developer | [Apply](https://www.linkedin.com/jobs/view/4443796181) |
 
-## FIS - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-10 | Senior Salesforce Developer- 6 to 10 Years -Pune | [Apply](https://www.linkedin.com/jobs/view/4451574414) |
-
 ## Fastly - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -1270,7 +1224,7 @@
 ## Fictiv - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-08 | Senior Integrations Engineer | [Apply](https://www.linkedin.com/jobs/view/4402474225) |
+| 2026-08-06 | Senior Software Engineer- Salesforce | [Apply](https://www.linkedin.com/jobs/view/4413434061) |
 | 2026-08-03 | Engineering Manager-Salesforce | [Apply](https://www.linkedin.com/jobs/view/4403435576) |
 | 2026-07-25 | Software Engineer, Salesforce | [Apply](https://www.linkedin.com/jobs/view/4428141253) |
 
@@ -1279,15 +1233,15 @@
 |---|---|---|
 | Unknown | Sr. GTM Engineer | [Apply](https://www.linkedin.com/jobs/view/4451973461) |
 
+## First Advantage - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-19 | Salesforce Admin Leader | [Apply](https://www.linkedin.com/jobs/view/4415529870) |
+
 ## Flextron Tech - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-06-22 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4432030807) |
-
-## Flight Centre Travel Group - Noida, Uttar Pradesh, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-10 | Senior Quality Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4442592519) |
 
 ## Flutter Entertainment India - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -1307,19 +1261,18 @@
 ## Fortinet - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-06-23 | Regional Account Manager - Emerging | [Apply](https://www.linkedin.com/jobs/view/4431231358) |
-| 2025-09-30 | Technical Support Engineer - 2 | [Apply](https://www.linkedin.com/jobs/view/4331634298) |
+| 2025-09-30 | Technical Support Engineer - 2 | [Apply](https://www.linkedin.com/jobs/view/4331628922) |
 
 ## Fortinet - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-03 | Presales Systems Engineer | [Apply](https://www.linkedin.com/jobs/view/4448317179) |
 | 2026-07-31 | Senior Systems Engineer - Enterprise | [Apply](https://www.linkedin.com/jobs/view/4447501877) |
 
-## Fortinet - Gurugram, Haryana, India
+## Fortinet - Mumbai, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-30 | Platform Architect (Presales) – IT/ITES | [Apply](https://www.linkedin.com/jobs/view/4446721336) |
+| 2026-06-11 | Senior Systems Engineer - Telco/MSSP | [Apply](https://www.linkedin.com/jobs/view/4427519266) |
+| 2026-03-16 | Major Account Manager | [Apply](https://www.linkedin.com/jobs/view/4386343384) |
 
 ## Fractal - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -1334,34 +1287,37 @@
 ## Freshworks - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-31 | Lead - Business Systems Services | [Apply](https://www.linkedin.com/jobs/view/4447522642) |
+| 2026-08-06 | Lead - Business Systems Services | [Apply](https://www.linkedin.com/jobs/view/4449993189) |
 
 ## Fujitsu - 
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Technical Consultant - Salesforce Developer - 10556 | [Apply](https://www.linkedin.com/jobs/view/4448869299) |
 | 2026-08-11 | Technical Consultant - Salesforce Developer - 10558 | [Apply](https://www.linkedin.com/jobs/view/4449017579) |
 | Unknown | Technical Consultant - Salesforce Developer - 10557 | [Apply](https://www.linkedin.com/jobs/view/4449015649) |
 
 ## Fujitsu - Bangalore Urban, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-11 | Technical Consultant - Salesforce Developer - 10556 | [Apply](https://www.linkedin.com/jobs/view/4448875143) |
-| 2026-08-11 | Technical Consultant - Salesforce Developer - 10555 | [Apply](https://www.linkedin.com/jobs/view/4448853996) |
-| 2026-08-11 | Technical Consultant - Salesforce Developer - 10558 | [Apply](https://www.linkedin.com/jobs/view/4449009778) |
+| 2026-08-11 | Technical Consultant - Salesforce Developer - 10557 | [Apply](https://www.linkedin.com/jobs/view/4449023439) |
 
 ## Fujitsu - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-11 | Technical Consultant - Salesforce Developer - 10555 | [Apply](https://www.linkedin.com/jobs/view/4448861429) |
-| 2026-08-11 | Technical Consultant - Salesforce Developer - 10558 | [Apply](https://www.linkedin.com/jobs/view/4449015646) |
-| 2026-08-11 | Technical Consultant - Salesforce Developer - 10556 | [Apply](https://www.linkedin.com/jobs/view/4448858567) |
 | 2026-08-11 | Technical Consultant - Salesforce Developer - 10557 | [Apply](https://www.linkedin.com/jobs/view/4449021557) |
+| 2026-08-11 | Technical Consultant - Salesforce Developer - 10556 | [Apply](https://www.linkedin.com/jobs/view/4448858567) |
 
 ## Fujitsu - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Technical Consultant - Salesforce Developer - 10557 | [Apply](https://www.linkedin.com/jobs/view/4449022561) |
+| 2026-08-11 | Technical Consultant - Salesforce Developer - 10556 | [Apply](https://www.linkedin.com/jobs/view/4448856954) |
 | 2026-08-11 | Technical Consultant - Salesforce Developer - 10558 | [Apply](https://www.linkedin.com/jobs/view/4449018610) |
-| Unknown | Technical Consultant - Salesforce Developer - 10556 | [Apply](https://www.linkedin.com/jobs/view/4448856954) |
+
+## G2 - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-30 | Account Executive, SMB - APAC/EMEA | [Apply](https://www.linkedin.com/jobs/view/4438528094) |
 
 ## Gartner - Gurgaon, Haryana, India
 | Date | Job Title | Link |
@@ -1371,14 +1327,13 @@
 ## GeekSoft Consulting - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Salesforce Agentforce & Data Cloud (Customer 360) Consultant | [Apply](https://www.linkedin.com/jobs/view/4451673983) |
-| 2026-08-04 | Salesforce Agentforce & Einstein AI Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4449135218) |
 | 2026-08-04 | Salesforce Senior Consultant | [Apply](https://www.linkedin.com/jobs/view/4449117980) |
 
 ## Genetrix Technology - Anupgarh, Rajasthan, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-10 | Salesforce executive | [Apply](https://www.linkedin.com/jobs/view/4435961712) |
+| 2026-07-10 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4435967259) |
 
 ## Genzeon Technology Solutions - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -1395,11 +1350,6 @@
 |---|---|---|
 | 2026-08-03 | Salesforce Developer - 3-7 Years –Pune | [Apply](https://www.linkedin.com/jobs/view/4448151095) |
 
-## Global Payments Inc. - Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-03 | Salesforce Developer - 3-7 Years –Pune | [Apply](https://www.linkedin.com/jobs/view/4448153077) |
-
 ## Global Payments Inc. - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -1408,6 +1358,8 @@
 | 2026-08-03 | Engineering Manager - Salesforce - 7-10Years – Pune | [Apply](https://www.linkedin.com/jobs/view/4448152105) |
 | 2026-08-03 | Salesforce Architect - 6-10Years -Pune | [Apply](https://www.linkedin.com/jobs/view/4448136969) |
 | 2026-08-03 | Salesforce Developer - 3-7 Years –Pune | [Apply](https://www.linkedin.com/jobs/view/4448148164) |
+| Unknown | Business Analyst -Salesforce | [Apply](https://www.linkedin.com/jobs/view/4453119706) |
+| Unknown | Salesforce Release Manager - 5-8 Years – Pune | [Apply](https://www.linkedin.com/jobs/view/4453110747) |
 
 ## Goldman Sachs - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -1420,14 +1372,14 @@
 | 2026-08-03 | Senior Product Manager, Google Cloud Business Platform | [Apply](https://www.linkedin.com/jobs/view/4447923155) |
 | 2026-07-31 | Product Manager, Google Cloud Business Platform | [Apply](https://www.linkedin.com/jobs/view/4437561846) |
 | 2026-07-31 | Data Analytics Sales Specialist Manager, Google Cloud | [Apply](https://www.linkedin.com/jobs/view/4446953343) |
-| 2026-07-22 | Software Engineer III, Salesforce, Google Cloud | [Apply](https://www.linkedin.com/jobs/view/4443122562) |
+| 2026-07-30 | Google Workspace Sales Specialist, New Business, Google Cloud | [Apply](https://www.linkedin.com/jobs/view/4446468301) |
+| Unknown | Software Engineer III, Salesforce, Google Cloud | [Apply](https://www.linkedin.com/jobs/view/4443122562) |
 
 ## Google - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-10 | Data Analytics Sales Specialist, Google Cloud | [Apply](https://www.linkedin.com/jobs/view/4451176616) |
 | 2026-07-31 | GCP New Business Sales Executive | [Apply](https://www.linkedin.com/jobs/view/4437579012) |
-| 2026-07-24 | AI Sales Specialist, Small and Medium Businesses | [Apply](https://www.linkedin.com/jobs/view/4444333489) |
 
 ## Google - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -1447,12 +1399,7 @@
 ## GroundTruth - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-17 | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4434960467) |
-
-## Guidehouse - Chennai, Tamil Nadu, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-04 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4448892881) |
+| Unknown | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4434960467) |
 
 ## Gujarat Fluorochemicals Limited - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -1463,12 +1410,18 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4448404158) |
+| 2026-08-04 | Salesforce DevOps Engineer (Copado / Flosum / Release Management) | [Apply](https://www.linkedin.com/jobs/view/4446620921) |
 | 2026-07-16 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4438453930) |
 
-## HJ Software Private Limited - Hyderabad, Telangana, India
+## HID - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4452372050) |
+| 2026-07-26 | Senior Developer - CPQ | [Apply](https://www.linkedin.com/jobs/view/4375501927) |
+
+## HMH - Pune District, Maharashtra, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-29 | Sr Delivery Lead (Salesforce) | [Apply](https://www.linkedin.com/jobs/view/4446050028) |
 
 ## HP - 
 | Date | Job Title | Link |
@@ -1491,25 +1444,20 @@
 |---|---|---|
 | 2026-08-06 | Commercial Account Manager | [Apply](https://www.linkedin.com/jobs/view/4450286619) |
 | 2026-08-04 | Partner Business Specialist | [Apply](https://www.linkedin.com/jobs/view/4449081209) |
-| 2026-08-04 | Partner Sales Rep | [Apply](https://www.linkedin.com/jobs/view/4449085133) |
 
 ## HP - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-04 | Enterprise Account Manager | [Apply](https://www.linkedin.com/jobs/view/4449090045) |
+| 2026-08-04 | Video Editor | [Apply](https://www.linkedin.com/jobs/view/4449087090) |
 
 ## HTC Global Services - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-22 | Salesforce Cloud Technical Consultant(Service Module) | [Apply](https://www.linkedin.com/jobs/view/4443953283) |
-| 2026-07-22 | Salesforce Data Cloud & Technical Consultant | [Apply](https://www.linkedin.com/jobs/view/4443939908) |
 | 2026-07-22 | Salesforce Integration Cloud Consultant | [Apply](https://www.linkedin.com/jobs/view/4443943752) |
-
-## HTC Global Services - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-30 | Salesforce QA | [Apply](https://www.linkedin.com/jobs/view/4446934526) |
-| 2026-07-27 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4445964079) |
+| 2026-07-22 | Salesforce Data Cloud & Technical Consultant | [Apply](https://www.linkedin.com/jobs/view/4443939908) |
+| 2026-07-22 | Salesforce Service Cloud Solution Expert | [Apply](https://www.linkedin.com/jobs/view/4443946729) |
 
 ## HackerRank - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
@@ -1524,16 +1472,23 @@
 ## Heptarc Talent Acquisition - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-07-09 | Salesforce Developer- Service Cloud | [Apply](https://www.linkedin.com/jobs/view/4438605480) |
 | 2026-07-09 | Salesforce Developer- Sales Cloud | [Apply](https://www.linkedin.com/jobs/view/4438599777) |
 | 2026-02-23 | Sr. Salesforce Developer- Service Cloud | [Apply](https://www.linkedin.com/jobs/view/4376553721) |
-| 2026-02-04 | Salesforce FSL | [Apply](https://www.linkedin.com/jobs/view/4369289070) |
+| 2026-02-04 | Salesforce Developer- Revenue Cloud | [Apply](https://www.linkedin.com/jobs/view/4369270979) |
 | 2026-02-04 | Salesforce Service Cloud/ Sales Cloud | [Apply](https://www.linkedin.com/jobs/view/4369283145) |
-| 2025-12-05 | Salesforce Developer – Revenue Cloud | [Apply](https://www.linkedin.com/jobs/view/4342482132) |
+| 2025-12-09 | Salesforce Vlocity Developer | [Apply](https://www.linkedin.com/jobs/view/4342698783) |
+| 2025-12-05 | Tech Lead- Salesforce | [Apply](https://www.linkedin.com/jobs/view/4342471899) |
 
-## HireFlexperts - Noida, Uttar Pradesh, India
+## Hewlett Packard Enterprise - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4452456502) |
+| 2026-07-30 | Sales Processing Associate | [Apply](https://www.linkedin.com/jobs/view/4446835024) |
+
+## HighRadius - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-11 | Senior Product Solutions Architect | [Apply](https://www.linkedin.com/jobs/view/4449848134) |
 
 ## Hitachi Digital - New Delhi, Delhi, India
 | Date | Job Title | Link |
@@ -1557,12 +1512,11 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-31 | Sr IT Architect | [Apply](https://www.linkedin.com/jobs/view/4439065115) |
-| 2026-07-20 | Sr Sales Ops Specialist | [Apply](https://www.linkedin.com/jobs/view/4442599689) |
 
 ## Honeywell Technologies - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-07 | Tech Supp Professional | [Apply](https://www.linkedin.com/jobs/view/4450754044) |
+| Unknown | Tech Supp Professional | [Apply](https://www.linkedin.com/jobs/view/4453119235) |
 
 ## Horizontal Digital - Jaipur, Rajasthan, India
 | Date | Job Title | Link |
@@ -1572,12 +1526,18 @@
 ## Huron - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-10 | Senior Salesforce Business Analyst | [Apply](https://www.linkedin.com/jobs/view/4449531825) |
 | 2026-07-21 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4440465283) |
 
 ## Huron - Jaipur, Rajasthan, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2025-12-05 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4348581128) |
+
+## HyTechPro - Noida, Uttar Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-03 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4445880894) |
 
 ## IBM - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -1594,6 +1554,11 @@
 |---|---|---|
 | 2026-07-25 | Sr. Manager, GTM Systems | [Apply](https://www.linkedin.com/jobs/view/4444666027) |
 
+## IDEMIA - Noida, Uttar Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4453072987) |
+
 ## IKS Health - Mumbai, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -1602,14 +1567,14 @@
 ## INRY - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-23 | Software Licensing Specialist | [Apply](https://www.linkedin.com/jobs/view/4444453867) |
 | 2026-07-23 | Salesforce Operations & Data Quality Specialist | [Apply](https://www.linkedin.com/jobs/view/4444474396) |
+| 2026-07-23 | Software Licensing Specialist | [Apply](https://www.linkedin.com/jobs/view/4444453867) |
 
 ## INRY - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-23 | Salesforce Operations & Data Quality Specialist | [Apply](https://www.linkedin.com/jobs/view/4444473456) |
 | 2026-07-23 | Software Licensing Specialist | [Apply](https://www.linkedin.com/jobs/view/4444471105) |
+| 2026-07-23 | Salesforce Operations & Data Quality Specialist | [Apply](https://www.linkedin.com/jobs/view/4444473456) |
 | 2026-07-23 | Senior Software Licensing Specialist | [Apply](https://www.linkedin.com/jobs/view/4444462667) |
 
 ## INSPYR Global Solutions - Hyderabad, Telangana, India
@@ -1622,10 +1587,15 @@
 |---|---|---|
 | 2026-07-20 | Salesforce Lead | [Apply](https://www.linkedin.com/jobs/view/4440122689) |
 
-## IRISS, Inc. - Bengaluru, Karnataka, India
+## Ideagen - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-27 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4419878048) |
+| 2026-08-05 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4407820674) |
+
+## Impronics Technologies - Gurugram, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2024-03-12 | Salesforce | [Apply](https://www.linkedin.com/jobs/view/3854829183) |
 
 ## InMobi Advertising - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -1638,26 +1608,37 @@
 | 2026-08-04 | SDE III - Salesforce. | [Apply](https://www.linkedin.com/jobs/view/4449004360) |
 | 2026-07-23 | SDE II - Salesforce AI. | [Apply](https://www.linkedin.com/jobs/view/4444474263) |
 
-## Infinite Computer Solutions - Goa, India
+## InfoBeans - Bangalore Rural, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-06 | Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4450613835) |
+| 2026-07-15 | Digital Adoption Specialist | [Apply](https://www.linkedin.com/jobs/view/4441206396) |
 
 ## InfoBeans - Pune District, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-28 | Salesforce Business Analyst | [Apply](https://www.linkedin.com/jobs/view/4414565038) |
-| 2026-07-13 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4440033089) |
-
-## Infosys - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-26 | IT Consulting | [Apply](https://www.linkedin.com/jobs/view/4436009824) |
 
 ## Infrabyte Technology - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-10 | Salesforce Developer (2-3yrs) | [Apply](https://www.linkedin.com/jobs/view/4451622833) |
+| 2026-08-10 | Salesforce Business Analyst (2-3yrs only) | [Apply](https://www.linkedin.com/jobs/view/4451651008) |
+
+## Ingram Micro - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-28 | Solutions Architect - Lead | [Apply](https://www.linkedin.com/jobs/view/4426806785) |
+
+## Innova ESI - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4453092803) |
+| Unknown | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4453097745) |
+
+## Innowrap - Mumbai, Maharashtra, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-07 | BDM (IT Sales and Software Sales, B2B and B2C Sales) | [Apply](https://www.linkedin.com/jobs/view/4450071444) |
 
 ## InspireXT - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
@@ -1669,20 +1650,23 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-07 | Enterprise Application Development Engineer | [Apply](https://www.linkedin.com/jobs/view/4450072700) |
-| 2026-07-29 | Design Verification Engineer | [Apply](https://www.linkedin.com/jobs/view/4446049004) |
-| 2026-07-29 | CPU DFT Manager | [Apply](https://www.linkedin.com/jobs/view/4436597559) |
-| 2026-07-23 | Platform Integration Engineer | [Apply](https://www.linkedin.com/jobs/view/4427168900) |
-| Unknown | Requisition to Order (R2O) – Technology Product Owner | [Apply](https://www.linkedin.com/jobs/view/4451694114) |
+| 2026-07-25 | Program Manager - Sales Excellence | [Apply](https://www.linkedin.com/jobs/view/4435458179) |
+| Unknown | AI/ML Technologist | [Apply](https://www.linkedin.com/jobs/view/4434304851) |
 
 ## IntouchCX - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-06-30 | CCaaS / CRM Administrator | [Apply](https://www.linkedin.com/jobs/view/4434359726) |
 | 2024-12-24 | Salesforce Expert | [Apply](https://www.linkedin.com/jobs/view/4108935760) |
+
+## Inunent - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-06-26 | Senior Sales Executive | [Apply](https://www.linkedin.com/jobs/view/4432953532) |
 
 ## JForce Solutions - 
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-07-31 | JForce Solutions - Salesforce Developer - Lightning Web Components | [Apply](https://www.linkedin.com/jobs/view/4447214768) |
 | 2026-05-13 | Salesforce Lightning Developer/javascript Developer | [Apply](https://www.linkedin.com/jobs/view/4410608440) |
 
 ## JPMorganChase - Hyderabad, Telangana, India
@@ -1690,10 +1674,10 @@
 |---|---|---|
 | 2026-08-07 | Lead Software Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4450720203) |
 
-## Jade Global - Bengaluru, Karnataka, India
+## JRD Systems - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-14 | Strategic Alliances (Oracle, Salesforce & NetSuite) | [Apply](https://www.linkedin.com/jobs/view/4414567889) |
+| Unknown | Integration / Sync Engineer | [Apply](https://www.linkedin.com/jobs/view/4453114278) |
 
 ## Jade Global - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -1716,7 +1700,6 @@
 ## Jade Global - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-06-17 | Salesforce ARM_Agentforce Developer | [Apply](https://www.linkedin.com/jobs/view/4429906699) |
 | 2026-06-02 | Salesforce Developer / Senior Salesforce Consultant | [Apply](https://www.linkedin.com/jobs/view/4422428672) |
 | 2026-05-14 | Strategic Alliances (Oracle, Salesforce & NetSuite) | [Apply](https://www.linkedin.com/jobs/view/4414575673) |
 | 2026-05-08 | Salesforce Alliances Lead | [Apply](https://www.linkedin.com/jobs/view/4411719504) |
@@ -1726,8 +1709,7 @@
 ## Jobgether - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-07 | Salesforce QA | [Apply](https://www.linkedin.com/jobs/view/4448728701) |
-| Unknown | Salesforce Service Cloud Developer | [Apply](https://www.linkedin.com/jobs/view/4452427445) |
+| 2026-08-11 | Salesforce Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4452190074) |
 
 ## Johnson Controls - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -1743,7 +1725,6 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-05 | Senior Channel Revenue Operations - India (North America Shift) | [Apply](https://www.linkedin.com/jobs/view/4438055867) |
-| 2026-07-29 | Account Executive, North America SMB - India | [Apply](https://www.linkedin.com/jobs/view/4444134868) |
 
 ## KKR - Gurugram, Haryana, India
 | Date | Job Title | Link |
@@ -1757,10 +1738,20 @@
 |---|---|---|
 | Unknown | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4453059528) |
 
+## Kantata - Bangalore Urban, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-07 | Engineer II | [Apply](https://www.linkedin.com/jobs/view/4448769024) |
+
 ## Kantata - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-10 | Engineer II | [Apply](https://www.linkedin.com/jobs/view/4452013878) |
+
+## Kaplan - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-01-07 | Salesforce Engineer II (Hybrid) | [Apply](https://www.linkedin.com/jobs/view/4358287174) |
 
 ## Ken42 - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -1772,32 +1763,35 @@
 |---|---|---|
 | 2026-07-21 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4443334401) |
 
-## Kerala Vision Broadband Limited - Kerala, India
+## Kenandy, Inc - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Network Security Engineer | [Apply](https://www.linkedin.com/jobs/view/4451144169) |
+| 2026-08-08 | Sr. Software Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4449276168) |
 
 ## Keysight Technologies - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | IT Engineer,Software,Expert | [Apply](https://www.linkedin.com/jobs/view/4452418237) |
 | 2026-05-15 | IT Engineer,Software,Advanced | [Apply](https://www.linkedin.com/jobs/view/4411543971) |
-| Unknown | IT Engineer,Software,Expert | [Apply](https://www.linkedin.com/jobs/view/4452418237) |
 
 ## Keysight Technologies - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | IT Engineer,Software,Expert | [Apply](https://www.linkedin.com/jobs/view/4452405464) |
 | 2026-08-10 | Business Process, Senior | [Apply](https://www.linkedin.com/jobs/view/4449549140) |
-| Unknown | IT Engineer,Software,Expert | [Apply](https://www.linkedin.com/jobs/view/4452405464) |
+| 2026-08-10 | Business Process Sr Rep | [Apply](https://www.linkedin.com/jobs/view/4449551061) |
 
 ## Koch - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-07-30 | Salesforce Delivery Manager | [Apply](https://www.linkedin.com/jobs/view/4435659858) |
 | Unknown | Salesforce Specialist | [Apply](https://www.linkedin.com/jobs/view/4442621337) |
 
 ## Komodo Health - 
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Consultant (Salesforce Configuration) | [Apply](https://www.linkedin.com/jobs/view/4267731071) |
+| 2026-08-11 | Consultant (Salesforce Configuration) | [Apply](https://www.linkedin.com/jobs/view/4267731071) |
+| 2026-07-25 | Senior Software Engineer (Salesforce) | [Apply](https://www.linkedin.com/jobs/view/4409040524) |
 
 ## Kotak Mahindra Bank - Mumbai, Maharashtra, India
 | Date | Job Title | Link |
@@ -1809,56 +1803,37 @@
 |---|---|---|
 | 2026-06-24 | Salesforce Developer \|\| CMMI -3 \|\| Remote Working | [Apply](https://www.linkedin.com/jobs/view/4429876373) |
 
-## L'Oréal - Hyderabad, Telangana, India
+## Larsen & Toubro - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-05 | SAP Authorizations & Security Lead | [Apply](https://www.linkedin.com/jobs/view/4439995743) |
-
-## LTIMindtree - Bhubaneswar, Odisha, India
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | FSL Tech lead/Architect | [Apply](https://www.linkedin.com/jobs/view/4449848789) |
-
-## LTM - Pune Division, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-29 | Senior Specialist  - Salesforce Technical Lead or Developer FSL  - Software Engineering | [Apply](https://www.linkedin.com/jobs/view/4446064343) |
-
-## Lambda - Bangalore Urban, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-22 | Senior Salesforce Developer/Architect (Bangalore, India) | [Apply](https://www.linkedin.com/jobs/view/4441076718) |
-
-## Lauren Group - Mumbai, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | Specialist Seller – Databricks | [Apply](https://www.linkedin.com/jobs/view/4452475405) |
+| 2026-07-23 | Assistant Manager | [Apply](https://www.linkedin.com/jobs/view/4430443915) |
 
 ## Lean IT Inc. - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-10 | Salesforce (AI) Platform Engineer  (4+ yrs experience) | [Apply](https://www.linkedin.com/jobs/view/4451188921) |
 
-## Leica Camera AG - Himayatnagar, Telangana, India
+## Lecan Solutions - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-07 | Digital | [Apply](https://www.linkedin.com/jobs/view/4450014457) |
+| 2026-06-02 | Salesforce AI Technical Architect (Agentforce) \| Associate Manager / Manager / Senior Manager \| Pan India | [Apply](https://www.linkedin.com/jobs/view/4423899443) |
+
+## Leica Microsystems - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-30 | Sales Incentive Plan Analyst | [Apply](https://www.linkedin.com/jobs/view/4435687273) |
 
 ## Lenovo - Bangalore Urban, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-07 | Solutions & Services Executive | [Apply](https://www.linkedin.com/jobs/view/4433215720) |
 | 2026-08-06 | Inside Sales Representative | [Apply](https://www.linkedin.com/jobs/view/4449775789) |
+| Unknown | Solutions & Services Inside Sales - Config & Deploy | [Apply](https://www.linkedin.com/jobs/view/4452379814) |
 
 ## Lenovo - Mumbai, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-05 | Account Manager | [Apply](https://www.linkedin.com/jobs/view/4440208576) |
-
-## Liberis - Mumbai, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-27 | Salesforce Engineering Lead | [Apply](https://www.linkedin.com/jobs/view/4442854355) |
 
 ## Lifesight - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -1870,47 +1845,23 @@
 |---|---|---|
 | 2026-07-29 | Data Specialist I | [Apply](https://www.linkedin.com/jobs/view/4437052320) |
 
-## LinkedIn - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-24 | Account Executive  - LinkedIn Talent Solutions | [Apply](https://www.linkedin.com/jobs/view/4444929314) |
-
 ## LinkedIn - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-11 | Senior Software Engineer - Fullstack | [Apply](https://www.linkedin.com/jobs/view/4452180992) |
-| 2026-08-10 | Account Executive, Talent Solutions- [1 year contract] | [Apply](https://www.linkedin.com/jobs/view/4451535024) |
 | 2026-08-07 | Staff Software Engineer - Enterprise Infrastructure | [Apply](https://www.linkedin.com/jobs/view/4441935406) |
-| 2026-08-07 | Account Executive- LinkedIn Talent Solutions | [Apply](https://www.linkedin.com/jobs/view/4448722324) |
-| 2026-08-06 | Senior Sales Manager, LinkedIn Marketing Solutions | [Apply](https://www.linkedin.com/jobs/view/4419298054) |
+| 2026-08-03 | Sr Manager - Finance Technology & Innovation | [Apply](https://www.linkedin.com/jobs/view/4448151701) |
 | 2026-07-30 | Senior Business Systems Analyst | [Apply](https://www.linkedin.com/jobs/view/4438258936) |
-| 2026-07-28 | Product Operations Manager | [Apply](https://www.linkedin.com/jobs/view/4443210980) |
-
-## LinkedIn - Coimbatore, Tamil Nadu, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-31 | Hybrid Account Executive - Talent Solutions | [Apply](https://www.linkedin.com/jobs/view/4439041014) |
-
-## LinkedIn - Gurgaon, Haryana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-29 | Account Executive, LinkedIn Talent Solutions | [Apply](https://www.linkedin.com/jobs/view/4438181847) |
-
-## LinkedIn - Gurugram, Haryana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-30 | Account Executive, LinkedIn Talent Solutions | [Apply](https://www.linkedin.com/jobs/view/4429986367) |
-| 2026-07-22 | Account Manager, LinkedIn Talent Solutions | [Apply](https://www.linkedin.com/jobs/view/4422287519) |
-
-## Live Connections - Pune District, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | IT & Technology Roles-Face to Face Drive | [Apply](https://www.linkedin.com/jobs/view/4451900179) |
+| Unknown | Sr. Contingent Workforce Business Partner, APAC | [Apply](https://www.linkedin.com/jobs/view/4452619626) |
 
 ## LiveRamp - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-22 | GTM System Lead- Salesforce lead | [Apply](https://www.linkedin.com/jobs/view/4421312858) |
+
+## Locus - 
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Senior Business Development Associate | [Apply](https://www.linkedin.com/jobs/view/4452393394) |
 
 ## Locus - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -1943,10 +1894,20 @@
 |---|---|---|
 | 2026-04-23 | Nomad eSIM- Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4404770487) |
 
-## Lutron Electronics - Gurgaon, Haryana, India
+## Lutron Electronics - 
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Information Technology Leader | [Apply](https://www.linkedin.com/jobs/view/4440186281) |
+| Unknown | Salesforce Team Leader | [Apply](https://www.linkedin.com/jobs/view/4440186281) |
+
+## MLVeda - Ahmedabad, Gujarat, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-06-19 | Senior Salesforce Education Cloud Developer | [Apply](https://www.linkedin.com/jobs/view/4430909160) |
+
+## MTX Group - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-26 | Pre-Sales Consultant | [Apply](https://www.linkedin.com/jobs/view/4324679932) |
 
 ## MTX Group - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -1958,16 +1919,6 @@
 |---|---|---|
 | 2026-07-31 | AVP Salesforce Dev Lead | [Apply](https://www.linkedin.com/jobs/view/4446751724) |
 
-## Macquarie Group - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-10 | Executive/Assistant Manager \|\| ServiceNow Engineer | [Apply](https://www.linkedin.com/jobs/view/4440127513) |
-
-## Manras Technologies - Dera Bassi, Punjab, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-07 | Senior Sales Representative | [Apply](https://www.linkedin.com/jobs/view/4450056811) |
-
 ## MarketStar - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -1977,33 +1928,45 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-10 | Technical Architect - Salesforce [T500-26831] | [Apply](https://www.linkedin.com/jobs/view/4451538433) |
+| 2026-08-05 | Associate Director [T500-28226] | [Apply](https://www.linkedin.com/jobs/view/4449465972) |
 | 2026-07-29 | Senior Software Engineer II - Salesforce [T500-27976] | [Apply](https://www.linkedin.com/jobs/view/4446563988) |
 
 ## Mastercard - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Senior System Administrator | [Apply](https://www.linkedin.com/jobs/view/4451152250) |
 | 2026-08-04 | Lead Generation Specialist, APAC-EEMEA | [Apply](https://www.linkedin.com/jobs/view/4446670609) |
-| Unknown | Senior Analyst – Business Development Support | [Apply](https://www.linkedin.com/jobs/view/4440177781) |
 | Unknown | Manager – Business Development Support | [Apply](https://www.linkedin.com/jobs/view/4440180675) |
-| Unknown | Senior System Administrator | [Apply](https://www.linkedin.com/jobs/view/4451152250) |
+| Unknown | Senior Analyst – Business Development Support | [Apply](https://www.linkedin.com/jobs/view/4440177781) |
 | Unknown | Manager, Deal Management | [Apply](https://www.linkedin.com/jobs/view/4440178745) |
 | Unknown | Consumer Credit Analytics – Global Product Manager - Specialist | [Apply](https://www.linkedin.com/jobs/view/4440196233) |
 
 ## Mastercard - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Senior Software Development Engineer in Test (Performance) | [Apply](https://www.linkedin.com/jobs/view/4449556416) |
 | 2026-07-30 | Senior Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4445038386) |
-| 2026-07-30 | Senior Data Engineering | [Apply](https://www.linkedin.com/jobs/view/4445020393) |
 | Unknown | Director, Product Management - CRM Platform | [Apply](https://www.linkedin.com/jobs/view/4449860637) |
 
 ## Mattel, Inc. - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-06 | Associate Support Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4432451494) |
 | 2026-07-30 | Lead Product Owner - Salesforce TPM | [Apply](https://www.linkedin.com/jobs/view/4446477935) |
-| 2026-07-28 | Sr Software Engineer - Oracle | [Apply](https://www.linkedin.com/jobs/view/4400967940) |
 | 2026-07-23 | Sr Software Engineer -Salesforce | [Apply](https://www.linkedin.com/jobs/view/4416697914) |
+
+## Mavlers - 
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Senior Salesforce Sales Business Analyst | [Apply](https://www.linkedin.com/jobs/view/4450142542) |
+
+## MaxVal Group, Inc. - Coimbatore, Tamil Nadu, India
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4453093631) |
+
+## Medsurge Global - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Senior Software Engineer – Salesforce | [Apply](https://www.linkedin.com/jobs/view/4450133087) |
 
 ## Medtronic - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -2034,31 +1997,28 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-07 | Solution Area Specialists - ABS | [Apply](https://www.linkedin.com/jobs/view/4402274667) |
-| 2026-07-23 | Solution Area Specialists Windows & Devices | [Apply](https://www.linkedin.com/jobs/view/4444428752) |
 
 ## Microsoft - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-10 | Solution Sales Advisory | [Apply](https://www.linkedin.com/jobs/view/4451521854) |
-| 2026-08-05 | Solution Area Specialists -Copilot | [Apply](https://www.linkedin.com/jobs/view/4449492911) |
-
-## Milestone Technologies, Inc. - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-28 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4443230395) |
+| 2026-07-26 | Sr Digital Solution Area Specialist - Security | [Apply](https://www.linkedin.com/jobs/view/4387824761) |
 
 ## Milestone Technologies, Inc. - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-29 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4443693373) |
-| 2026-07-22 | Salesforce - Senior Engineer | [Apply](https://www.linkedin.com/jobs/view/4443771030) |
-| 2026-07-21 | Salesforce - Team Lead | [Apply](https://www.linkedin.com/jobs/view/4431500733) |
+| 2026-07-27 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4442847666) |
 
 ## Milestone Technologies, Inc. - Kochi, Kerala, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-10 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4449572352) |
 | 2026-08-07 | Salesforce Lead | [Apply](https://www.linkedin.com/jobs/view/4448789246) |
+
+## MillerKnoll - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-28 | Application Developer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4436536313) |
 
 ## Mimecast - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -2069,11 +2029,7 @@
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-27 | Senior Business Development Specialist | [Apply](https://www.linkedin.com/jobs/view/4444866482) |
-
-## Mindera - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-06-30 | Senior Salesforce Loyalty Cloud Solution Architect (SFMC) | [Apply](https://www.linkedin.com/jobs/view/4434924757) |
+| 2026-07-08 | Salesforce FSC Developer | [Apply](https://www.linkedin.com/jobs/view/4437037944) |
 
 ## Mindstix Software Labs - Pune District, Maharashtra, India
 | Date | Job Title | Link |
@@ -2090,6 +2046,11 @@
 |---|---|---|
 | 2026-08-04 | Salesforce "Financial Services Cloud" Technical SME” | [Apply](https://www.linkedin.com/jobs/view/4446299964) |
 
+## Modulr - Pune Division, Maharashtra, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-04 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4437282877) |
+
 ## Molbio Diagnostics - Goa, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -2105,6 +2066,7 @@
 |---|---|---|
 | 2026-08-08 | Salesforce CPQ engineer 3 | [Apply](https://www.linkedin.com/jobs/view/4404862055) |
 | 2026-08-05 | Senior Engineer - GTM Tech | [Apply](https://www.linkedin.com/jobs/view/4440813175) |
+| 2026-08-04 | Sales Operations Analyst | [Apply](https://www.linkedin.com/jobs/view/4431230623) |
 | 2026-08-03 | Senior Administrator - Business Systems | [Apply](https://www.linkedin.com/jobs/view/4403404164) |
 | 2026-07-31 | Engineer 3 - GTM Tech | [Apply](https://www.linkedin.com/jobs/view/4420423041) |
 | 2026-07-28 | Senior Salesforce Engineer | [Apply](https://www.linkedin.com/jobs/view/4437788321) |
@@ -2113,12 +2075,23 @@
 ## Moody's Corporation - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-01 | Sr Business Application Analyst | [Apply](https://www.linkedin.com/jobs/view/4447787510) |
 | 2026-07-28 | Fulfillment Analyst | [Apply](https://www.linkedin.com/jobs/view/4437417196) |
+
+## Morningstar - Mumbai, Maharashtra, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-15 | Sr. Salesforce Administrator (Pipeline Req) | [Apply](https://www.linkedin.com/jobs/view/4439328825) |
 
 ## Motorola Solutions - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce QA Tester | [Apply](https://www.linkedin.com/jobs/view/4452423115) |
+| 2026-08-11 | Salesforce QA Tester | [Apply](https://www.linkedin.com/jobs/view/4452423115) |
+
+## Mount Talent Consulting Pvt Ltd. - Bangalore Urban, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-16 | Manager/Sr Manager/Architect | [Apply](https://www.linkedin.com/jobs/view/4438720191) |
 
 ## Movado Group, Inc - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -2128,15 +2101,13 @@
 ## Mphasis - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4451631069) |
 | Unknown | Delivery Module Lead | [Apply](https://www.linkedin.com/jobs/view/4452489205) |
-| Unknown | Delv Senior Software Eng | [Apply](https://www.linkedin.com/jobs/view/4452489204) |
 
 ## Mphasis - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-07 | Delivery Module Lead | [Apply](https://www.linkedin.com/jobs/view/4450081064) |
-| Unknown | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4452401729) |
+| 2026-08-11 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4452401729) |
+| 2026-08-11 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4451627755) |
 
 ## Mphasis - Mumbai, Maharashtra, India
 | Date | Job Title | Link |
@@ -2146,7 +2117,7 @@
 ## Mumba Technologies, Inc. - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce Architect | [Apply](https://www.linkedin.com/jobs/view/4452418836) |
+| 2026-08-11 | Salesforce Architect | [Apply](https://www.linkedin.com/jobs/view/4452418836) |
 
 ## Mythics - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -2164,62 +2135,41 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-08-05 | Staff Engineer, Salesforce | [Apply](https://www.linkedin.com/jobs/view/4438085651) |
 
-## NTT DATA North America - Delhi, Delhi, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-06 | Salesforce Sr. Dev | [Apply](https://www.linkedin.com/jobs/view/4449999730) |
-
 ## NTT DATA North America - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-30 | Salesforce Developer - Service Cloud & Agentforce | [Apply](https://www.linkedin.com/jobs/view/4438229446) |
 | 2026-07-29 | Salesforce Vlocity Lead | [Apply](https://www.linkedin.com/jobs/view/4446566340) |
+| 2026-07-25 | Salesforce Vlocity Developer | [Apply](https://www.linkedin.com/jobs/view/4428128822) |
 
 ## NTT DATA North America - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-01 | Salesforce Agentforce Developer | [Apply](https://www.linkedin.com/jobs/view/4430962702) |
 
-## NVIDIA - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-30 | Senior Developer Relations Manager | [Apply](https://www.linkedin.com/jobs/view/4446890305) |
-
 ## NVIDIA - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-09 | PCIe IP Verification Engineer | [Apply](https://www.linkedin.com/jobs/view/4432904828) |
-| 2026-08-05 | Senior Solutions Architect, Generative AI | [Apply](https://www.linkedin.com/jobs/view/4424006275) |
-| 2026-08-04 | Senior Developer Relations Manager | [Apply](https://www.linkedin.com/jobs/view/4448258441) |
-| 2026-08-03 | Senior System Software Engineer, Compute System | [Apply](https://www.linkedin.com/jobs/view/4402312628) |
-| 2026-08-01 | Architect - GPU Performance | [Apply](https://www.linkedin.com/jobs/view/4411907054) |
-| 2026-07-30 | Senior Developer Relations Manager, Robotics | [Apply](https://www.linkedin.com/jobs/view/4446897081) |
-| 2026-07-26 | Senior CAD Engineer | [Apply](https://www.linkedin.com/jobs/view/4444804213) |
-| 2026-07-24 | CAD Engineer | [Apply](https://www.linkedin.com/jobs/view/4395478567) |
-| 2026-07-24 | Verification Engineer - PCIE | [Apply](https://www.linkedin.com/jobs/view/4426159980) |
+| 2026-08-05 | Senior Developer Relations Manager | [Apply](https://www.linkedin.com/jobs/view/4424014166) |
 
 ## NVIDIA - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-01 | Senior Architect - Server Performance | [Apply](https://www.linkedin.com/jobs/view/4402312629) |
+| 2026-08-09 | Senior Safety Architect - DRIVE SW | [Apply](https://www.linkedin.com/jobs/view/4405065242) |
 | 2026-07-28 | SoC Modelling Architect | [Apply](https://www.linkedin.com/jobs/view/4445422018) |
 | 2026-07-26 | Senior CAD Engineer | [Apply](https://www.linkedin.com/jobs/view/4444692771) |
+| 2026-07-25 | Senior Verification Engineer, PCIE | [Apply](https://www.linkedin.com/jobs/view/4395479509) |
 | 2026-07-24 | Senior Developer Relations Manager | [Apply](https://www.linkedin.com/jobs/view/4395469652) |
-
-## NVIDIA - Pune City, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-26 | Manager, System Software Engineering - Local AI | [Apply](https://www.linkedin.com/jobs/view/4444808198) |
 
 ## NVIDIA - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-30 | Senior Developer Relations Manager | [Apply](https://www.linkedin.com/jobs/view/4446881801) |
 
-## NXP Semiconductors - 
+## NVIDIA AI - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-13 | Senior Business Development Manager | [Apply](https://www.linkedin.com/jobs/view/4440098074) |
+| 2026-08-05 | Senior Developer Relations Manager | [Apply](https://www.linkedin.com/jobs/view/4447366947) |
 
 ## NXP Semiconductors - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -2229,6 +2179,7 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Nagarro - 
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-05 | Staff Engineer, Salesforce Marketing Cloud | [Apply](https://www.linkedin.com/jobs/view/4448913392) |
 | 2026-08-01 | Associate Principal Engineer, CRM Salesforce CPQ (Technical Architect) | [Apply](https://www.linkedin.com/jobs/view/4390704269) |
 
 ## Nasuni - Hyderabad, Telangana, India
@@ -2250,23 +2201,25 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-07 | Software QA Engineer | [Apply](https://www.linkedin.com/jobs/view/4449239026) |
-| 2026-07-15 | Field Excellence Program Manager | [Apply](https://www.linkedin.com/jobs/view/4431531459) |
+| 2026-08-06 | AI Analyst | [Apply](https://www.linkedin.com/jobs/view/4448420825) |
 
 ## NetApp - Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-21 | Solutions Engineer | [Apply](https://www.linkedin.com/jobs/view/4432721075) |
 
-## NetSfere - Bengaluru, Karnataka, India
+## Netradyne - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2024-12-13 | Inside Sales Executive | [Apply](https://www.linkedin.com/jobs/view/4099689499) |
+| 2026-08-05 | Salesforce Techno Functional Consultant | [Apply](https://www.linkedin.com/jobs/view/4448943740) |
+| 2026-07-23 | Business Operations Specialist | [Apply](https://www.linkedin.com/jobs/view/4435032805) |
 
 ## NeuraFlash - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-30 | Salesforce Consultant, Field Service | [Apply](https://www.linkedin.com/jobs/view/4447207032) |
+| 2026-08-03 | Salesforce Manager, Quality Assurance & Consulting | [Apply](https://www.linkedin.com/jobs/view/4448618247) |
 | 2026-07-30 | Sr. Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4447203042) |
+| 2026-07-30 | Salesforce Consultant, Field Service | [Apply](https://www.linkedin.com/jobs/view/4447207032) |
 | 2026-06-03 | Salesforce Technical Architect, Data & AI | [Apply](https://www.linkedin.com/jobs/view/4423048046) |
 | 2026-05-29 | Salesforce Technical Architect, AI and Agentforce | [Apply](https://www.linkedin.com/jobs/view/4420665903) |
 
@@ -2278,13 +2231,13 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Neuron7.ai - Bangalore Urban, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Solution Architect – Salesforce Field Service & AI (GenAI / LLM) | [Apply](https://www.linkedin.com/jobs/view/4451673408) |
+| 2026-08-11 | Solution Architect – Salesforce Field Service & AI (GenAI / LLM) | [Apply](https://www.linkedin.com/jobs/view/4451673408) |
 
 ## New Relic - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Senior Salesforce Developer, Service Cloud | [Apply](https://www.linkedin.com/jobs/view/4451642108) |
 | 2026-08-04 | Business System Analyst | [Apply](https://www.linkedin.com/jobs/view/4440561070) |
-| Unknown | Senior Salesforce Developer, Service Cloud | [Apply](https://www.linkedin.com/jobs/view/4451642108) |
 
 ## New Relic - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -2294,18 +2247,7 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Nextpower - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Sales Analyst | [Apply](https://www.linkedin.com/jobs/view/4441789316) |
 | 2026-08-09 | Salesforce Administrator – Reporting | [Apply](https://www.linkedin.com/jobs/view/4414712192) |
-
-## Nike - Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-30 | Senior Data Engineer, ITC | [Apply](https://www.linkedin.com/jobs/view/4446818021) |
-
-## Notion - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-29 | Product Support Manager | [Apply](https://www.linkedin.com/jobs/view/4419159081) |
 
 ## Novartis India - 
 | Date | Job Title | Link |
@@ -2325,32 +2267,33 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## OSF Digital - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-11 | Salesforce Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4440532721) |
 | 2026-07-31 | Salesforce CPQ Developer | [Apply](https://www.linkedin.com/jobs/view/4447288647) |
+| Unknown | Salesforce Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4440532721) |
 
 ## OSI Digital - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-28 | Regional Sales Lead - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4446305069) |
+| 2026-06-10 | Salesforce Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4426737872) |
 
 ## Octave - 
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Account Development Representative | [Apply](https://www.linkedin.com/jobs/view/4451666858) |
+| 2026-08-11 | Account Development Representative | [Apply](https://www.linkedin.com/jobs/view/4451666858) |
 
 ## Octave - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Account Development Representative | [Apply](https://www.linkedin.com/jobs/view/4451669833) |
+| 2026-08-11 | Account Development Representative | [Apply](https://www.linkedin.com/jobs/view/4451669833) |
 
 ## Okta - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-07 | Senior Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4448794346) |
 | 2026-08-02 | Staff Engineer - Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4361747166) |
+| 2026-07-30 | Staff Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4444506732) |
 | 2026-07-30 | Senior Software Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4445026917) |
 | 2026-07-30 | Senior Salesforce Product Analyst | [Apply](https://www.linkedin.com/jobs/view/4445024596) |
-| 2026-07-30 | Staff Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4444506732) |
 
 ## One97 Communications Limited - Sadar, Uttar Pradesh, India
 | Date | Job Title | Link |
@@ -2362,20 +2305,30 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-06-30 | Salesforce Administrator/Developer | [Apply](https://www.linkedin.com/jobs/view/4429723182) |
 
+## OneTrust - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-06 | Digital CX Developer | [Apply](https://www.linkedin.com/jobs/view/4422908898) |
+
 ## OpenGov Inc. - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Salesforce System Administrator | [Apply](https://www.linkedin.com/jobs/view/4391882089) |
+
+## Opkey - Noida, Uttar Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-10 | Automation Test Engineer | [Apply](https://www.linkedin.com/jobs/view/4437964948) |
 
 ## Optum India - Gurgaon, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-28 | Senior Software Engineer (Salesforce Developer) | [Apply](https://www.linkedin.com/jobs/view/4445483909) |
 
-## Owens & Minor - Pune District, Maharashtra, India
+## Oracle - Ahmedabad, Gujarat, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-30 | Service Now Developer | [Apply](https://www.linkedin.com/jobs/view/4446724625) |
+| 2026-07-24 | Oracle Database Presales/Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4436522036) |
 
 ## PACCAR - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
@@ -2385,8 +2338,8 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## PAR Technology - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Senior Salesforce Developer - Experience Portal(Experience Cloud) | [Apply](https://www.linkedin.com/jobs/view/4442605617) |
-| Unknown | Senior Software Architect, Salesforce Sales | [Apply](https://www.linkedin.com/jobs/view/4442299744) |
+| 2026-08-11 | Senior Software Architect, Salesforce Sales | [Apply](https://www.linkedin.com/jobs/view/4442299744) |
+| 2026-08-11 | Senior Salesforce Developer - Experience Portal(Experience Cloud) | [Apply](https://www.linkedin.com/jobs/view/4442605617) |
 
 ## PAR Technology - Jaipur, Rajasthan, India
 | Date | Job Title | Link |
@@ -2409,11 +2362,6 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-07-23 | Lead Enterprise Architect | [Apply](https://www.linkedin.com/jobs/view/4444410845) |
 
-## Pall - Aerospace - Navi Mumbai, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-10 | Salesforce Senior Solutions Developer (salescloud, agentforce) | [Apply](https://www.linkedin.com/jobs/view/4451529886) |
-
 ## Pall Corporation - Navi Mumbai, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -2434,6 +2382,11 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-08-05 | Programmer Salesforce | [Apply](https://www.linkedin.com/jobs/view/4440979223) |
 
+## Pearson - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-24 | Advanced Specialist, Sales Incentives | [Apply](https://www.linkedin.com/jobs/view/4435285988) |
+
 ## Pearson - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -2442,13 +2395,8 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Pearson - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-05 | Senior Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4403679955) |
 | 2026-08-05 | Software Engineer III | [Apply](https://www.linkedin.com/jobs/view/4403676952) |
-
-## Penta Consulting - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-28 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4445706274) |
+| 2026-08-05 | Senior Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4403679955) |
 
 ## Pepper - Mumbai, Maharashtra, India
 | Date | Job Title | Link |
@@ -2468,18 +2416,12 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Persistent Systems - Pune City, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-24 | Senior Salesforce Voice & Amazon Connect Engineer | [Apply](https://www.linkedin.com/jobs/view/4441594354) |
 | 2026-07-23 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4444287325) |
 
 ## Philips - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-30 | Solution Architect – Salesforce / Conga CPQ & CLM | [Apply](https://www.linkedin.com/jobs/view/4446918024) |
-
-## Pico - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-05 | Senior Salesforce Engineer | [Apply](https://www.linkedin.com/jobs/view/4448038994) |
 
 ## Pinnacle Group, Inc. - 
 | Date | Job Title | Link |
@@ -2493,24 +2435,37 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | 2026-07-23 | Presales Associate | [Apply](https://www.linkedin.com/jobs/view/4444745615) |
 | 2026-07-21 | AI & GTM Automation Manager | [Apply](https://www.linkedin.com/jobs/view/4425936275) |
 
-## Pomeroy - 
+## Plative - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-13 | Sales Operations Specialist | [Apply](https://www.linkedin.com/jobs/view/4439405326) |
+| 2026-08-09 | Senior Salesforce Developer, AI & Agentforce | [Apply](https://www.linkedin.com/jobs/view/4441805397) |
+
+## Postman - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| Unknown | Enterprise Account Executive | [Apply](https://www.linkedin.com/jobs/view/4443358992) |
 
 ## Postman - Delhi, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-10 | Enterprise Account Executive – IT/ITES, Delhi NCR | [Apply](https://www.linkedin.com/jobs/view/4451825136) |
 
+## Praval - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2025-12-04 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4342171445) |
+
 ## Process360 Ltd - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-09 | Salesforce Solution Architect | [Apply](https://www.linkedin.com/jobs/view/4435679436) |
-| 2024-12-11 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4094468030) |
 | 2024-12-11 | Salesforce Project Manager | [Apply](https://www.linkedin.com/jobs/view/4094464479) |
 | 2024-12-11 | Salesforce Functional Consultant Business Analyst | [Apply](https://www.linkedin.com/jobs/view/4094465391) |
-| 2024-12-11 | Salesforce Senior Developer / Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4094466254) |
+
+## Procore Technologies - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-03 | Senior Salesforce Application Developer – Revenue Cloud(CPQ) | [Apply](https://www.linkedin.com/jobs/view/4448300899) |
 
 ## Progress Software - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -2534,21 +2489,25 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-08-05 | Salesforce Automation Sr Engineer | [Apply](https://www.linkedin.com/jobs/view/4440998419) |
 
+## PwC Acceleration Center India - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-08 | Salesforce Revenue Cloud- Sr. Associate | [Apply](https://www.linkedin.com/jobs/view/4432965754) |
+
 ## PwC Acceleration Center India - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-05 | Pricing Technology Scrum Master-Senior Associate-Bangalore | [Apply](https://www.linkedin.com/jobs/view/4438409541) |
+| 2026-08-03 | Salesforce FSL- Senior Associate | [Apply](https://www.linkedin.com/jobs/view/4428937080) |
 
 ## PwC Acceleration Center India - Gurugram, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-04 | Salesforce LWC+ FSC- Senior Associate | [Apply](https://www.linkedin.com/jobs/view/4428956528) |
-| 2026-07-28 | Salesforce LwC Agentforce-SA | [Apply](https://www.linkedin.com/jobs/view/4425753199) |
 
 ## PwC Acceleration Center India - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-31 | Salesforce LwC Developer-SA | [Apply](https://www.linkedin.com/jobs/view/4445552206) |
+| 2026-07-31 | Salesforce LwC Developer - SA | [Apply](https://www.linkedin.com/jobs/view/4445544250) |
 
 ## PwC India - 
 | Date | Job Title | Link |
@@ -2558,6 +2517,7 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## PwC India - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-10 | IN_Senior Associate_Salesforce LWC_GCC_Advisory_Bangalore | [Apply](https://www.linkedin.com/jobs/view/4451812721) |
 | 2026-08-04 | IN_Senior Associate_ Salesforce LWC _GCC_Advisory_Bangalore | [Apply](https://www.linkedin.com/jobs/view/4440099251) |
 
 ## PwC India - Jaipur, Rajasthan, India
@@ -2568,7 +2528,6 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## PwC India - Mumbai, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Manager | [Apply](https://www.linkedin.com/jobs/view/4385101260) |
 | 2026-08-07 | Senior Associate | [Apply](https://www.linkedin.com/jobs/view/4292359746) |
 
 ## PwC India - Noida, Uttar Pradesh, India
@@ -2591,6 +2550,11 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-06-03 | Salesforce development | [Apply](https://www.linkedin.com/jobs/view/4424016160) |
 
+## Qloron Pvt Ltd - Gurugram, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-06-27 | Salesforce Engineer | [Apply](https://www.linkedin.com/jobs/view/4433434297) |
+
 ## Qrata - Pune District, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -2599,7 +2563,8 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Quadrafort Technologies - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-14 | Salesforce Business Analyst | [Apply](https://www.linkedin.com/jobs/view/4439835843) |
+| 2026-08-07 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4450099585) |
+| 2026-05-09 | Sr. SF Dev/Tech Lead Salesforce | [Apply](https://www.linkedin.com/jobs/view/4419672158) |
 
 ## Qualifacts - Vadodara, Gujarat, India
 | Date | Job Title | Link |
@@ -2611,6 +2576,11 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-07-30 | Salesforce Developer 3-8 years Exp | [Apply](https://www.linkedin.com/jobs/view/4444515698) |
 
+## Quess IT Staffing - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-11 | Salesloft Consultant | [Apply](https://www.linkedin.com/jobs/view/4451624878) |
+
 ## Quickbase - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -2621,11 +2591,6 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-08-05 | Salesforce Developer (Hybrid Work Model) | [Apply](https://www.linkedin.com/jobs/view/4438013988) |
 
-## RELX - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-24 | Senior Software Engineer I | [Apply](https://www.linkedin.com/jobs/view/4444340716) |
-
 ## Radian Generation - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -2634,9 +2599,8 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Ranosys - Jaipur, Rajasthan, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-05 | Senior Business Analyst - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4449432167) |
 | 2026-08-05 | Senior Software Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4449440073) |
-| 2026-08-05 | Software Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4449429292) |
+| 2026-08-05 | Senior Business Analyst - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4449432167) |
 
 ## Rappidx - Bengaluru South, Karnataka, India
 | Date | Job Title | Link |
@@ -2653,20 +2617,10 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-07-31 | Senior Associate, Emerging Business | [Apply](https://www.linkedin.com/jobs/view/4447510815) |
 
-## Redis - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-04 | Regional Sales Director, North Business (Delhi NCR) | [Apply](https://www.linkedin.com/jobs/view/4446269923) |
-
 ## Redpin - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-31 | Software Engineer II - Salesforce > | [Apply](https://www.linkedin.com/jobs/view/4446974868) |
-
-## Reflections Info Systems - Trivandrum, Kerala, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-24 | Salesforce Manual QA | [Apply](https://www.linkedin.com/jobs/view/4444338276) |
 
 ## Regal Rexnord - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -2674,10 +2628,10 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | 2026-08-05 | Senior Administrator: Amazon Connect and Service Cloud Voice | [Apply](https://www.linkedin.com/jobs/view/4440254229) |
 | Unknown | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4257563129) |
 
-## Revstrata - 
+## Revvity - Thane, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-03 | Founding AI Engineer | [Apply](https://www.linkedin.com/jobs/view/4448615663) |
+| 2026-08-08 | Sr. Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4384117250) |
 
 ## Rhythm Innovations - Bhubaneswar, Odisha, India
 | Date | Job Title | Link |
@@ -2685,6 +2639,13 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | 2026-03-19 | Salesforce Architect | [Apply](https://www.linkedin.com/jobs/view/4387389340) |
 | 2026-03-17 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4385624793) |
 | 2026-03-13 | Salesforce AI Engineer | [Apply](https://www.linkedin.com/jobs/view/4383987602) |
+
+## Ri8 Solution - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-07 | Salesforce Technical Lead – Sales Cloud & Marketing Cloud Next | [Apply](https://www.linkedin.com/jobs/view/4450380178) |
+| 2026-08-04 | Salesforce Service Cloud Voice Consultant (Amazon Connect) | [Apply](https://www.linkedin.com/jobs/view/4448568399) |
+| 2026-08-03 | Salesforce Marketing Cloud Next Consultant | [Apply](https://www.linkedin.com/jobs/view/4447995804) |
 
 ## Rialtes - Dehradun, Uttarakhand, India
 | Date | Job Title | Link |
@@ -2694,7 +2655,7 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## RingCentral - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-07 | Product Owner | [Apply](https://www.linkedin.com/jobs/view/4432647099) |
+| 2026-08-04 | Lead Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4448895815) |
 
 ## Rippling - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -2729,42 +2690,33 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Riveron India - 
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-01 | Associate Director - Salesforce Revenue Cloud | [Apply](https://www.linkedin.com/jobs/view/4399648829) |
 | 2026-07-30 | Senior Associate - Salesforce Sales and Experience Cloud Consultant | [Apply](https://www.linkedin.com/jobs/view/4399644867) |
-| 2026-07-29 | Sr Associate - Salesforce Revenue Cloud | [Apply](https://www.linkedin.com/jobs/view/4399636906) |
-
-## Riveron India - Pune District, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-03 | Sr Associate - Salesforce QA Engineer | [Apply](https://www.linkedin.com/jobs/view/4448222809) |
 
 ## Riveron India - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-31 | Senior Associate - Salesforce Sales and Experience Cloud Consultant | [Apply](https://www.linkedin.com/jobs/view/4399651795) |
-| 2026-07-30 | Sr Associate - Salesforce QA Engineer | [Apply](https://www.linkedin.com/jobs/view/4399647815) |
 
-## Rockwell Automation - Pune Division, Maharashtra, India
+## Runmap Infotech Private Ltd. - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-24 | ServiceNow Developer | [Apply](https://www.linkedin.com/jobs/view/4408254380) |
-
-## Rubrik - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-05 | Senior Quoting Analyst | [Apply](https://www.linkedin.com/jobs/view/4448950725) |
-| 2026-07-29 | Senior Manager, Product Operation - CPQ Strategy & Operations (Night Shift 5:30 PM to 2:30 AM IST) | [Apply](https://www.linkedin.com/jobs/view/4429501837) |
-| 2026-07-28 | Senior Renewals Operations Analyst II | [Apply](https://www.linkedin.com/jobs/view/4446344197) |
-| 2026-06-17 | Senior Manager, Product Operations - CPQ Strategy & Operations | [Apply](https://www.linkedin.com/jobs/view/4428484249) |
-
-## Russell Investments - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-31 | GTM Technology Lead, Mumbai | [Apply](https://www.linkedin.com/jobs/view/4434325266) |
+| Unknown | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4453071329) |
 
 ## Russell Tobin - 
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4449828576) |
+| 2026-08-11 | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4449828576) |
+
+## S&P Global - Ahmedabad, Gujarat, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-11 | Product Manager, Platform Enhancements | [Apply](https://www.linkedin.com/jobs/view/4451606071) |
+
+## S&P Global - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-10 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4451150272) |
 
 ## SES Satellites - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
@@ -2775,11 +2727,11 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-06-09 | SALES FORCE DEVELOPER | [Apply](https://www.linkedin.com/jobs/view/4422271714) |
+| 2026-06-09 | SALESFORCE TEAM LEADER | [Apply](https://www.linkedin.com/jobs/view/4422285543) |
 
 ## SIXT Research & Development India - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-06-24 | Senior Product Manager II (Salesforce) | [Apply](https://www.linkedin.com/jobs/view/4432564492) |
 | 2026-06-18 | Engineering Manager (Salesforce) | [Apply](https://www.linkedin.com/jobs/view/4429044356) |
 
 ## SJ Innovation LLC - Goa, India
@@ -2805,9 +2757,13 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## SPAR Solutions - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-01-19 | Salesforce Business Analyst | [Apply](https://www.linkedin.com/jobs/view/4360901532) |
 | 2025-12-03 | Salesforce Consultant | [Apply](https://www.linkedin.com/jobs/view/4341700857) |
-| 2025-12-03 | Sr. Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4342060339) |
+| 2025-10-28 | Contact Center Engagement Lead | [Apply](https://www.linkedin.com/jobs/view/4319329726) |
+
+## SRS Solutions - Pune Division, Maharashtra, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-06-28 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4434262176) |
 
 ## Saarthee - 
 | Date | Job Title | Link |
@@ -2819,180 +2775,199 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-07-24 | AI & Automation Specialist | [Apply](https://www.linkedin.com/jobs/view/4444361824) |
 
+## SalesForce-ad - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-06 | Senior Director, Customer Success Management | [Apply](https://www.linkedin.com/jobs/view/4448479059) |
+| 2026-08-05 | Success Architect - Sales Cloud | [Apply](https://www.linkedin.com/jobs/view/4449489132) |
+
+## SalesGineers - Noida, Uttar Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-06 | Senior Salesforce Solution Architect (Sales Cloud \| Service Cloud \| DealHub) | [Apply](https://www.linkedin.com/jobs/view/4448411969) |
+
 ## Salesforce - 
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Territory Account Executive - SMB | [Apply](https://www.linkedin.com/jobs/view/4434486094) |
 | 2026-07-27 | Account Executive | [Apply](https://www.linkedin.com/jobs/view/4437149352) |
-| Unknown | Territory Account Executive - SMB | [Apply](https://www.linkedin.com/jobs/view/4434486094) |
 
 ## Salesforce - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Salesforce Senior Technical Architect /Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4415361762) |
+| 2026-08-11 | Software DevOps Engineer | [Apply](https://www.linkedin.com/jobs/view/4451639298) |
 | 2026-08-10 | Agentforce Technical Architect( Salesforce exp is a must) | [Apply](https://www.linkedin.com/jobs/view/4427963869) |
+| 2026-08-10 | Salesforce Senior Technical Architect /Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4415361762) |
 | 2026-08-09 | Salesforce Support Engineer - Industries & Revenue Cloud | [Apply](https://www.linkedin.com/jobs/view/4374103626) |
 | 2026-08-09 | Spiff - Onboarding Specialist | [Apply](https://www.linkedin.com/jobs/view/4451319344) |
+| 2026-08-08 | Technical Architect/ Senior Technical Architect - Data Cloud exp mandatory | [Apply](https://www.linkedin.com/jobs/view/4442194912) |
+| 2026-08-08 | Salesforce Success Architect | [Apply](https://www.linkedin.com/jobs/view/4407863225) |
 | 2026-08-08 | Senior Technical Consultant - B2B | [Apply](https://www.linkedin.com/jobs/view/4441987406) |
 | 2026-08-08 | SFMC Architect (DC exp also required) | [Apply](https://www.linkedin.com/jobs/view/4369448099) |
-| 2026-08-08 | Salesforce Success Architect | [Apply](https://www.linkedin.com/jobs/view/4407863225) |
-| 2026-08-08 | Technical Architect/ Senior Technical Architect - Data Cloud exp mandatory | [Apply](https://www.linkedin.com/jobs/view/4442194912) |
 | 2026-08-07 | Salesforce Senior Technical Manager (Salesforce Technical Architect experience is mandatory) | [Apply](https://www.linkedin.com/jobs/view/4366302270) |
-| 2026-08-06 | Business Development Representative | [Apply](https://www.linkedin.com/jobs/view/4440983441) |
-| 2026-08-06 | Portfolio Leader (Builder People Lead) | [Apply](https://www.linkedin.com/jobs/view/4440981610) |
-| 2026-08-06 | Salesforce-Senior Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4380797621) |
-| 2026-08-06 | Manager Technical Consulting (Salesforce+ Tech arch+domain(Health/Insurance/Comms/FINS/SF CPQ/Consumer Goods Experience mandatory)) | [Apply](https://www.linkedin.com/jobs/view/4383323504) |
-| 2026-08-06 | Director, Growth Multiplier (Salesforce Practice) | [Apply](https://www.linkedin.com/jobs/view/4408258973) |
 | 2026-08-06 | Technical Architect - Japanese Fluency (Mandatory) | [Apply](https://www.linkedin.com/jobs/view/4450253432) |
+| 2026-08-06 | Manager Technical Consulting (Salesforce+ Tech arch+domain(Health/Insurance/Comms/FINS/SF CPQ/Consumer Goods Experience mandatory)) | [Apply](https://www.linkedin.com/jobs/view/4383323504) |
+| 2026-08-06 | Portfolio Leader (Builder People Lead) | [Apply](https://www.linkedin.com/jobs/view/4440981610) |
+| 2026-08-06 | Business Development Representative | [Apply](https://www.linkedin.com/jobs/view/4440983441) |
+| 2026-08-06 | Director, Growth Multiplier (Salesforce Practice) | [Apply](https://www.linkedin.com/jobs/view/4408258973) |
+| 2026-08-06 | Salesforce-Senior Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4380797621) |
 | 2026-08-06 | Salesforce Technical Manager ( Salesforce Technical Architect exp is Manadatory ) | [Apply](https://www.linkedin.com/jobs/view/4386780912) |
 | 2026-08-06 | Commercial Architecture Director | [Apply](https://www.linkedin.com/jobs/view/4432577681) |
-| 2026-08-05 | Senior Salesforce Technical Architect - Life Sciences | [Apply](https://www.linkedin.com/jobs/view/4448960520) |
-| 2026-08-05 | Salesforce Technical Architect (ITSM) | [Apply](https://www.linkedin.com/jobs/view/4440812650) |
 | 2026-08-05 | Senior Technical Consultant - Japanese Fluency (Mandatory) | [Apply](https://www.linkedin.com/jobs/view/4448967588) |
-| 2026-08-05 | Customer Success Manager (Salesforce technical exp mandatory-AMER timezone) | [Apply](https://www.linkedin.com/jobs/view/4449625028) |
-| 2026-08-05 | Success Architect - Marketing Cloud | [Apply](https://www.linkedin.com/jobs/view/4448976358) |
+| 2026-08-05 | Senior Salesforce Technical Architect - Life Sciences | [Apply](https://www.linkedin.com/jobs/view/4448960520) |
 | 2026-08-05 | Director, Technical Consulting ( Salesforce Experience Mandatory ) | [Apply](https://www.linkedin.com/jobs/view/4408527938) |
-| 2026-08-05 | Success Architect - Sales Cloud | [Apply](https://www.linkedin.com/jobs/view/4449634242) |
 | 2026-08-05 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4365032866) |
-| 2026-08-05 | Customer Success Manager (Salesforce Commerce Cloud / Demandware exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4449499648) |
-| 2026-08-04 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4448867769) |
+| 2026-08-05 | Customer Success Manager (Salesforce technical exp mandatory-AMER timezone) | [Apply](https://www.linkedin.com/jobs/view/4449625028) |
+| 2026-08-05 | Salesforce Technical Architect (ITSM) | [Apply](https://www.linkedin.com/jobs/view/4440812650) |
+| 2026-08-05 | Success Architect - Marketing Cloud | [Apply](https://www.linkedin.com/jobs/view/4448976358) |
+| 2026-08-05 | Success Architect - Sales Cloud | [Apply](https://www.linkedin.com/jobs/view/4449634242) |
 | 2026-08-04 | Salesforce Architect Manager | [Apply](https://www.linkedin.com/jobs/view/4448858948) |
+| 2026-08-04 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4448867769) |
+| 2026-08-04 | Technical Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4448818880) |
+| 2026-08-03 | Senior Software Engineering Manager — CI/Build Systems & Developer Productivity Platform | [Apply](https://www.linkedin.com/jobs/view/4430916360) |
 | 2026-08-03 | Senior Technical Consultant | [Apply](https://www.linkedin.com/jobs/view/4448138935) |
 | 2026-08-01 | Salesforce Field Service Architect | [Apply](https://www.linkedin.com/jobs/view/4420949386) |
 | 2026-07-31 | Salesforce Project Manager | [Apply](https://www.linkedin.com/jobs/view/4447277470) |
 | 2026-07-31 | Named Account Executive | [Apply](https://www.linkedin.com/jobs/view/4430715634) |
-| 2026-07-30 | Senior Salesforce Solution Architect - Lifesciences | [Apply](https://www.linkedin.com/jobs/view/4446707860) |
 | 2026-07-30 | Technical Architect — Agentforce Revenue Management | [Apply](https://www.linkedin.com/jobs/view/4438237014) |
 | 2026-07-30 | Senior/Staff Technical Writer | [Apply](https://www.linkedin.com/jobs/view/4446717856) |
 | 2026-07-30 | Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) | [Apply](https://www.linkedin.com/jobs/view/4446757701) |
-| 2026-07-29 | Salesforce DevOps - Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4446596025) |
-| 2026-07-29 | Senior Technical Consultant - Salesforce DevOps | [Apply](https://www.linkedin.com/jobs/view/4446576894) |
+| 2026-07-30 | Customer Success Manager (Salesforce technical exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4438235190) |
 | 2026-07-29 | Product Management Director | [Apply](https://www.linkedin.com/jobs/view/4446555801) |
-| 2026-07-29 | Swarm Lead (Informatica MDM, PIM, P360 experience mandatory) | [Apply](https://www.linkedin.com/jobs/view/4446520534) |
-| 2026-07-29 | Senior Principal Swarm Lead (Informatica MDM, PIM, P360, C360 experience mandatory) | [Apply](https://www.linkedin.com/jobs/view/4446522332) |
-| 2026-07-28 | Director, Strategy & Enablement | [Apply](https://www.linkedin.com/jobs/view/4437747345) |
-| 2026-07-28 | Readiness Architect | [Apply](https://www.linkedin.com/jobs/view/4384567398) |
-| 2026-07-28 | Manager, Technical Consulting | [Apply](https://www.linkedin.com/jobs/view/4336881367) |
+| 2026-07-29 | Salesforce DevOps - Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4446596025) |
+| 2026-07-29 | Senior Technical Architect- Consumer Goods/Revenue cloud/ Retail/FMCG | [Apply](https://www.linkedin.com/jobs/view/4446596026) |
+| 2026-07-29 | Senior Technical Consultant - Salesforce DevOps | [Apply](https://www.linkedin.com/jobs/view/4446576894) |
 | 2026-07-28 | Salesforce Technical Architect - (Life Sciences Industry exp mandate) | [Apply](https://www.linkedin.com/jobs/view/4446355711) |
-| 2026-07-28 | Senior Manager, Technical Consulting (Salesforce and Finance or Insurance domain exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4375420099) |
+| 2026-07-28 | Director, Strategy & Enablement | [Apply](https://www.linkedin.com/jobs/view/4437747345) |
+| 2026-07-28 | Manager, Technical Consulting | [Apply](https://www.linkedin.com/jobs/view/4336881367) |
 | 2026-07-28 | Director, Salesforce Program Leader | [Apply](https://www.linkedin.com/jobs/view/4336791581) |
-| 2026-07-27 | Salesforce Technical Architect, Consumer goods (REX or TPM or CG Cloud exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4368188332) |
-| 2026-07-27 | Salesforce Success Architect (Salesforce Exp is mandatory)/AMER Shifts | [Apply](https://www.linkedin.com/jobs/view/4343654831) |
+| 2026-07-28 | Readiness Architect | [Apply](https://www.linkedin.com/jobs/view/4384567398) |
+| 2026-07-28 | Senior Manager, Technical Consulting (Salesforce and Finance or Insurance domain exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4375420099) |
 | 2026-07-27 | Senior Technical Consultant - Salesforce Field Services | [Apply](https://www.linkedin.com/jobs/view/4445927656) |
 | 2026-07-27 | Salesforce Project Manager - Japanese speaking | [Apply](https://www.linkedin.com/jobs/view/4396594132) |
+| 2026-07-27 | Software Engineering PMTS | [Apply](https://www.linkedin.com/jobs/view/4361291826) |
+| 2026-07-27 | Salesforce Success Architect (Salesforce Exp is mandatory)/AMER Shifts | [Apply](https://www.linkedin.com/jobs/view/4343654831) |
+| 2026-07-27 | Technical Support Engineer - Informatica MDM | [Apply](https://www.linkedin.com/jobs/view/4386711814) |
 | 2026-07-24 | Software Engineering Architect/PMTS-SDET | [Apply](https://www.linkedin.com/jobs/view/4436348013) |
+| 2026-07-23 | Salesforce Technical Architect (Education Cloud) | [Apply](https://www.linkedin.com/jobs/view/4444499824) |
 | 2026-07-23 | Success Architect | [Apply](https://www.linkedin.com/jobs/view/4342313096) |
-| 2026-07-22 | Salesforce- Technical Architect/ Senior Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4443916331) |
-| 2026-07-22 | Salesforce Senior Advisory Architect | [Apply](https://www.linkedin.com/jobs/view/4397794361) |
 | 2026-07-22 | Salesforce Technical Architect (Revenue Cloud Or Salesforce CPQ)/Healthcare/FINS | [Apply](https://www.linkedin.com/jobs/view/4366720808) |
+| 2026-07-22 | Salesforce- Technical Architect/ Senior Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4443916331) |
+| 2026-07-22 | Territory Account Executive - IT/ITES | [Apply](https://www.linkedin.com/jobs/view/4416086197) |
 | 2026-07-22 | Success Architect - SFMC (SFMC experience mandatory) | [Apply](https://www.linkedin.com/jobs/view/4443914308) |
-| 2026-07-21 | Senior Project Manager | [Apply](https://www.linkedin.com/jobs/view/4434953486) |
-| 2026-07-21 | Salesforce Technical Architect (FINS/Auto/MFG/Retail Industry) | [Apply](https://www.linkedin.com/jobs/view/4443379257) |
+| 2026-07-22 | Salesforce Senior Advisory Architect | [Apply](https://www.linkedin.com/jobs/view/4397794361) |
+| Unknown | Senior Project Manager | [Apply](https://www.linkedin.com/jobs/view/4434953486) |
+| Unknown | Senior Salesforce Project Manager (Salesforce Implementation Experience Mandatory) | [Apply](https://www.linkedin.com/jobs/view/4453082004) |
+| Unknown | Software Engineering LMTS- MLE | [Apply](https://www.linkedin.com/jobs/view/4414695287) |
+| Unknown | ECS Account Executive | [Apply](https://www.linkedin.com/jobs/view/4453073009) |
+| Unknown | Senior Lead DevOps Engineer | [Apply](https://www.linkedin.com/jobs/view/4452462409) |
 | Unknown | Principal Member of Technical Staff (PMTS) | [Apply](https://www.linkedin.com/jobs/view/4452457480) |
 
 ## Salesforce - Gurgaon, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Named Account Executive - Enterprise - Tech-GIC | [Apply](https://www.linkedin.com/jobs/view/4414699211) |
 | 2026-08-09 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4415358873) |
-| 2026-08-09 | Strategic Account Executive - Automotive Industry | [Apply](https://www.linkedin.com/jobs/view/4414686470) |
 | 2026-08-09 | SFMC Architect (DC exp also required) | [Apply](https://www.linkedin.com/jobs/view/4411381259) |
 | 2026-08-08 | Salesforce Field Service Architect | [Apply](https://www.linkedin.com/jobs/view/4423385486) |
 | 2026-08-05 | Territory Account Executive - SMB | [Apply](https://www.linkedin.com/jobs/view/4440565058) |
-| 2026-08-04 | Director, Technical Consulting ( Salesforce Experience Mandatory ) | [Apply](https://www.linkedin.com/jobs/view/4440031436) |
 | 2026-08-04 | Salesforce Architect Manager | [Apply](https://www.linkedin.com/jobs/view/4448858951) |
+| 2026-08-04 | Named Account Executive - Commerce Cloud | [Apply](https://www.linkedin.com/jobs/view/4448833011) |
+| 2026-08-04 | Director, Technical Consulting ( Salesforce Experience Mandatory ) | [Apply](https://www.linkedin.com/jobs/view/4440031436) |
 | 2026-07-31 | Salesforce Project Manager | [Apply](https://www.linkedin.com/jobs/view/4447270510) |
+| 2026-07-31 | Salesforce Senior Technical Architect (CTA Aspirants) | [Apply](https://www.linkedin.com/jobs/view/4430470134) |
 | 2026-07-28 | Salesforce Technical Architect - (Life Sciences Industry exp mandate) | [Apply](https://www.linkedin.com/jobs/view/4446361544) |
 | 2026-07-27 | Strategic Account Executive - Telecom Industry | [Apply](https://www.linkedin.com/jobs/view/4414684621) |
-| 2026-07-23 | Salesforce Senior Advisory Architect | [Apply](https://www.linkedin.com/jobs/view/4397796291) |
-| 2026-07-23 | Salesforce Technical Architect (Core & Revenue Cloud) | [Apply](https://www.linkedin.com/jobs/view/4444708721) |
+| 2026-07-24 | Cloud Account Executive | [Apply](https://www.linkedin.com/jobs/view/4436492297) |
 | 2026-07-23 | Field Service AI Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4389713036) |
-| 2026-07-21 | Salesforce Technical Architect (FINS/Auto/MFG/Retail Industry) | [Apply](https://www.linkedin.com/jobs/view/4443384061) |
+| 2026-07-23 | Salesforce Technical Architect (Core & Revenue Cloud) | [Apply](https://www.linkedin.com/jobs/view/4444708721) |
+| 2026-07-23 | Salesforce Senior Advisory Architect | [Apply](https://www.linkedin.com/jobs/view/4397796291) |
 | Unknown | Account Executive - Manufacturing Industry | [Apply](https://www.linkedin.com/jobs/view/4452467277) |
-| Unknown | Named Account Executive - Enterprise - Tech-GIC | [Apply](https://www.linkedin.com/jobs/view/4414699211) |
-| Unknown | Named Account Executive - Enterprise - Healthcare/Real Estate/Education | [Apply](https://www.linkedin.com/jobs/view/4442714443) |
 
 ## Salesforce - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Technical Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4443314732) |
 | 2026-08-10 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4415375138) |
-| 2026-08-10 | SFMC Architect (DC exp also required) | [Apply](https://www.linkedin.com/jobs/view/4369447135) |
 | 2026-08-10 | Salesforce Support Engineer - Industries & Revenue Cloud | [Apply](https://www.linkedin.com/jobs/view/4374117059) |
+| 2026-08-09 | Zuora Revenue Systems Engineer | [Apply](https://www.linkedin.com/jobs/view/4423535949) |
 | 2026-08-09 | Spiff - Onboarding Specialist | [Apply](https://www.linkedin.com/jobs/view/4451317492) |
-| 2026-08-08 | Senior Technical Consultant - B2B | [Apply](https://www.linkedin.com/jobs/view/4441988335) |
-| 2026-08-08 | Salesforce Industry Success Architect | [Apply](https://www.linkedin.com/jobs/view/4414699166) |
-| 2026-08-08 | Technical Architect/ Senior Technical Architect - Data Cloud exp mandatory | [Apply](https://www.linkedin.com/jobs/view/4442402672) |
 | 2026-08-08 | Manager Technical Consulting (Salesforce+ Tech arch+domain(Health/Insurance/Comms/FINS/SF CPQ/Consumer Goods Experience mandatory)) | [Apply](https://www.linkedin.com/jobs/view/4383330336) |
-| 2026-08-07 | Salesforce Senior Technical Manager (Salesforce Technical Architect experience is mandatory) | [Apply](https://www.linkedin.com/jobs/view/4366295367) |
+| 2026-08-08 | Salesforce Industry Success Architect | [Apply](https://www.linkedin.com/jobs/view/4414699166) |
+| 2026-08-08 | Salesforce Success Architect | [Apply](https://www.linkedin.com/jobs/view/4407864118) |
+| 2026-08-08 | Technical Architect/ Senior Technical Architect - Data Cloud exp mandatory | [Apply](https://www.linkedin.com/jobs/view/4442402672) |
+| 2026-08-08 | Senior Technical Consultant - B2B | [Apply](https://www.linkedin.com/jobs/view/4441988335) |
 | 2026-08-07 | Senior Director, Customer Success Management | [Apply](https://www.linkedin.com/jobs/view/4450672859) |
+| 2026-08-07 | Salesforce Senior Technical Manager (Salesforce Technical Architect experience is mandatory) | [Apply](https://www.linkedin.com/jobs/view/4366295367) |
 | 2026-08-06 | Software Engineering LMTS - Backend Distributed Systems | [Apply](https://www.linkedin.com/jobs/view/4450257351) |
-| 2026-08-06 | Salesforce-Senior Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4380905330) |
 | 2026-08-06 | Director, Technical Consulting ( Salesforce Experience Mandatory ) | [Apply](https://www.linkedin.com/jobs/view/4408544087) |
-| 2026-08-06 | Director, Growth Multiplier (Salesforce Practice) | [Apply](https://www.linkedin.com/jobs/view/4408265461) |
 | 2026-08-06 | Salesforce Technical Manager ( Salesforce Technical Architect exp is Manadatory ) | [Apply](https://www.linkedin.com/jobs/view/4386900147) |
-| 2026-08-05 | Salesforce Success Architect - AMER Shifts (Salesforce Exp is mandatory) | [Apply](https://www.linkedin.com/jobs/view/4449632000) |
+| 2026-08-06 | Salesforce-Senior Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4380905330) |
+| 2026-08-06 | Director, Growth Multiplier (Salesforce Practice) | [Apply](https://www.linkedin.com/jobs/view/4408265461) |
 | 2026-08-05 | Customer Success Manager (Salesforce technical exp mandatory-AMER timezone) | [Apply](https://www.linkedin.com/jobs/view/4449621034) |
-| 2026-08-05 | Senior Technical Consultant - Japanese Fluency (Mandatory) | [Apply](https://www.linkedin.com/jobs/view/4448979440) |
-| 2026-08-05 | Customer Success Manager (Salesforce Commerce Cloud / Demandware exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4449499654) |
-| 2026-08-05 | Manager, Accounting | [Apply](https://www.linkedin.com/jobs/view/4440930008) |
-| 2026-08-05 | Success Architect - Marketing Cloud | [Apply](https://www.linkedin.com/jobs/view/4448973395) |
-| 2026-08-05 | Success Architect - Sales Cloud | [Apply](https://www.linkedin.com/jobs/view/4449619299) |
-| 2026-08-05 | Director - Salesforce Technical Consulting | [Apply](https://www.linkedin.com/jobs/view/4449125092) |
 | 2026-08-05 | Salesforce Technical Architect (ITSM) | [Apply](https://www.linkedin.com/jobs/view/4440808799) |
+| 2026-08-05 | Manager, Accounting | [Apply](https://www.linkedin.com/jobs/view/4440930008) |
+| 2026-08-05 | Senior Technical Consultant - Japanese Fluency (Mandatory) | [Apply](https://www.linkedin.com/jobs/view/4448979440) |
+| 2026-08-05 | Senior Salesforce Technical Architect - Life Sciences | [Apply](https://www.linkedin.com/jobs/view/4448970404) |
+| 2026-08-05 | Success Architect - Marketing Cloud | [Apply](https://www.linkedin.com/jobs/view/4448973395) |
+| 2026-08-05 | Director - Salesforce Technical Consulting | [Apply](https://www.linkedin.com/jobs/view/4449125092) |
+| 2026-08-05 | Success Architect - Sales Cloud | [Apply](https://www.linkedin.com/jobs/view/4449619299) |
+| 2026-08-05 | Salesforce Success Architect - AMER Shifts (Salesforce Exp is mandatory) | [Apply](https://www.linkedin.com/jobs/view/4449632000) |
 | 2026-08-04 | Salesforce Architect Manager | [Apply](https://www.linkedin.com/jobs/view/4448875511) |
 | 2026-08-02 | Salesforce Field Service Architect | [Apply](https://www.linkedin.com/jobs/view/4420948436) |
+| 2026-07-31 | Salesforce Senior Technical Architect (CTA Aspirants) | [Apply](https://www.linkedin.com/jobs/view/4430463209) |
 | 2026-07-31 | Salesforce Project Manager | [Apply](https://www.linkedin.com/jobs/view/4447284298) |
-| 2026-07-30 | Customer Success Manager (Salesforce technical exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4438231255) |
-| 2026-07-30 | Senior Salesforce Solution Architect - Lifesciences | [Apply](https://www.linkedin.com/jobs/view/4446708912) |
 | 2026-07-30 | Technical Architect — Agentforce Revenue Management | [Apply](https://www.linkedin.com/jobs/view/4438230344) |
+| 2026-07-30 | Customer Success Manager (Salesforce technical exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4438231255) |
 | 2026-07-30 | Senior/Staff Technical Writer | [Apply](https://www.linkedin.com/jobs/view/4446729019) |
-| 2026-07-30 | Manager/Senior Manager, Technical Consulting — Revenue Cloud Advanced(RCA) | [Apply](https://www.linkedin.com/jobs/view/4446759647) |
-| 2026-07-29 | Salesforce DevOps - Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4446580865) |
+| 2026-07-30 | Senior Salesforce Solution Architect - Lifesciences | [Apply](https://www.linkedin.com/jobs/view/4446708912) |
 | 2026-07-29 | Senior Technical Consultant - Salesforce DevOps | [Apply](https://www.linkedin.com/jobs/view/4446591244) |
-| 2026-07-29 | Technical Architect/Senior Technical Architect — Marketing Cloud Next | [Apply](https://www.linkedin.com/jobs/view/4437781878) |
-| 2026-07-28 | Salesforce Success Architect (Salesforce Exp is mandatory)/AMER Shifts | [Apply](https://www.linkedin.com/jobs/view/4343694673) |
-| 2026-07-28 | Director, Strategy & Enablement | [Apply](https://www.linkedin.com/jobs/view/4437735833) |
-| 2026-07-28 | Salesforce Project Manager - Japanese speaking | [Apply](https://www.linkedin.com/jobs/view/4396598104) |
+| 2026-07-29 | Salesforce DevOps - Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4446580865) |
 | 2026-07-28 | Readiness Architect | [Apply](https://www.linkedin.com/jobs/view/4376577142) |
-| 2026-07-28 | Manager, Technical Consulting | [Apply](https://www.linkedin.com/jobs/view/4336961047) |
-| 2026-07-28 | Salesforce Technical Architect - (Life Sciences Industry exp mandate) | [Apply](https://www.linkedin.com/jobs/view/4446364507) |
 | 2026-07-28 | Director, Salesforce Program Leader | [Apply](https://www.linkedin.com/jobs/view/4336861304) |
-| 2026-07-27 | Salesforce Technical Architect, Consumer goods (REX or TPM or CG Cloud exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4368178548) |
-| 2026-07-27 | Senior Manager, Technical Consulting (Salesforce and Finance or Insurance domain exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4375419121) |
-| 2026-07-27 | Software Engineering PMTS | [Apply](https://www.linkedin.com/jobs/view/4361275972) |
+| 2026-07-28 | Salesforce Project Manager - Japanese speaking | [Apply](https://www.linkedin.com/jobs/view/4396598104) |
+| 2026-07-28 | Salesforce Success Architect (Salesforce Exp is mandatory)/AMER Shifts | [Apply](https://www.linkedin.com/jobs/view/4343694673) |
+| 2026-07-28 | Manager, Technical Consulting | [Apply](https://www.linkedin.com/jobs/view/4336961047) |
 | 2026-07-27 | Senior Technical Consultant - Salesforce Field Services | [Apply](https://www.linkedin.com/jobs/view/4445943488) |
-| 2026-07-25 | SMTS, Zuora Revenue System Engineer | [Apply](https://www.linkedin.com/jobs/view/4427532493) |
-| 2026-07-24 | Sr. Product Manager (Vertex Tax) | [Apply](https://www.linkedin.com/jobs/view/4417310055) |
+| 2026-07-27 | Salesforce Technical Architect, Consumer goods (REX or TPM or CG Cloud exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4368178548) |
+| 2026-07-27 | Software Engineering PMTS | [Apply](https://www.linkedin.com/jobs/view/4361275972) |
+| 2026-07-27 | Senior Manager, Technical Consulting (Salesforce and Finance or Insurance domain exp mandatory) | [Apply](https://www.linkedin.com/jobs/view/4375419121) |
+| 2026-07-23 | Product Management Director - Data Platform | [Apply](https://www.linkedin.com/jobs/view/4444714264) |
 | 2026-07-23 | Success Architect | [Apply](https://www.linkedin.com/jobs/view/4342412739) |
-| 2026-07-23 | Salesforce Success Architect | [Apply](https://www.linkedin.com/jobs/view/4443498713) |
 | 2026-07-23 | Salesforce Technical Architect (Revenue Cloud Or Salesforce CPQ)/Healthcare/FINS | [Apply](https://www.linkedin.com/jobs/view/4366718852) |
-| 2026-07-22 | Success Architect - SFMC (SFMC experience mandatory) | [Apply](https://www.linkedin.com/jobs/view/4443910448) |
-| 2026-07-22 | Field Service AI Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4389709239) |
 | 2026-07-22 | Salesforce- Technical Architect/ Senior Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4443912445) |
-| 2026-07-21 | Salesforce Senior Advisory Architect | [Apply](https://www.linkedin.com/jobs/view/4397778927) |
-| 2026-07-21 | Senior Project Manager | [Apply](https://www.linkedin.com/jobs/view/4434954474) |
-| Unknown | Agentforce - Sucess Architect | [Apply](https://www.linkedin.com/jobs/view/4452468078) |
+| 2026-07-22 | Field Service AI Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4389709239) |
+| 2026-07-22 | Success Guide | [Apply](https://www.linkedin.com/jobs/view/4425495927) |
+| Unknown | Salesforce Senior Advisory Architect | [Apply](https://www.linkedin.com/jobs/view/4397778927) |
+| Unknown | Senior Project Manager | [Apply](https://www.linkedin.com/jobs/view/4434954474) |
+| Unknown | Senior Salesforce Project Manager (Salesforce Implementation Experience Mandatory) | [Apply](https://www.linkedin.com/jobs/view/4453078053) |
 | Unknown | Order Management Specialist (PST Shift) | [Apply](https://www.linkedin.com/jobs/view/4452453400) |
+| Unknown | Staff Technical Program Manager | [Apply](https://www.linkedin.com/jobs/view/4453113754) |
 
 ## Salesforce - Mumbai, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4415364709) |
 | 2026-08-10 | SFMC Architect (DC exp also required) | [Apply](https://www.linkedin.com/jobs/view/4411377535) |
-| 2026-08-08 | Salesforce Field Service Architect | [Apply](https://www.linkedin.com/jobs/view/4423384527) |
 | 2026-08-08 | Lead Account Solution Engineer | [Apply](https://www.linkedin.com/jobs/view/4433836943) |
+| 2026-08-08 | Salesforce Field Service Architect | [Apply](https://www.linkedin.com/jobs/view/4423384527) |
 | 2026-08-06 | Principal, Specialist SE | [Apply](https://www.linkedin.com/jobs/view/4422402998) |
 | 2026-08-06 | Territory Account Executive - SMB | [Apply](https://www.linkedin.com/jobs/view/4450247717) |
 | 2026-08-05 | Territory Account Executive | [Apply](https://www.linkedin.com/jobs/view/4422335171) |
-| 2026-08-05 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4399202588) |
 | 2026-08-04 | Named Account Executive - Commerce Cloud | [Apply](https://www.linkedin.com/jobs/view/4448828429) |
+| 2026-08-03 | Cloud Account Executive - Marketing Cloud, SMB | [Apply](https://www.linkedin.com/jobs/view/4448182699) |
 | 2026-08-03 | Cloud Account Executive - SMB | [Apply](https://www.linkedin.com/jobs/view/4448174821) |
+| 2026-08-01 | Named Account Executive - Public Sector (BFSI) | [Apply](https://www.linkedin.com/jobs/view/4439059986) |
 | 2026-08-01 | Specialist Solution Engineer (Martech) | [Apply](https://www.linkedin.com/jobs/view/4439068678) |
 | 2026-07-30 | Specialist Account Executive | [Apply](https://www.linkedin.com/jobs/view/4437189245) |
 | 2026-07-29 | Customer Success Manager, Senior Manager (Salesforce exp must) | [Apply](https://www.linkedin.com/jobs/view/4437851667) |
 | 2026-07-28 | Director, Salesforce Program Leader | [Apply](https://www.linkedin.com/jobs/view/4336931062) |
 | 2026-07-27 | Account Executive | [Apply](https://www.linkedin.com/jobs/view/4437143479) |
 | 2026-07-23 | Salesforce Technical Architect (Core & Revenue Cloud) | [Apply](https://www.linkedin.com/jobs/view/4444720016) |
+| 2026-07-23 | Salesforce Technical Architect (Education Cloud) | [Apply](https://www.linkedin.com/jobs/view/4444705751) |
 | 2026-07-22 | Prime Named Account Executive | [Apply](https://www.linkedin.com/jobs/view/4435524381) |
-| 2026-07-21 | Senior Project Manager | [Apply](https://www.linkedin.com/jobs/view/4434962382) |
-| 2026-07-21 | Salesforce Technical Architect (FINS/Auto/MFG/Retail Industry) | [Apply](https://www.linkedin.com/jobs/view/4443381244) |
+| Unknown | Senior Salesforce Project Manager (Salesforce Implementation Experience Mandatory) | [Apply](https://www.linkedin.com/jobs/view/4453066967) |
+| Unknown | Senior Project Manager | [Apply](https://www.linkedin.com/jobs/view/4434962382) |
 
 ## Salesforce - Pune City, Maharashtra, India
 | Date | Job Title | Link |
@@ -3004,30 +2979,42 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | 2026-08-04 | Salesforce Architect Manager | [Apply](https://www.linkedin.com/jobs/view/4448873600) |
 | 2026-08-04 | Director, Technical Consulting ( Salesforce Experience Mandatory ) | [Apply](https://www.linkedin.com/jobs/view/4440023953) |
 | 2026-07-31 | Salesforce Project Manager | [Apply](https://www.linkedin.com/jobs/view/4447266559) |
+| 2026-07-31 | Salesforce Senior Technical Architect (CTA Aspirants) | [Apply](https://www.linkedin.com/jobs/view/4430458346) |
 | 2026-07-29 | Salesforce DevOps - Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4446572908) |
 | 2026-07-28 | Salesforce Technical Architect - (Life Sciences Industry exp mandate) | [Apply](https://www.linkedin.com/jobs/view/4446355710) |
 | 2026-07-27 | Director, Salesforce Program Leader | [Apply](https://www.linkedin.com/jobs/view/4386797292) |
 | 2026-07-23 | Salesforce Senior Advisory Architect | [Apply](https://www.linkedin.com/jobs/view/4397791454) |
-| 2026-07-21 | Senior Project Manager | [Apply](https://www.linkedin.com/jobs/view/4434945813) |
+| Unknown | Senior Project Manager | [Apply](https://www.linkedin.com/jobs/view/4434945813) |
+| Unknown | Senior Salesforce Project Manager (Salesforce Implementation Experience Mandatory) | [Apply](https://www.linkedin.com/jobs/view/4453066968) |
 
 ## Salesforce Beratung - Warangal Rural, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-14 | Salesforce Developer (m/w/d) | [Apply](https://www.linkedin.com/jobs/view/4439804972) |
-| 2026-07-14 | Senior Salesforce Projektmanager (m/w/d) | [Apply](https://www.linkedin.com/jobs/view/4439891830) |
 | 2026-07-14 | Senior Salesforce Consultant (m/w/d) | [Apply](https://www.linkedin.com/jobs/view/4439897702) |
+| 2026-07-14 | Senior Salesforce Projektmanager (m/w/d) | [Apply](https://www.linkedin.com/jobs/view/4439891830) |
 | 2026-07-14 | Salesforce Integration & Architecture Consultant (m/w/d) | [Apply](https://www.linkedin.com/jobs/view/4439891827) |
 
 ## Samsara - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | AI Engineering Manager | [Apply](https://www.linkedin.com/jobs/view/4445138628) |
 | Unknown | Salesforce Developer-1 | [Apply](https://www.linkedin.com/jobs/view/4446663731) |
+| Unknown | AI Engineering Manager | [Apply](https://www.linkedin.com/jobs/view/4445138628) |
+
+## Sandisk - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-11 | Data and AI Engineer | [Apply](https://www.linkedin.com/jobs/view/4442710978) |
 
 ## Sarvam - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-05 | Business Development Representative | [Apply](https://www.linkedin.com/jobs/view/4437109719) |
+
+## Sattva Consulting - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-15 | Senior Consultant - Enterprise Applications / Digital Transformation | [Apply](https://www.linkedin.com/jobs/view/4440207802) |
 
 ## Scale Computing - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3039,22 +3026,21 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-07-07 | Expert, DCR Platform & Integration Lead – Salesforce Platform | [Apply](https://www.linkedin.com/jobs/view/4436598245) |
 
+## Scooter - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-20 | Business Development Representative | [Apply](https://www.linkedin.com/jobs/view/4442717569) |
+
 ## Sectigo - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Revenue Operations Specialist, Enterprise Sales | [Apply](https://www.linkedin.com/jobs/view/4452444860) |
 | Unknown | Renewals Operations Specialist | [Apply](https://www.linkedin.com/jobs/view/4452436988) |
-| Unknown | Revenue Operations Specialist, Enterprise Sales | [Apply](https://www.linkedin.com/jobs/view/4452444860) |
 
 ## Secure IQ Services - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-04-10 | Salesforce Product & Technical Manager | [Apply](https://www.linkedin.com/jobs/view/4400374199) |
-
-## Seismic - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-05 | Implementation Engineer | [Apply](https://www.linkedin.com/jobs/view/4430570534) |
-| 2026-07-31 | Senior Solution Consultant I | [Apply](https://www.linkedin.com/jobs/view/4429333220) |
 
 ## SentinelOne - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3086,25 +3072,25 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-07-24 | Senior Salesforce Expert | [Apply](https://www.linkedin.com/jobs/view/4435057539) |
 
-## Sierra Cloud - Pune City, Maharashtra, India
+## Sigma Infosolutions Ltd. - Indore, Madhya Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-12 | Salesforce Revenue Cloud Developer | [Apply](https://www.linkedin.com/jobs/view/4410104957) |
-
-## Sigma Infosolutions Ltd. - Ahmedabad, Gujarat, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-07 | Associate Software Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4450762127) |
+| 2026-05-26 | Senior Salesforce Engineer | [Apply](https://www.linkedin.com/jobs/view/4419415596) |
 
 ## Sigma Infosolutions Ltd. - Jodhpur, Rajasthan, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-26 | Senior Salesforce Engineer | [Apply](https://www.linkedin.com/jobs/view/4419415595) |
 
-## Sii Poland - Hyderabad, Telangana, India
+## Sii Poland - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce Administrator (f/m/x) | [Apply](https://www.linkedin.com/jobs/view/4449832970) |
+| Unknown | Salesforce Developer (f/m/x) | [Apply](https://www.linkedin.com/jobs/view/4449897028) |
+
+## Sikich India - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-07 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4448766881) |
 
 ## Silicon Labs - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -3121,17 +3107,6 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-08-07 | Demo Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4439216113) |
 | 2026-07-29 | Manager (FDE) - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4443654130) |
-| 2026-07-27 | AI Developer - Salesforce Admin | [Apply](https://www.linkedin.com/jobs/view/4425780261) |
-
-## Skyflow - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-22 | Sales Development Representative – US Market (Based in India) | [Apply](https://www.linkedin.com/jobs/view/4343060245) |
-
-## Skyparch Solutions - Jaipur, Rajasthan, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-05 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4449656162) |
 
 ## Slipstream Life Sciences - 
 | Date | Job Title | Link |
@@ -3142,13 +3117,14 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Snapscale Philippines - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-29 | Senior Salesforce Admin (India- Remote) | [Apply](https://www.linkedin.com/jobs/view/4444109425) |
 | 2026-07-29 | Senior Salesforce Administrator (Remote- India) | [Apply](https://www.linkedin.com/jobs/view/4444112382) |
+| 2026-07-29 | Senior Salesforce Admin (India- Remote) | [Apply](https://www.linkedin.com/jobs/view/4444109425) |
 
 ## Snowflake - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-31 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4447721175) |
+| 2026-07-31 | Commercial Account Executive | [Apply](https://www.linkedin.com/jobs/view/4447706351) |
 
 ## Solenis - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -3156,11 +3132,6 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | 2026-07-21 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4438724207) |
 | 2026-06-03 | Salesforce SME | [Apply](https://www.linkedin.com/jobs/view/4417676463) |
 | 2026-04-09 | Salesforce Systems Specialist | [Apply](https://www.linkedin.com/jobs/view/4396643858) |
-
-## Sonata Software - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-28 | Salesforce Consultant | [Apply](https://www.linkedin.com/jobs/view/4445462448) |
 
 ## Sonata Software - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -3170,18 +3141,18 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Sophos - 
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-11 | Data Quality Analyst (Salesforce Data Steward) | [Apply](https://www.linkedin.com/jobs/view/4452436909) |
 | 2026-08-04 | Senior Renewal Representative | [Apply](https://www.linkedin.com/jobs/view/4418109738) |
-| Unknown | Data Quality Analyst (Salesforce Data Steward) | [Apply](https://www.linkedin.com/jobs/view/4452436909) |
 
 ## Sophos - Ahmedabad, Gujarat, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-28 | Senior Territory Account Manager (Gujarat) | [Apply](https://www.linkedin.com/jobs/view/4409048214) |
 
-## Sopra Steria - Chennai, Tamil Nadu, India
+## Sophos - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-05-05 | Salesforce Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4404840261) |
+| 2026-07-28 | Senior Territory Account Manager (Chennai) | [Apply](https://www.linkedin.com/jobs/view/4409047324) |
 
 ## SourcingXPress - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3199,7 +3170,6 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-05-28 | Salesforce Presales Consultant | [Apply](https://www.linkedin.com/jobs/view/4418950467) |
-| 2026-05-11 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4411618086) |
 
 ## SpotOn - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3209,12 +3179,13 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Sprinklr - Gurgaon, Haryana, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-06 | Managed Services Consultant - Specialist | [Apply](https://www.linkedin.com/jobs/view/4431215628) |
 | 2026-08-05 | Account Executive - Consultant | [Apply](https://www.linkedin.com/jobs/view/4421687611) |
 
-## Stats Perform - Chennai, Tamil Nadu, India
+## StackNexus - 
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-21 | Salesforce Analyst & Administrator | [Apply](https://www.linkedin.com/jobs/view/4434330197) |
+| 2026-04-27 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4404688566) |
 
 ## Straive - Pune City, Maharashtra, India
 | Date | Job Title | Link |
@@ -3232,27 +3203,28 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | 2026-07-20 | Salesforce Architect | [Apply](https://www.linkedin.com/jobs/view/4442579072) |
 | 2026-07-20 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4442574293) |
 
+## Sutherland - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-05-13 | Salesforce Engineer - Lead | [Apply](https://www.linkedin.com/jobs/view/4413425925) |
+
 ## Sycurio - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4452431701) |
-
-## SymphonyAI - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-03 | Revenue Operations Manager | [Apply](https://www.linkedin.com/jobs/view/4420902031) |
+| 2026-08-11 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4452431701) |
 
 ## Synechron - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-10 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4451185453) |
-| 2026-07-15 | Principal Tech / Solutions Architect - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4438079248) |
 
 ## Syneos Health - Serilingampalli, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-07 | Data Engineer II | [Apply](https://www.linkedin.com/jobs/view/4450741525) |
 | 2026-07-08 | Senior Salesforce Engineer / Technical Lead- Hyderabad (Hybrid/ Shift 2) | [Apply](https://www.linkedin.com/jobs/view/4438273640) |
 | 2026-07-08 | Salesforce Engineer II, Service Cloud / Health Cloud | [Apply](https://www.linkedin.com/jobs/view/4438283389) |
+| 2026-06-23 | Senior Salesforce Engineer / Technical Lead- Hyderabad (Hybrid- Shift 2) | [Apply](https://www.linkedin.com/jobs/view/4432415626) |
 
 ## Synopsys Inc - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3267,15 +3239,15 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## TECHNIX TECHNOLOGY - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2025-04-11 | Salesforce Senior Engineer | [Apply](https://www.linkedin.com/jobs/view/4208239990) |
 | 2025-04-11 | Product Owner (Salesforce) | [Apply](https://www.linkedin.com/jobs/view/4208243332) |
 
 ## Takeda - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-08 | Software Developer | [Apply](https://www.linkedin.com/jobs/view/4439604221) |
 | 2026-08-08 | Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4439601429) |
+| 2026-08-08 | Software Developer | [Apply](https://www.linkedin.com/jobs/view/4439604221) |
 | 2026-08-06 | CRM Specialist | [Apply](https://www.linkedin.com/jobs/view/4438465530) |
-| 2026-07-23 | CRM Developer | [Apply](https://www.linkedin.com/jobs/view/4423197810) |
 
 ## Tata Consultancy Services - 
 | Date | Job Title | Link |
@@ -3292,28 +3264,27 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-11 | Head Presales | [Apply](https://www.linkedin.com/jobs/view/4451627605) |
+| 2026-08-07 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4450082759) |
 | 2026-07-29 | Salesforce Developer-FSL | [Apply](https://www.linkedin.com/jobs/view/4446422856) |
+| 2026-07-27 | Salesforce Development and Technical Design | [Apply](https://www.linkedin.com/jobs/view/4444873507) |
 | 2026-07-27 | Salesforce Service Cloud | [Apply](https://www.linkedin.com/jobs/view/4444896047) |
-| 2026-07-16 | salesforce omnistudio developer | [Apply](https://www.linkedin.com/jobs/view/4440740215) |
 | 2026-07-14 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4439864218) |
-| 2026-07-13 | Mega Walkin Drive for Salesforce Field Service Lightning on 18-Jul-26 Bangalore- TCS Yeshwantpur | [Apply](https://www.linkedin.com/jobs/view/4439785992) |
 
 ## Tata Consultancy Services - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-08-04 | Salesforce B2B Commerce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4448506474) |
+| 2026-07-31 | Salesforce LWC Developer | [Apply](https://www.linkedin.com/jobs/view/4447168575) |
 | 2026-07-17 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4441185625) |
-
-## Tata Consultancy Services - Gurugram, Haryana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-05 | Sr VMware Administrator/SME Walkin Interview @ Gurugram Location | [Apply](https://www.linkedin.com/jobs/view/4449113569) |
 
 ## Tata Consultancy Services - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-28 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4445488891) |
+| 2026-08-03 | Salesforce QA | [Apply](https://www.linkedin.com/jobs/view/4448186151) |
+| 2026-07-24 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4444306122) |
 | 2026-07-23 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4433863284) |
 | 2026-07-22 | Salesforce Service Cloud Voice Developer | [Apply](https://www.linkedin.com/jobs/view/4443113406) |
+| 2026-07-17 | Salesforce CPQ | [Apply](https://www.linkedin.com/jobs/view/4441168276) |
 
 ## Tata Consultancy Services - Indore, Madhya Pradesh, India
 | Date | Job Title | Link |
@@ -3338,7 +3309,7 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 ## Tata Consultancy Services - Pune City, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-04 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4448547854) |
+| 2026-08-07 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4450063375) |
 
 ## Tata Consultancy Services - Pune District, Maharashtra, India
 | Date | Job Title | Link |
@@ -3361,19 +3332,14 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-08-08 | Salesforce Revenue Cloud Developer | [Apply](https://www.linkedin.com/jobs/view/4380336124) |
 | 2026-07-31 | Salesforce Sales Cloud Specialist | [Apply](https://www.linkedin.com/jobs/view/4380324947) |
-| 2026-07-27 | Inside Sales Representative | [Apply](https://www.linkedin.com/jobs/view/4445916657) |
-
-## Teamware Solutions - 
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | Salesforce CDP | [Apply](https://www.linkedin.com/jobs/view/4452426716) |
 
 ## Tech @ Cloud Analogy - Noida, Uttar Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-13 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4440077188) |
-| 2026-05-04 | Developer - II | [Apply](https://www.linkedin.com/jobs/view/4410096258) |
+| 2026-04-23 | Business Analyst | [Apply](https://www.linkedin.com/jobs/view/4405804831) |
 | 2026-02-25 | Developer II | [Apply](https://www.linkedin.com/jobs/view/4377882703) |
+| 2026-02-16 | Developer - I | [Apply](https://www.linkedin.com/jobs/view/4373540360) |
 
 ## Tech ECS Limited - 
 | Date | Job Title | Link |
@@ -3381,45 +3347,25 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 | 2025-06-07 | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4243754857) |
 | 2025-01-08 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4116753310) |
 
-## TechMatrix Consulting - Kolkata metropolitan area, West Bengal, India
+## TekWissen India - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4452331964) |
+| 2026-08-07 | Data Engineer | [Apply](https://www.linkedin.com/jobs/view/4450338728) |
 
-## Technorover - Gurugram, Haryana, India
+## Tekskills Inc. - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4452689161) |
-
-## TekWissen India - Pune District, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-07 | Data Engineer | [Apply](https://www.linkedin.com/jobs/view/4450342609) |
+| Unknown | Salesloft Consultant | [Apply](https://www.linkedin.com/jobs/view/4453095379) |
 
 ## Teradata - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-31 | Go-To-Market Process Owner | [Apply](https://www.linkedin.com/jobs/view/4447102082) |
 
-## Teradata - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-21 | CPQ Techno Functional Lead | [Apply](https://www.linkedin.com/jobs/view/4434922932) |
-
 ## Teradata - Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-28 | Business Technology Analyst | [Apply](https://www.linkedin.com/jobs/view/4436081771) |
-
-## TestGrid.io - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-04-13 | Account Executive | [Apply](https://www.linkedin.com/jobs/view/4401398513) |
-
-## TestHiring - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-13 | Require a QA Engineer- Salesforce Sales Cloud in Bangalore | [Apply](https://www.linkedin.com/jobs/view/4439865609) |
+| 2026-07-23 | Go-To-Market Process Owner | [Apply](https://www.linkedin.com/jobs/view/4425851478) |
 
 ## The Cigna Group - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3436,11 +3382,6 @@ Senior Salesforce Developer (India) | [Apply](https://www.linkedin.com/jobs/view
 |---|---|---|
 | 2026-07-30 | Application Development Architect | [Apply](https://www.linkedin.com/jobs/view/4437031309) |
 
-## The Standard India - Bengaluru East, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-05-26 | Manager, Total Experience CRM Delivery | [Apply](https://www.linkedin.com/jobs/view/4418255879) |
-
 ## The Transformation Group - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -3451,7 +3392,17 @@ Engineer | [Apply](https://www.linkedin.com/jobs/view/4271304914) |
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-10 | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4449549668) |
-| 2026-07-28 | Oracle CPQ Developer | [Apply](https://www.linkedin.com/jobs/view/4445479982) |
+| 2026-07-02 | Oracle Cloud ERP Administrator | [Apply](https://www.linkedin.com/jobs/view/4432758067) |
+
+## Thomson Reuters - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-05 | Senior Systems Integration Engineer | [Apply](https://www.linkedin.com/jobs/view/4448972966) |
+
+## Thoucentric - Bengaluru East, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2025-12-04 | Salesforce Functional Consultant | [Apply](https://www.linkedin.com/jobs/view/4325850982) |
 
 ## ThoughtFocus - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3473,72 +3424,70 @@ Engineer | [Apply](https://www.linkedin.com/jobs/view/4271304914) |
 |---|---|---|
 | 2026-07-28 | Lead Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4443272737) |
 
+## Tomorrow World Technologies (TWT) - Itanagar, Arunachal Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-06-24 | OmniStudio / Vlocity Developer | [Apply](https://www.linkedin.com/jobs/view/4432803106) |
+
+## ToolJet - Bengaluru, Karnataka, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-06-19 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4429682797) |
+
 ## Trane Technologies - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-23 | Salesforce - Technical Manager | [Apply](https://www.linkedin.com/jobs/view/4443876952) |
-| 2026-07-23 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4443885746) |
 | 2026-07-23 | Salesforce Delivery Leader | [Apply](https://www.linkedin.com/jobs/view/4443870897) |
+| 2026-07-23 | Salesforce Technical Architect | [Apply](https://www.linkedin.com/jobs/view/4443885746) |
+| 2026-07-23 | Salesforce - Technical Manager | [Apply](https://www.linkedin.com/jobs/view/4443876952) |
 
-## TransUnion - Chennai, Tamil Nadu, India
+## TriNet - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Sr Analyst, Applications Support | [Apply](https://www.linkedin.com/jobs/view/4451669878) |
-
-## Trimble Inc. - 
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-24 | Technical Engineering Manager - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4386544035) |
-
-## Trimble Inc. - Chennai, Tamil Nadu, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-24 | Technical Engineering Manager - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4386545013) |
+| 2026-06-04 | Staff Salesforce Business Analyst | [Apply](https://www.linkedin.com/jobs/view/4423534574) |
 
 ## U.S. Bank - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-07 | Product Manager | [Apply](https://www.linkedin.com/jobs/view/4438871451) |
 | 2026-07-30 | Senior Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4446892971) |
-| 2026-07-18 | Senior Software Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4432101229) |
 | Unknown | Systems Architect | [Apply](https://www.linkedin.com/jobs/view/4452472236) |
+| Unknown | Senior Software Engineer - Salesforce | [Apply](https://www.linkedin.com/jobs/view/4432101229) |
 
 ## UKG - Bengaluru East, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-06-07 | Technical Lead (Agentforce Revenue Cloud) | [Apply](https://www.linkedin.com/jobs/view/4425051062) |
 | 2026-06-07 | Principal IT Software Engineer | [Apply](https://www.linkedin.com/jobs/view/4425068055) |
+
+## UPS - Chennai, Tamil Nadu, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-30 | Sr. Applications Developer (Location - Chennai) | [Apply](https://www.linkedin.com/jobs/view/4248975166) |
 
 ## US Pharmacopeia - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-31 | Senior Salesforce Product Manager | [Apply](https://www.linkedin.com/jobs/view/4447514994) |
 
+## UST - Ahmedabad, Gujarat, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-01 | Pre-Sales Solution Architect – Networks | [Apply](https://www.linkedin.com/jobs/view/4399936723) |
+
 ## UST - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-10 | Associate III - Business Analysis (Salesforce) | [Apply](https://www.linkedin.com/jobs/view/4449539812) |
+| 2026-08-03 | Project Manager II (Salesforce Engagement Manager / Delivery Manager) | [Apply](https://www.linkedin.com/jobs/view/4446223379) |
 
 ## UST - Chennai, Tamil Nadu, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-28 | Associate III - Sales Support | [Apply](https://www.linkedin.com/jobs/view/4443251134) |
 
-## UST - Kochi, Kerala, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-08 | Lead II - Enterprise Solutions (Salesforce Omnistudio Developer) | [Apply](https://www.linkedin.com/jobs/view/4420736250) |
-| 2026-07-24 | Certinia Developer | [Apply](https://www.linkedin.com/jobs/view/4441577873) |
-
-## Unisys - Bengaluru East, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-10 | Senior Salesforce Technical Architect - Field Service | [Apply](https://www.linkedin.com/jobs/view/4451523789) |
-
 ## Universal Robots - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-23 | Salesforce Developer (Universal Robots, Bangalore - India) | [Apply](https://www.linkedin.com/jobs/view/4432380574) |
+| 2026-07-23 | Salesforce Developer (Universal Robots, Bangalore - India) | [Apply](https://www.linkedin.com/jobs/view/4432390295) |
 
 ## UptimeAI Inc. - Itanagar, Arunachal Pradesh, India
 | Date | Job Title | Link |
@@ -3565,13 +3514,7 @@ Engineer | [Apply](https://www.linkedin.com/jobs/view/4271304914) |
 ## VRINDA INTERNATIONAL - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-21 | Salesforce CG Cloud Retail Execution Developer | [Apply](https://www.linkedin.com/jobs/view/4443124798) |
-
-## VRSamadhan - Mumbai, Maharashtra, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2025-04-09 | Project Manager/Salesforce Administrator
-Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
+| 2026-07-15 | Salesforce Data Cloud (Data 360) Engineer | [Apply](https://www.linkedin.com/jobs/view/4440659661) |
 
 ## Valmet - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
@@ -3583,7 +3526,6 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 |---|---|---|
 | 2026-08-05 | Salesforce Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4440917455) |
 | 2026-08-04 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4421820246) |
-| 2026-07-22 | SFMC Core-L3 Analyst | [Apply](https://www.linkedin.com/jobs/view/4443968793) |
 | 2026-07-21 | Hub Support(Saleforce-Multi Cloud) | [Apply](https://www.linkedin.com/jobs/view/4443553048) |
 
 ## Varasi Inc - Pune Division, Maharashtra, India
@@ -3601,47 +3543,26 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 |---|---|---|
 | 2026-07-31 | AI Revenue Operations Analyst | [Apply](https://www.linkedin.com/jobs/view/4445525912) |
 
-## Veradigm® - 
+## Veradigm® - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-28 | Sr. Business Analyst (Remote)- (Salesforce + Vonage) | [Apply](https://www.linkedin.com/jobs/view/4348457781) |
-
-## Vericut - Bangalore Urban, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-05 | Technical Sales Engineer | [Apply](https://www.linkedin.com/jobs/view/4437578740) |
+| 2026-08-08 | Salesforce Lightning Experience Cloud Developer | [Apply](https://www.linkedin.com/jobs/view/4414655573) |
 
 ## Verifone - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-03 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4447989423) |
 
-## Version 1 - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-30 | Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4426840954) |
-
 ## Virtusa - Andhra Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-08 | Salesforce Architect- FTE | [Apply](https://www.linkedin.com/jobs/view/4430602980) |
 | 2026-08-05 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4448079106) |
-| 2026-07-25 | Insidesales Specialist | [Apply](https://www.linkedin.com/jobs/view/4414005652) |
-
-## Virtusa - Bangalore Urban, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| Unknown | Insidesales Specialist | [Apply](https://www.linkedin.com/jobs/view/4440120453) |
 
 ## VisionWaves - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-05 | SME (Sales, Revenue & Customer Management) | [Apply](https://www.linkedin.com/jobs/view/4448064672) |
-
-## Voltas Limited - A TATA Enterprise - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-06-19 | Executive-Product Sales | [Apply](https://www.linkedin.com/jobs/view/4430766675) |
 
 ## WEKA - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3653,15 +3574,15 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 |---|---|---|
 | 2026-07-28 | (IND) STAFF, SOFTWARE ENGINEER | [Apply](https://www.linkedin.com/jobs/view/4414884948) |
 
+## Weave - 
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-25 | Manager - Salesforce Development (Salesforce Billing & Revenue Cloud) | [Apply](https://www.linkedin.com/jobs/view/4418063304) |
+
 ## WebEngage - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-21 | Business Development Representative - US Region | [Apply](https://www.linkedin.com/jobs/view/4443504447) |
-
-## Wilhelmsen Port Services - Chennai, Tamil Nadu, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-04 | Application Support Engineer | [Apply](https://www.linkedin.com/jobs/view/4421677333) |
 
 ## Wipro - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3673,13 +3594,14 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-09 | Manager, Enterprise Software Engineering -Salesforce Platform Administration & DevSecOps Lead | [Apply](https://www.linkedin.com/jobs/view/4415066815) |
+| 2026-08-04 | Lead Enterprise Architect | [Apply](https://www.linkedin.com/jobs/view/4432266582) |
 
 ## Worldpay - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-08-03 | Salesforce Developer - 3-7 Years –Pune | [Apply](https://www.linkedin.com/jobs/view/4448157267) |
-| 2026-08-03 | Salesforce Architect - 6-10Years -Pune | [Apply](https://www.linkedin.com/jobs/view/4448163170) |
 | 2026-08-03 | Salesforce CRM Administrator - 3-7Years -Pune | [Apply](https://www.linkedin.com/jobs/view/4448168049) |
+| 2026-08-03 | Salesforce Developer - 3-7 Years –Pune | [Apply](https://www.linkedin.com/jobs/view/4448157267) |
+| Unknown | Salesforce Release Manager - 5-8 Years – Pune | [Apply](https://www.linkedin.com/jobs/view/4453077366) |
 
 ## Worley - Mumbai, Maharashtra, India
 | Date | Job Title | Link |
@@ -3691,11 +3613,6 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 |---|---|---|
 | 2026-08-04 | Sales Director - Salesforce and AI | [Apply](https://www.linkedin.com/jobs/view/4446611495) |
 
-## Wrike - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-05 | Partner Operations Specialist | [Apply](https://www.linkedin.com/jobs/view/4440968428) |
-
 ## Wyre AI - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
@@ -3704,7 +3621,7 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 ## Xebia - Jaipur, Rajasthan, India
 | Date | Job Title | Link |
 |---|---|---|
-| Unknown | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4452190919) |
+| 2026-08-11 | Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4452190919) |
 
 ## XfilesPro - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3714,17 +3631,12 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 ## YASH Technologies - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-29 | Sr. Consultant - Salesforce Job | [Apply](https://www.linkedin.com/jobs/view/4417893153) |
+| 2026-08-05 | Tech Lead - Salesforce 2 Job | [Apply](https://www.linkedin.com/jobs/view/4449110281) |
 
 ## Yext - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4424209527) |
-
-## Yuno - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-06-19 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4440383788) |
 
 ## ZINFI Technologies, Inc. - 
 | Date | Job Title | Link |
@@ -3734,17 +3646,27 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 ## ZS - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-31 | Business Technology Solutions Manager- Salesforce Delivery | [Apply](https://www.linkedin.com/jobs/view/4264631034) |
-
-## ZainTECH - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-06-19 | Sales Development Representative | [Apply](https://www.linkedin.com/jobs/view/4430953773) |
+| 2026-07-13 | Senior Cloud Administrator | [Apply](https://www.linkedin.com/jobs/view/4437281431) |
 
 ## Zelis - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-24 | Salesforce Manager | [Apply](https://www.linkedin.com/jobs/view/4405539500) |
+
+## Zensar Technologies - Pune Division, Maharashtra, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-21 | Platform Architecture System | [Apply](https://www.linkedin.com/jobs/view/4434149115) |
+
+## Zimyo - Gurugram, Haryana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-06 | Assistant Manager - Enterprise Sales | [Apply](https://www.linkedin.com/jobs/view/4449991900) |
+
+## Zoetis - Hyderabad, Telangana, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-07-28 | Associate, CRM Developer | [Apply](https://www.linkedin.com/jobs/view/4445729299) |
 
 ## Zone IT Solutions - Jaipur, Rajasthan, India
 | Date | Job Title | Link |
@@ -3766,30 +3688,16 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 |---|---|---|
 | 2026-07-23 | Salesforce Engineer III | [Apply](https://www.linkedin.com/jobs/view/4397792819) |
 
-## ZoomInfo - Chennai, Tamil Nadu, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-03 | GTM Enablement Manager II | [Apply](https://www.linkedin.com/jobs/view/4448166497) |
-
 ## Zscaler - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-06 | Senior Business Systems Analyst (Salesforce) | [Apply](https://www.linkedin.com/jobs/view/4413280709) |
-
-## Zscaler - Bengaluru East, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-29 | Associate Analyst, Business Development Operations | [Apply](https://www.linkedin.com/jobs/view/4446589774) |
+| 2026-08-01 | Staff Business Systems Analyst (Salesforce) | [Apply](https://www.linkedin.com/jobs/view/4430905872) |
 
 ## Zuddl - Hyderabad, Telangana, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-07-22 | Solutions Consultant | [Apply](https://www.linkedin.com/jobs/view/4442909925) |
-
-## Zycus - Bengaluru, Karnataka, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-07-30 | Program Manager - ERP Implementation | [Apply](https://www.linkedin.com/jobs/view/4447023812) |
 
 ## algoleap - Hyderabad, Telangana, India
 | Date | Job Title | Link |
@@ -3806,17 +3714,16 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-11 | Salesforce Technical Lead | [Apply](https://www.linkedin.com/jobs/view/4451628427) |
-| 2026-07-24 | Salesforce Solution Analyst | [Apply](https://www.linkedin.com/jobs/view/4444072874) |
 
 ## dentsu - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
 |---|---|---|
+| 2026-07-28 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4445738799) |
 | 2026-06-05 | Lead Salesforce Administrator | [Apply](https://www.linkedin.com/jobs/view/4424546292) |
 
 ## dentsu - Pune Division, Maharashtra, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-31 | SF Data Cloud consultant | [Apply](https://www.linkedin.com/jobs/view/4447198574) |
 | 2026-07-31 | SFDC Consultant | [Apply](https://www.linkedin.com/jobs/view/4447187859) |
 
 ## dotSolved Systems Inc. - Chennai, Tamil Nadu, India
@@ -3829,16 +3736,16 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 |---|---|---|
 | 2026-07-31 | Associate Functional Analyst | [Apply](https://www.linkedin.com/jobs/view/4447502316) |
 
+## finspectra - Noida, Uttar Pradesh, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-05 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4447339796) |
+
 ## griddable.io - 
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-08-07 | Senior Project Manager | [Apply](https://www.linkedin.com/jobs/view/4450719706) |
-| 2026-08-05 | Director, Salesforce Program Leader | [Apply](https://www.linkedin.com/jobs/view/4448938741) |
-
-## iSpace, Inc. - Hyderabad, Telangana, India
-| Date | Job Title | Link |
-|---|---|---|
-| 2026-08-03 | Senior Salesforce Developer | [Apply](https://www.linkedin.com/jobs/view/4447983181) |
+| 2026-07-23 | Salesforce Technical Architect (Core & Revenue Cloud) | [Apply](https://www.linkedin.com/jobs/view/4444481660) |
 
 ## illumine - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3853,9 +3760,12 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 ## mindZvue - Indore, Madhya Pradesh, India
 | Date | Job Title | Link |
 |---|---|---|
-| 2026-07-23 | Revenue Cloud Technical Lead – RCA & Agentforce | [Apply](https://www.linkedin.com/jobs/view/4443490252) |
-| 2026-07-23 | Salesforce Engagement Lead (Business Analysis + Project Management) | [Apply](https://www.linkedin.com/jobs/view/4443490236) |
 | 2026-07-23 | Senior Salesforce Developer – AI & Agentforce | [Apply](https://www.linkedin.com/jobs/view/4443489967) |
+
+## mindZvue - Pune Division, Maharashtra, India
+| Date | Job Title | Link |
+|---|---|---|
+| 2026-08-05 | Senior Salesforce Developer – AI & Agentforce | [Apply](https://www.linkedin.com/jobs/view/4448961726) |
 
 ## nVent - Bengaluru, Karnataka, India
 | Date | Job Title | Link |
@@ -3866,12 +3776,15 @@ Manufacturing | [Apply](https://www.linkedin.com/jobs/view/4204760228) |
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-04-17 | Salesforce developer | [Apply](https://www.linkedin.com/jobs/view/4403502835) |
+| 2026-04-17 | SFMC (Salesforce Marketing cloud) | [Apply](https://www.linkedin.com/jobs/view/4403403101) |
+| 2026-03-17 | Salesforce CPQ Engineer | [Apply](https://www.linkedin.com/jobs/view/4386969511) |
 
 ## r3 Consultant - Jaipur, Rajasthan, India
 | Date | Job Title | Link |
 |---|---|---|
 | 2026-03-17 | Senior salesforce administrator | [Apply](https://www.linkedin.com/jobs/view/4386962800) |
 | 2025-12-26 | Product Manager | [Apply](https://www.linkedin.com/jobs/view/4346198663) |
+| 2025-09-20 | Revenue Operations Specialist | [Apply](https://www.linkedin.com/jobs/view/4303514511) |
 
 ## techcarrot - Hyderabad, Telangana, India
 | Date | Job Title | Link |
